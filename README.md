@@ -41,10 +41,12 @@ O trabalho está organizado nas seguintes etapas:
 
 | Integrante |
 | :--- |
-| **Nome do integrante 1** |
-| **Nome do integrante 2** |
-| **Nome do integrante 3** |
-| **Nome do integrante 4** |
+| **João Roberto Valentim** |
+| **Kevily da Silva Oliveira** |
+| **Marcos de Oliveira da Silva** |
+| **Matheus Damasceno Glória** |
+| **Nádia Maria Leão Xavier** |
+| **Renato Augusto Amazonas Gomes** |
 
 ---
 
