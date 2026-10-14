@@ -13,8 +13,7 @@
 <b>Disciplina:</b> Interação Humano-Computador (IHC) · UFAM / ICET
 </p>
 </div>
----
- 
+
 ## 📑 Sumário
  
 - [📌 Sobre o TP1](#-sobre-o-tp1)
@@ -46,11 +45,11 @@ permitindo o trabalho em equipe em tempo real.
  
 <div align="center">
 <!-- Substitua pelo caminho de uma captura de tela do sistema -->
-<img src="./TP1-IHC/00-lucid/imagens/lucid-destaque.png" alt="Captura de tela do sistema Lucid" width="600">
-<sub>Imagem de destaque: interface do Lucid.</sub>
+<img width="1160" height="870" alt="image" src="https://github.com/user-attachments/assets/beed6e4e-b787-4178-8e27-6ce3438d3cb6" />
+<sub>Imagem: interface do Lucidchart.</sub>
  
 </div>
----
+
  
 ## 🗂️ Estrutura do Trabalho
  
@@ -108,6 +107,7 @@ O trabalho está organizado nas seguintes etapas:
 <img src="https://img.shields.io/badge/Notion-7B2CBF?style=for-the-badge&logo=notion&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-6A1B9A?style=for-the-badge&logo=github&logoColor=white">
 </div>
+
 | Ferramenta | Utilização |
 | :--- | :--- |
 | **Maze** | Testes de usabilidade com usuários e coleta de métricas. |
