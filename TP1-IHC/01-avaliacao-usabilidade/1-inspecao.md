@@ -30,24 +30,30 @@ Na etapa de discriminação, os problemas reunidos na coleção foram analisados
 
 ### Evidência da reunião de discriminação
 
-<!-- Salve a imagem na pasta imagens e substitua o nome abaixo pelo arquivo real. -->
+![Equipe durante a discriminação dos problemas](imagens/discrimina%C3%A7%C3%A3o%205.jpeg)
 
-![Equipe realizando a discriminação dos problemas encontrados](imagens/discriminacao-equipe.png)
+*Figura 1 - Self como registro da equipe durante a etapa de discriminação.*
+
+[**Acessar a tabela de Discriminação no Notion**](https://app.notion.com/p/3f1d4fd66fdb804c95a1d6e2590d2873?v=08cd4fd66fdb824390aa086ac6f1c9e9&source=copy_link)
 
 
 ## Registros fotográficos
 
+<p align="center">
+  As imagens a seguir documentam as atividades realizadas pela equipe durante a inspeção de usabilidade.
+</p>
+
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="imagens/1.png" alt="Registro 1" width="100%">
+      <img src="imagens/1.jpeg" alt="Registro 1" width="400" height="240" style="object-fit: contain;">
       <br>
       <strong>Figura 1</strong>
       <br>
       Registro da inspeção
     </td>
     <td align="center" width="50%">
-      <img src="imagens/2.png" alt="Registro 2" width="100%">
+      <img src="imagens/2.jpeg" alt="Registro 2" width="400" height="240" style="object-fit: contain;">
       <br>
       <strong>Figura 2</strong>
       <br>
@@ -56,26 +62,28 @@ Na etapa de discriminação, os problemas reunidos na coleção foram analisados
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="imagens/3.png" alt="Registro 3" width="100%">
+      <img src="imagens/3.jpeg" alt="Registro 3" width="400" height="240" style="object-fit: contain;">
       <br>
       <strong>Figura 3</strong>
       <br>
       Análise dos registros
     </td>
     <td align="center" width="50%">
-      <img src="imagens/4.png" alt="Registro 4" width="100%">
+      <img src="imagens/4.jpeg" alt="Registro 4" width="400" height="240" style="object-fit: contain;">
       <br>
       <strong>Figura 4</strong>
       <br>
-      Discriminação dos resultados
+      Registro da atividade da equipe
     </td>
   </tr>
 </table>
 
 
-*Figuras - Registro da equipe durante a etapa de discriminação dos problemas identificados.*
+### Tela de Detecção no Notion
 
-[**Acessar a tabela de Discriminação no Notion**](COLE_AQUI_O_LINK_REAL)
+![Tela de Detecção no Notion](imagens/tela%20de%20detec%C3%A7%C3%A3o.png)
+
+*Figura 6 - Tela de organização da etapa de Detecção no Notion.*
 
 ## Etapa 4 - Relato dos resultados
 
