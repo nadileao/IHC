@@ -161,31 +161,31 @@ A tabela consolidada deve conter as seguintes colunas:
 
 *Observação: os registros devem ser preenchidos com os problemas efetivamente identificados pelos integrantes. A coluna de inspetor deve permitir identificar quem encontrou cada problema, inclusive quando houver mais de um avaliador associado ao mesmo registro.*
 
+
 ### 5.3. Discriminação de defeitos
 
-Na etapa de discriminação, os problemas reunidos na coleção são analisados para determinar se representam defeitos reais de usabilidade ou falsos positivos.
+Nesta etapa, a equipe analisou os problemas reunidos na coleção para classificá-los como defeitos reais de usabilidade ou falsos positivos.
 
-A análise considera a descrição do problema, sua localização na interface e a relação com a heurística indicada. Os registros classificados como falsos positivos não são incluídos no relato final de defeitos.
+A análise considerou a descrição dos problemas, sua localização na interface e a relação com as heurísticas de Nielsen. Os problemas classificados como falsos positivos não foram incluídos no relato final de defeitos.
 
-#### Tabela de discriminação
+A tabela completa da etapa de discriminação está disponível no Notion:
 
-[Inserir tabela com a classificação dos problemas]
-
-A tabela deve conter as seguintes colunas:
-
-| ID | Localização | Descrição do problema | Inspetor | Heurística violada | Classificação |
-|---|---|---|---|---|---|
-| [ID] | [Localização] | [Descrição] | [Nome do integrante] | [Código e nome da heurística] | [Defeito ou falso positivo] |
+**[Acessar a tabela de Discriminação de defeitos](https://app.notion.com/p/3f1d4fd66fdb804c95a1d6e2590d2873?v=08cd4fd66fdb824390aa086ac6f1c9e9&source=copy_link)**
 
 #### Registro da realização da etapa
 
-[Inserir fotografia da equipe durante a etapa de discriminação, presencialmente ou em reunião remota.]
+[Inserir fotografia real da equipe durante a discriminação, presencialmente ou em reunião remota.]
+
 
 ### 5.4. Relato dos resultados
 
-Na etapa final, são apresentados os problemas classificados como defeitos durante a discriminação.
+Nesta etapa, foram documentados os problemas confirmados como defeitos durante a discriminação.
 
-Cada problema deve ser documentado com sua identificação, localização, descrição, heurística violada, grau de severidade e sugestão de melhoria. Essa organização permite compreender a natureza dos problemas encontrados e propor alterações que possam melhorar a usabilidade do Lucidchart.
+O relatório final deve apresentar a identificação e a localização de cada problema, sua descrição, a heurística violada, o grau de severidade e as sugestões de melhoria.
+
+A tabela completa do relato dos resultados está disponível no Notion:
+
+**[Acessar a tabela de Relato dos resultados](https://app.notion.com/p/3f1d4fd66fdb80f49d96d399a37fa6f7?v=ce3d4fd66fdb833e9f6b887a3fa835a1&source=copy_link)**
 
 #### Classificação de severidade
 
@@ -200,15 +200,6 @@ A escala de severidade utilizada é a seguinte:
 | 3 | Grande | Problema de alta prioridade, que deve ser corrigido. |
 | 4 | Catastrófico | Problema muito grave, que deve ser corrigido com urgência. |
 
-#### Tabela final dos resultados
-
-[Inserir tabela final contendo somente os problemas classificados como defeitos.]
-
-A tabela final deve conter as seguintes colunas:
-
-| ID | Localização | Descrição do problema | Heurística violada | Grau de severidade | Sugestões de melhoria |
-|---|---|---|---|---|---|
-| [ID] | [Localização] | [Descrição] | [Código e nome da heurística] | [1, 2, 3 ou 4] | [Proposta de melhoria] |
 
 ## 6. Considerações finais
 
