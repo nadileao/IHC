@@ -151,15 +151,15 @@ Nesta etapa, são verificadas as ocorrências repetidas, correspondentes aos pro
 
 #### Tabela consolidada da coleção
 
-[Inserir tabela consolidada dos problemas identificados]
-
 A tabela consolidada deve conter as seguintes colunas:
 
 | ID | Localização | Descrição do problema | Inspetor | Heurística violada | Ocorrências |
 |---|---|---|---|---|---|
 | [ID] | [Localização] | [Descrição] | [Nome do integrante] | [Código e nome da heurística] | [Único ou repetido] |
 
-*Observação: os registros devem ser preenchidos com os problemas efetivamente identificados pelos integrantes. A coluna de inspetor deve permitir identificar quem encontrou cada problema, inclusive quando houver mais de um avaliador associado ao mesmo registro.*
+A tabela completa da etapa de coleção está disponível no Notion:
+
+**[Acessar a tabela de Coleção de defeitos](https://app.notion.com/p/3f1d4fd66fdb806596bbe05f027a6c4a?v=3f1d4fd66fdb80a69d7e000cb412127c&source=copy_link)**
 
 
 ### 5.3. Discriminação de defeitos
@@ -172,13 +172,13 @@ A tabela completa da etapa de discriminação está disponível no Notion:
 
 **[Acessar a tabela de Discriminação de defeitos](https://app.notion.com/p/3f1d4fd66fdb804c95a1d6e2590d2873?v=08cd4fd66fdb824390aa086ac6f1c9e9&source=copy_link)**
 
-#### Registro da realização da etapa
+#### 5.3.1. Registro da realização da etapa
 
 ![Equipe durante a discriminação dos problemas](imagens/discrimina%C3%A7%C3%A3o%205.jpeg)
 
 *Figura 1 - Self como registro da equipe durante a etapa de discriminação.*
 
-#### Registros fotográficos
+#### 5.3.2. Registros fotográficos
 
 <p>
   As imagens a seguir documentam as atividades realizadas pela equipe durante a inspeção de usabilidade.
