@@ -174,7 +174,50 @@ A tabela completa da etapa de discriminação está disponível no Notion:
 
 #### Registro da realização da etapa
 
-[Inserir fotografia real da equipe durante a discriminação, presencialmente ou em reunião remota.]
+![Equipe durante a discriminação dos problemas](imagens/discrimina%C3%A7%C3%A3o%205.jpeg)
+
+*Figura 1 - Self como registro da equipe durante a etapa de discriminação.*
+
+#### Registros fotográficos
+
+<p>
+  As imagens a seguir documentam as atividades realizadas pela equipe durante a inspeção de usabilidade.
+</p>
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="imagens/1.jpeg" alt="Registro 1" width="400" height="240" style="object-fit: contain;">
+      <br>
+      <strong>Figura 1</strong>
+      <br>
+      Registro da inspeção
+    </td>
+    <td align="center" width="50%">
+      <img src="imagens/2.jpeg" alt="Registro 2" width="400" height="240" style="object-fit: contain;">
+      <br>
+      <strong>Figura 2</strong>
+      <br>
+      Identificação de problemas
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="imagens/3.jpeg" alt="Registro 3" width="400" height="240" style="object-fit: contain;">
+      <br>
+      <strong>Figura 3</strong>
+      <br>
+      Análise dos registros
+    </td>
+    <td align="center" width="50%">
+      <img src="imagens/4.jpeg" alt="Registro 4" width="400" height="240" style="object-fit: contain;">
+      <br>
+      <strong>Figura 4</strong>
+      <br>
+      Registro da atividade da equipe
+    </td>
+  </tr>
+</table>
 
 
 ### 5.4. Relato dos resultados
