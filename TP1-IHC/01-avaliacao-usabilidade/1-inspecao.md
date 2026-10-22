@@ -54,6 +54,12 @@ Nesta etapa, cada integrante realiza a exploração individual do Lucidchart, pe
 
 Os problemas identificados são registrados em tabelas individuais, com um registro para cada problema encontrado. Cada registro deve conter um identificador, a localização do problema na interface, sua descrição e a heurística violada.
 
+### 5.2. Tela de Detecção no Notion
+
+![Tela de Detecção no Notion](imagens/tela%20de%20detec%C3%A7%C3%A3o%20do%20notion.png)
+
+*Figura 1 - Tela de organização da etapa de Detecção no Notion.*
+
 # Registros individuais dos integrantes
 
 ## Integrante 1 — [Nádia](https://app.notion.com/p/3f1d4fd66fdb80a2b3cdc22590dc1b20?v=9ecd4fd66fdb82b1ab6808c0e448e722&source=copy_link)
