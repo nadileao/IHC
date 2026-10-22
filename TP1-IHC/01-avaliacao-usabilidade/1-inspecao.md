@@ -81,7 +81,7 @@ Na etapa de discriminação, os problemas reunidos na coleção foram analisados
 
 ### Tela de Detecção no Notion
 
-![Tela de Detecção no Notion](imagens/tela%20de%20detec%C3%A7%C3%A3o.png)
+![Tela de Detecção no Notion](imagens/tela%20de%20detec%C3%A7%C3%A3o%20do%20notion.png)
 
 *Figura 6 - Tela de organização da etapa de Detecção no Notion.*
 
