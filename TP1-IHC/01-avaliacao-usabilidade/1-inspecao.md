@@ -131,6 +131,41 @@ O processo de inspeção foi dividido em quatro etapas: detecção, coleção, d
 
 [**Discriminação**](https://app.notion.com/p/3f1d4fd66fdb804c95a1d6e2590d2873?v=08cd4fd66fdb824390aa086ac6f1c9e9&source=copy_link)
 
+
+##### Evidência da reunião de discriminação
+
+![Equipe durante a discriminação dos problemas](imagens/discrimina%C3%A7%C3%A3o%205.jpeg)
+
+*Figura 2 - Self como registro da equipe durante a etapa de discriminação.*
+
+##### Registros fotográficos
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="imagens/1.jpeg" alt="Figura 3" width="400" height="240" style="object-fit: contain;">
+      <br>
+      <strong>Figura 3</strong>
+    </td>
+    <td align="center" width="50%">
+      <img src="imagens/2.jpeg" alt="Figura 4" width="400" height="240" style="object-fit: contain;">
+      <br>
+      <strong>Figura 4</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="imagens/3.jpeg" alt="Figura 5" width="400" height="240" style="object-fit: contain;">
+      <br>
+      <strong>Figura 5</strong>
+    </td>
+    <td align="center" width="50%">
+      <img src="imagens/4.jpeg" alt="Figura 6" width="400" height="240" style="object-fit: contain;">
+      <br>
+      <strong>Figura 6</strong>
+    </td>
+  </tr>
+</table>
+
 #### Etapa 4 - Relato dos resultados
 
 [**Relato dos resultados**](https://app.notion.com/p/3f1d4fd66fdb80f49d96d399a37fa6f7?v=ce3d4fd66fdb833e9f6b887a3fa835a1&source=copy_link)
