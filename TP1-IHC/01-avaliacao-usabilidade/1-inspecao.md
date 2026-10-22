@@ -1,23 +1,7 @@
 
 # Avaliação de Usabilidade — Inspeção Heurística
 
-## 1. Introdução
-
-Esta seção apresenta o processo de inspeção de usabilidade realizado no sistema Lucidchart, utilizando o método de Avaliação Heurística baseado nas dez heurísticas de usabilidade propostas por Jakob Nielsen.
-
-O objetivo da avaliação é identificar problemas de usabilidade na interface do sistema, considerando aspectos como a clareza das informações, a consistência dos elementos, a facilidade de aprendizagem, a eficiência da navegação e a compreensão das funcionalidades.
-
-A avaliação foi organizada em quatro etapas: detecção de defeitos, coleção de defeitos, discriminação de defeitos e relato dos resultados. O processo busca reunir os problemas identificados individualmente pelos integrantes, analisar sua validade e apresentar sugestões de melhoria para a interface.
-
-## 2. Objetivos e escopo da avaliação
-
-O objetivo geral da avaliação é identificar problemas de usabilidade presentes no Lucidchart por meio da análise de sua interface com base nas heurísticas de Nielsen.
-
-A inspeção abrange as telas e funcionalidades exploradas pelos integrantes durante a avaliação, incluindo a página inicial, a criação e edição de documentos, os ícones das ferramentas, a navegação entre as telas e a área de modelos.
-
-A análise considera os problemas observados durante a interação com o sistema, sem abranger funcionalidades que não tenham sido efetivamente avaliadas pelos integrantes.
-
-## 3. Método utilizado
+## Método utilizado
 
 A Avaliação Heurística é um método de inspeção de usabilidade no qual avaliadores examinam uma interface com base em princípios gerais de usabilidade, denominados heurísticas.
 
@@ -27,7 +11,7 @@ Durante a exploração, cada avaliador registra os problemas identificados, info
 
 Após as inspeções individuais, os registros são reunidos e comparados. Os problemas identificados são analisados para verificar possíveis repetições e determinar se representam defeitos reais de usabilidade ou falsos positivos. Por fim, os defeitos confirmados são organizados em um relatório com seus respectivos graus de severidade e sugestões de melhoria.
 
-## 4. Heurísticas de Nielsen
+## Heurísticas de Nielsen
 
 A inspeção utiliza as dez heurísticas apresentadas no material didático da disciplina de Interação Humano-Computador.
 
@@ -44,25 +28,21 @@ A inspeção utiliza as dez heurísticas apresentadas no material didático da d
 | H9 | Ajudar os usuários a reconhecer, diagnosticar e corrigir erros | Apresentar mensagens claras que expliquem o problema e indiquem como resolvê-lo. |
 | H10 | Ajuda e documentação | Disponibilizar ajuda e documentação para auxiliar o usuário na utilização do sistema. |
 
-## 5. Processo de inspeção
+## Processo de inspeção
 
 O processo de inspeção foi dividido em quatro etapas: detecção, coleção, discriminação e relato dos resultados.
 
-### 5.1. Detecção de defeitos
+## Registros da avaliação
 
-Nesta etapa, cada integrante realiza a exploração individual do Lucidchart, percorrendo suas telas e funcionalidades de maneira independente.
-
-Os problemas identificados são registrados em tabelas individuais, com um registro para cada problema encontrado. Cada registro deve conter um identificador, a localização do problema na interface, sua descrição e a heurística violada.
-
-### 5.2. Tela de Detecção no Notion
+### Tela de Detecção no Notion
 
 ![Tela de Detecção no Notion](imagens/tela%20de%20detec%C3%A7%C3%A3o%20do%20notion.png)
 
 *Figura 1 - Tela de organização da etapa de Detecção no Notion.*
 
-# Registros individuais dos integrantes
+### Registros individuais dos integrantes
 
-## Integrante 1 — [Nádia](https://app.notion.com/p/3f1d4fd66fdb80a2b3cdc22590dc1b20?v=9ecd4fd66fdb82b1ab6808c0e448e722&source=copy_link)
+#### Integrante 1 — [Nádia](https://app.notion.com/p/3f1d4fd66fdb80a2b3cdc22590dc1b20?v=9ecd4fd66fdb82b1ab6808c0e448e722&source=copy_link)
 
 | ID | Localização | Descrição do problema | Heurística violada |
 |---|---|---|---|
@@ -75,7 +55,7 @@ Os problemas identificados são registrados em tabelas individuais, com um regis
 | ND-07 | Painel lateral “Pesquisar formas e ferramentas”, na área de edição do Lucidchart | Na parte inferior do painel de formas, alguns elementos aparecem parcialmente visíveis. Ao utilizar a barra de rolagem vertical para visualizar o restante, ela chega ao limite sem permitir o acesso completo a essas formas. | H6. Reconhecer ao invés de relembrar |
 | ND-08 | Ferramenta de comentários do Lucidchart | Ao selecionar o ícone de comentários, a interface apresenta um painel lateral com a opção “Adicionar novo comentário”. Entretanto, clicar no botão “+” não inicia diretamente a escrita do comentário; é necessário clicar em uma região da página para abrir o campo de texto. | H3. Controle e liberdade do usuário; H8. Estética e design minimalista |
 
-## Integrante 2 — [Marcos](https://app.notion.com/p/3f1d4fd66fdb8030b9d8c96fcd92bc6e?v=322d4fd66fdb83c7b17b885390a22560&source=copy_link)
+#### Integrante 2 — [Marcos](https://app.notion.com/p/3f1d4fd66fdb8030b9d8c96fcd92bc6e?v=322d4fd66fdb83c7b17b885390a22560&source=copy_link)
 
 | ID | Localização | Descrição do problema | Heurística violada |
 |---|---|---|---|
@@ -90,7 +70,7 @@ Os problemas identificados são registrados em tabelas individuais, com um regis
 | MO-09 | Tela do editor — barra vertical de ferramentas à esquerda, cabeçalho direito e barra inferior | A maioria dos controles é representada apenas por ícones, sem rótulos visíveis, e alguns são ambíguos. Usuários iniciantes precisam passar o ponteiro sobre cada ícone para descobrir sua função, o que pode tornar a utilização das ferramentas mais lenta. | H6. Reconhecer ao invés de relembrar |
 | MO-10 | Tela do editor — painel esquerdo e barra vertical de ferramentas | Alguns itens, como texto, retângulo, seta, nota e busca, aparecem tanto no painel esquerdo quanto na barra vertical. Também existem dois pontos de acesso à busca: o campo “Pesquisar formas e ferramentas” e a lupa da barra vertical. Essa duplicação pode gerar dúvidas sobre a função de cada opção. | H4. Consistência e padrões; H8. Estética e design minimalista |
 
-## Integrante 3 — [Matheus](https://app.notion.com/p/3f1d4fd66fdb80dda92fe0e292e8548a?v=d1bd4fd66fdb820a8aef08225c422c8e&source=copy_link)
+#### Integrante 3 — [Matheus](https://app.notion.com/p/3f1d4fd66fdb80dda92fe0e292e8548a?v=d1bd4fd66fdb820a8aef08225c422c8e&source=copy_link)
 
 | ID | Localização | Descrição do problema | Heurística violada |
 |---|---|---|---|
@@ -104,7 +84,7 @@ Os problemas identificados são registrados em tabelas individuais, com um regis
 | MDG-09 | Tela 8 — Botões “Cancelar” e “Baixar” e seta “<” no cabeçalho | A tela apresenta três possíveis formas de saída ou navegação: a seta “<”, o botão “Cancelar” e o título “Fluxograma / Baixar”. Esses elementos podem gerar dúvidas sobre suas funções e apresentar redundância, embora ofereçam alternativas de navegação ao usuário. | H3. Controle e liberdade do usuário |
 | MDG-10 | Tela 12 — Cabeçalho, botão “Atualizar” e indicador “Plano gratuito” | A presença de dois elementos de promoção de planos no topo, “Plano gratuito” com menu e “Atualizar”, além de um ponto de notificação, pode competir visualmente com as funções principais da interface. | H8. Estética e design minimalista |
 
-## Integrante 4 — [Kevily](https://app.notion.com/p/3f1d4fd66fdb8093863febdce64bd65c?v=d5bd4fd66fdb8303985408ee8f76e8db&source=copy_link)
+#### Integrante 4 — [Kevily](https://app.notion.com/p/3f1d4fd66fdb8093863febdce64bd65c?v=d5bd4fd66fdb8303985408ee8f76e8db&source=copy_link)
 
 | ID | Localização | Descrição do problema | Heurística violada |
 |---|---|---|---|
@@ -120,7 +100,7 @@ Os problemas identificados são registrados em tabelas individuais, com um regis
 | KV-10 | Cabeçalho e rodapé | Os mesmos destinos são apresentados com nomes diferentes no cabeçalho e no rodapé, como “Falar com Vendas” e “Falar com dep. de vendas”, “Central de suporte” e “Suporte Técnico”, além de “Oficina de treinamentos” e “Laboratórios de treinamento Lucid”. Essas diferenças podem dificultar a identificação de links equivalentes. | H4. Consistência e padrões |
 | KV-11 | Página inicial — textos e lista de integrações | Mesmo na versão em português, há textos em inglês, incluindo nomes e descrições de integrações, como “Lucid Cards for Google Sheets”, e links como “Vagas” e “Plataforma para desenvolvedores” que direcionam para páginas em inglês. Essa mistura de idiomas pode dificultar a compreensão e prejudicar a consistência da experiência. | H2. Compatibilidade do sistema com o mundo real |
 
-## Integrante 5 — [João](https://app.notion.com/p/3f1d4fd66fdb8099a46be2d4922060cb?v=906d4fd66fdb8263990208612fd5e6c3&source=copy_link)
+#### Integrante 5 — [João](https://app.notion.com/p/3f1d4fd66fdb8099a46be2d4922060cb?v=906d4fd66fdb8263990208612fd5e6c3&source=copy_link)
 
 | ID | Localização | Descrição do problema | Heurística violada |
 |---|---|---|---|
@@ -131,7 +111,7 @@ Os problemas identificados são registrados em tabelas individuais, com um regis
 | JOAO-05 | Tela 5 — Edição do quadro branco | Os ícones da barra lateral não apresentam nomes visíveis, dificultando a identificação da função de cada ferramenta. Além disso, não há ajuda visível que auxilie o usuário a compreender essas funções. | H10. Ajuda e documentação; H4. Consistência e padrões |
 | JOAO-06 | Tela 6 — Exportação e apresentação do quadro | O botão de exportação está pouco visível, dificultando sua localização e tornando menos evidente como salvar o quadro em PDF ou imagem. | H6. Reconhecer ao invés de relembrar |
 
-## Integrante 6 — [Renato](https://app.notion.com/p/3f1d4fd66fdb80429943cbf5251fa880?v=345d4fd66fdb82518706881883753970&source=copy_link)
+#### Integrante 6 — [Renato](https://app.notion.com/p/3f1d4fd66fdb80429943cbf5251fa880?v=345d4fd66fdb82518706881883753970&source=copy_link)
 
 | ID | Localização | Descrição do problema | Heurística violada |
 |---|---|---|---|
@@ -143,103 +123,14 @@ Os problemas identificados são registrados em tabelas individuais, com um regis
 | RN-06 | Navegação entre as telas do Lucidchart | Ao acessar diferentes áreas do site, o carregamento demora alguns segundos, deixando a navegação mais lenta e prejudicando a agilidade na utilização da plataforma. | H7. Flexibilidade e eficiência de uso |
 | RN-07 | Área de modelos — barra de pesquisa | Ao pesquisar modelos, não há um histórico das pesquisas anteriores, o que dificulta retomar buscas realizadas anteriormente e encontrar novamente informações de interesse. | H6. Reconhecer ao invés de relembrar; H7. Flexibilidade e eficiência de uso |
 
-### 5.2. Coleção de defeitos
+#### Etapa 2 - Coleção
 
-Após a conclusão das inspeções individuais, os registros são reunidos em uma única tabela para comparação e organização dos problemas identificados pelos integrantes.
+[**Coleção**](https://app.notion.com/p/3f1d4fd66fdb806596bbe05f027a6c4a?v=3f1d4fd66fdb80a69d7e000cb412127c&source=copy_link)
 
-Nesta etapa, são verificadas as ocorrências repetidas, correspondentes aos problemas identificados por mais de um avaliador, e as ocorrências únicas, identificadas por apenas um avaliador. Os registros duplicados são agrupados para formar uma lista consolidada de possíveis problemas de usabilidade.
+#### Etapa 3 - Discriminação
 
-#### Tabela consolidada da coleção
+[**Discriminação**](https://app.notion.com/p/3f1d4fd66fdb804c95a1d6e2590d2873?v=08cd4fd66fdb824390aa086ac6f1c9e9&source=copy_link)
 
-A tabela consolidada deve conter as seguintes colunas:
+#### Etapa 4 - Relato dos resultados
 
-| ID | Localização | Descrição do problema | Inspetor | Heurística violada | Ocorrências |
-|---|---|---|---|---|---|
-| [ID] | [Localização] | [Descrição] | [Nome do integrante] | [Código e nome da heurística] | [Único ou repetido] |
-
-A tabela completa da etapa de coleção está disponível no Notion:
-
-**[Acessar a tabela de Coleção de defeitos](https://app.notion.com/p/3f1d4fd66fdb806596bbe05f027a6c4a?v=3f1d4fd66fdb80a69d7e000cb412127c&source=copy_link)**
-
-
-### 5.3. Discriminação de defeitos
-
-Nesta etapa, a equipe analisou os problemas reunidos na coleção para classificá-los como defeitos reais de usabilidade ou falsos positivos.
-
-A análise considerou a descrição dos problemas, sua localização na interface e a relação com as heurísticas de Nielsen. Os problemas classificados como falsos positivos não foram incluídos no relato final de defeitos.
-
-A tabela completa da etapa de discriminação está disponível no Notion:
-
-**[Acessar a tabela de Discriminação de defeitos](https://app.notion.com/p/3f1d4fd66fdb804c95a1d6e2590d2873?v=08cd4fd66fdb824390aa086ac6f1c9e9&source=copy_link)**
-
-#### 5.3.1. Registro da realização da etapa
-
-![Equipe durante a discriminação dos problemas](imagens/discrimina%C3%A7%C3%A3o%205.jpeg)
-
-*Figura 2 - Self como registro da equipe durante a etapa de discriminação.*
-
-#### 5.3.2. Registros fotográficos
-
-<p>
-  As imagens a seguir documentam as atividades realizadas pela equipe durante a discriminação de usabilidade.
-</p>
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="imagens/1.jpeg" alt="Figura 3" width="400" height="240" style="object-fit: contain;">
-      <br>
-      <strong>Figura 3</strong>
-    </td>
-    <td align="center" width="50%">
-      <img src="imagens/2.jpeg" alt="Figura 4" width="400" height="240" style="object-fit: contain;">
-      <br>
-      <strong>Figura 4</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <img src="imagens/3.jpeg" alt="Figura 5" width="400" height="240" style="object-fit: contain;">
-      <br>
-      <strong>Figura 5</strong>
-    </td>
-    <td align="center" width="50%">
-      <img src="imagens/4.jpeg" alt="Figura 6" width="400" height="240" style="object-fit: contain;">
-      <br>
-      <strong>Figura 6</strong>
-    </td>
-  </tr>
-</table>
-
-
-### 5.4. Relato dos resultados
-
-Nesta etapa, foram documentados os problemas confirmados como defeitos durante a discriminação.
-
-O relatório final deve apresentar a identificação e a localização de cada problema, sua descrição, a heurística violada, o grau de severidade e as sugestões de melhoria.
-
-A tabela completa do relato dos resultados está disponível no Notion:
-
-**[Acessar a tabela de Relato dos resultados](https://app.notion.com/p/3f1d4fd66fdb80f49d96d399a37fa6f7?v=ce3d4fd66fdb833e9f6b887a3fa835a1&source=copy_link)**
-
-#### Classificação de severidade
-
-A severidade dos problemas deve considerar três fatores: frequência com que o problema ocorre, impacto sobre a capacidade do usuário de superá-lo e persistência durante a utilização do sistema.
-
-A escala de severidade utilizada é a seguinte:
-
-| Grau | Classificação | Descrição |
-|---|---|---|
-| 1 | Cosmético | Problema que não exige solução imediata. |
-| 2 | Pequeno | Problema de baixa prioridade, que pode ser corrigido. |
-| 3 | Grande | Problema de alta prioridade, que deve ser corrigido. |
-| 4 | Catastrófico | Problema muito grave, que deve ser corrigido com urgência. |
-
-
-## 6. Considerações finais
-
-A inspeção heurística permite identificar aspectos da interface que podem dificultar a interação dos usuários com o Lucidchart. A utilização das heurísticas de Nielsen fornece critérios para analisar os problemas encontrados e fundamentar as sugestões de melhoria.
-
-A realização das quatro etapas permite organizar os registros individuais, identificar problemas repetidos, distinguir defeitos reais de falsos positivos e documentar os problemas confirmados com seus respectivos graus de severidade e recomendações.
-
-Após o preenchimento das tabelas e a conclusão da análise, os resultados permitirão apresentar uma visão organizada dos principais problemas de usabilidade identificados durante a avaliação do sistema.
+[**Relato dos resultados**](https://app.notion.com/p/3f1d4fd66fdb80f49d96d399a37fa6f7?v=ce3d4fd66fdb833e9f6b887a3fa835a1&source=copy_link)
