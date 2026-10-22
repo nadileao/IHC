@@ -1,5 +1,5 @@
 
-# Avaliação de Usabilidade — Inspeção Heurística
+# Avaliação de Usabilidade
 
 ## Método utilizado
 
