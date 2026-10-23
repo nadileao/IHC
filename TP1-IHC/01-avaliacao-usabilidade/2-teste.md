@@ -52,7 +52,7 @@ Avaliar a usabilidade do sistema Lucid durante a realização de tarefas de cria
 [Descrever os ajustes feitos após o piloto]
 ## 3. Execução
 ### Evidências
-![Participante realizando o teste](imagens/teste-p01.png)
+![Participante realizando o teste](imagens/jean fazendo teste.jpeg)
 *Figura 1 — Participante P01 durante a realização do teste.*
 ## 4. Análise dos Resultados
 ### Resultados por participante
