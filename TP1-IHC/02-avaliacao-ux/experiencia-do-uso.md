@@ -13,7 +13,7 @@ Ao todo, **6 participantes** responderam ao questionário.
 
 Os resultados obtidos permitem observar a percepção dos participantes em relação à experiência de uso da aplicação.
 
-![Resultados gerais do UEQ](imagens/ueq-resultados.png)
+![Resultados gerais do UEQ](imagens/grafic1.png)
 
 *Figura 1 — Resultados gerais da avaliação UEQ.*
 
@@ -21,7 +21,7 @@ Os resultados obtidos permitem observar a percepção dos participantes em rela�
 
 ### 3.1 Gráfico 1 — Médias das dimensões do UEQ
 
-![Médias das dimensões do UEQ](imagens/grafico-01.png)
+![Médias das dimensões do UEQ](imagens/grafico1.png)
 
 *Figura 2 — Médias obtidas em cada dimensão do UEQ.*
 
@@ -40,7 +40,7 @@ Os resultados indicam que Eficiência e Estimulação apresentaram as maiores m�
 
 ### 3.2 Gráfico 2 — Qualidade pragmática e hedônica
 
-![Qualidade pragmática e hedônica](imagens/grafico-02.png)
+![Qualidade pragmática e hedônica](imagens/grafico2.png)
 
 *Figura 3 — Comparação entre qualidade pragmática e qualidade hedônica.*
 
