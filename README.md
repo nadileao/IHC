@@ -110,7 +110,7 @@ O trabalho está organizado nas seguintes etapas:
 
 | Ferramenta | Utilização |
 | :--- | :--- |
-| **Maze** | Testes de usabilidade com usuários e coleta de métricas. |
+| **OBS** | Testes de usabilidade com usuários e coleta de métricas. |
 | **UEQ** | Questionário para mensuração da experiência do usuário. |
 | **ATLAS.ti** | Análise qualitativa e codificação dos dados coletados. |
 | **Notion** | Organização e documentação das atividades da equipe. |
