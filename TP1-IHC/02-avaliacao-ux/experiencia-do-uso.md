@@ -69,7 +69,7 @@ As respostas abertas devem ser inseridas abaixo, preservando o conteúdo origina
 
 As respostas foram analisadas com o auxílio do ATLAS.ti, ferramenta utilizada para organizar dados qualitativos, identificar temas recorrentes e relacionar os comentários às dimensões da experiência do usuário.
 
-![Citações e códigos no ATLAS.ti](imagens/atlas-citacoes-codigos.png)
+![Citações e códigos no ATLAS.ti](imagens/qualitativa1.png)
 
 *Figura 4 — Exemplo da organização de citações e códigos no ATLAS.ti.*
 
