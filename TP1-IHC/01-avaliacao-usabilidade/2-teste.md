@@ -144,72 +144,72 @@ Cada parte é acompanhada de tabela e explicação, para facilitar a leitura e a
 
 | Participante | Tarefa | Resultado | Tempo (s) | Erros | Observações |
 |:-------------|:-------|:---------:|----------:|------:|:------------|
-| RB-01 | T1 – Criar um documento | ❗ | 78 | 0 | Usuário foi por outro caminho |
-| RB-01 | T2 – Selecionar um modelo | ❗ | 107 | 0 | Sucesso com Dificuldade. |
-| RB-01 | T3 – Inserir e editar informações | ✅ | 308 | 0 | Sucesso com Dificuldade. Aparentemente o usuário não concluiu a tarefa e passa para a próxima etapa. |
-| RB-01 | T4 – Organizar e conectar os elementos | ❗ | 92 | 0 | Sucesso com Dificuldade. Usuário apresenta bastante dificuldade para organizar e conectar os elementos na interface. |
-| RB-01 | T5 – Ajustar a aparência | ❗ | 42 | 0 | Sucesso com Dificuldade. Usuário acha que concluiu tudo, demonstrando uma quebra de expectativa ou falta de feedback claro do sistema. |
-| RB-01 | T6 – Utilizar recursos complementares | ❗ | 188 | 0 | Sucesso com Dificuldade. Concluiu a utilização dos recursos complementares, mas enfrentou fricção na navegação. |
-| RB-01 | T7 – Renomear e exportar o documento | ❗ | 110 | 1 | Sucesso com Dificuldade. Concluiu a exportação, porém não foi realizada no formato PDF solicitado. |
-| RB-01 | T8 – Compartilhar com alguém | ❗ | 47 | 1 | Sucesso com Dificuldade. Fez o compartilhamento, mas faltaram algumas coisas descritas no roteiro das tarefas. |
-| FRS-02 | T1 – Criar um documento | ✅ | 22 | 0 | Sucesso com Dificuldade. Foi quase, mas conseguiu concluir a criação do documento. |
-| FRS-02 | T2 – Selecionar um modelo | ✅ | 20 | 0 | Sucesso. Usuário selecionou o modelo de forma rápida e eficiente. |
-| FRS-02 | T3 – Inserir e editar informações | ✅ | 176 | 0 | Sucesso com Dificuldade. Usuário completou a inserção, mas enfrentou lentidão nos menus de propriedades. |
-| FRS-02 | T4 – Organizar e conectar os elementos | ✅ | 54 | 0 | Sucesso com Dificuldade. Apresentou hesitação ao tentar ligar as setas entre os blocos. |
-| FRS-02 | T5 – Ajustar a aparência | ✅ | 30 | 0 | Sucesso com Dificuldade. Usuário alterou o estilo visual dos blocos, mas demonstrou lentidão para achar a paleta de cores. |
-| FRS-02 | T6 – Utilizar recursos complementares | ✅ | 74 | 0 | Sucesso com Dificuldade. Concluiu o uso de recursos extras após explorar os menus secundários com hesitação. |
-| FRS-02 | T7 – Renomear e exportar o documento | ❗ | 88 | 1 | Sucesso com Dificuldade. Ele acha que concluiu a tarefa de "exportar para PDF". |
-| FRS-02 | T8 – Compartilhar com alguém | ✅ | 27 | 0 | Sucesso com Dificuldade. Apresentou dificuldades visíveis para realizar essa parte de compartilhamento. |
-| LH-03 | T1 – Criar um documento | ✅ | 9 | 0 | Sucesso. Usuário criou o documento de forma extremamente rápida. |
-| LH-03 | T2 – Selecionar um modelo | ✅ | 11 | 0 | Sucesso. Selecionou o modelo com fluidez. |
-| LH-03 | T3 – Inserir e editar informações | ❗ | 210 | 1 | Sucesso com Dificuldade. Cometeu 1 erro e esqueceu de acionar o comando "tentar novamente". |
-| LH-03 | T4 – Organizar e conectar os elementos | ✅ | 143 | 0 | Sucesso. Realizado de forma limpa e sem fricção com a interface. |
-| LH-03 | T5 – Ajustar a aparência | ✅ | 87 | 0 | Sucesso. Realizado de forma limpa e sem fricção com a interface. |
-| LH-03 | T6 – Utilizar recursos complementares | ✅ | 121 | 0 | Sucesso. Realizado de forma limpa e sem fricção com a interface. |
-| LH-03 | T7 – Renomear e exportar o documento | ✅ | 44 | 0 | Sucesso. Realizado de forma limpa e sem fricção com a interface. |
-| LH-03 | T8 – Compartilhar com alguém | ✅ | 111 | 0 | Sucesso. Realizado de forma limpa e sem fricção com a interface. |
-| JO-04 | T1 – Criar um documento | ✅ | 73 | 0 | Sucesso. Fez certinho, mas demonstrava hesitação e dúvida constante durante a execução. |
-| JO-04 | T2 – Selecionar um modelo | ✅ | 107 | 0 | Sucesso com Dificuldade. Apresentou pequenas barreiras e voltou para etapas anteriores. |
-| JO-04 | T3 – Inserir e editar informações | ❗ | 912 | 2 | Sucesso com Dificuldade. Voltou para etapas anteriores, pulou para T4 antes de terminar e colocou credenciais no elemento errado duas vezes. |
-| JO-04 | T4 – Organizar e conectar os elementos | ✅ | 348 | 0 | Sucesso. Concluiu a organização, mas repetiu o mesmo processo desnecessariamente. |
-| JO-04 | T5 – Ajustar a aparência | ❌ | 47 | 1 | Insucesso. Pulou a etapa para ir direto para o T6 e não concluiu o ajuste de aparência. |
-| JO-04 | T6 – Utilizar recursos complementares | ❗ | 86 | 1 | Sucesso com Dificuldade. Comentou do jeito errado e adicionou um elemento físico em vez de abrir um balão de comentário. |
-| JO-04 | T7 – Renomear e exportar o documento | ❗ | 358 | 0 | Sucesso com Dificuldade. Voltou para as etapas anteriores várias vezes e repetiu a mesma tarefa desnecessariamente. |
-| JO-04 | T8 – Compartilhar com alguém | ❌ | 60 | 1 | Insucesso. Muita dificuldade para achar o link compartilhável. Adicionou o e-mail, mas não concluiu todas as sub-tarefas pedidas. |
-| C-05 | T1 – Criar um documento | ❌ | 21 | 3 | Usuário seleciona um modelo que já estava em rascunho (criado por outro usuário) e pensa erroneamente que concluiu a tarefa. |
-| C-05 | T2 – Selecionar um modelo | ❌ | 78 | 3 | Por erro induzido na tarefa anterior, o usuário pensa que está selecionando o modelo pelos elementos da barra esquerda onde aparece a palavra "fluxograma" |
-| C-05 | T3 – Inserir e editar informações | ❗ | 585 | 1 | Utilizou elementos errados, pois não era o modelo "fluxograma". Apresentou bastante dificuldade. |
-| C-05 | T4 – Organizar e conectar os elementos | ✅ | 288 | 0 | Apenas organizou os blocos. Sem intercorrências graves nesta etapa. |
-| C-05 | T5 – Ajustar a aparência | ✅ | 110 | 0 | Ajustou a aparência corretamente, porém criou outro fluxograma de forma manual e alterou as cores dele, em vez de alterar o fluxograma inicial que ela mesma havia criado. |
-| C-05 | T6 – Utilizar recursos complementares | ❗ | 173 | 0 | Usuário apresenta dificuldade na inserção e a tela se apresentou com as formas cortadas. |
-| C-05 | T7 – Renomear e exportar o documento | ❗ | 80 | 0 | Apresenta dificuldade no processo, indo por um caminho alternativo na parte de apresentação. |
-| C-05 | T8 – Compartilhar com alguém | ❗ | 120 | 0 | Usuário ficou um pouco perdido, pois não conseguia localizar o botão de "link compartilhável", só conseguindo visualizar o botão depois de clicar em "convidar". |
-| RK-06 | T1 – Criar um documento | ❗ | — | 0 | Executado corretamente, mas o avaliador não conseguiu registrar visualmente o processo. |
-| RK-06 | T2 – Selecionar um modelo | ❗ | — | 0 | Executado corretamente, mas o avaliador não conseguiu registrar visualmente o processo. |
-| RK-06 | T3 – Inserir e editar informações | ✅ | 206 | 0 | Execução perfeita e corretíssima. |
-| RK-06 | T4 – Organizar e conectar os elementos | ✅ | 303 | 0 | Execução perfeita e corretíssima. |
-| RK-06 | T5 – Ajustar a aparência | ✅ | 210 | 0 | Excelente desempenho. Usuário faz ajustes avançados para deixar o layout visualmente melhor. |
-| RK-06 | T6 – Utilizar recursos complementares | ✅ | 90 | 0 | Perfeito e certíssimo. Leu as tarefas com muita atenção e seguiu à risca. |
-| RK-06 | T7 – Renomear e exportar o documento | ❗ | 300 | 0 | Teve o desempenho afetado pelos outros usuários cadastrados na plataforma. Por conta do contexto anterior, o sistema abriu uma janela com a mensagem "comment-only sharing" (compartilhamento apenas para comentários), mas o usuário finalmente conseguiu abrir a tela correta. |
-| RK-06 | T8 – Compartilhar com alguém | ❌ | 55 | 3 | Insucesso por indução do sistema. Devido ao bloqueio na janela da tarefa anterior, o usuário pensou que havia concluído a ação apenas compartilhando o e-mail, não finalizando as etapas obrigatórias aqui |
-| MK-07 | T1 – Criar um documento | ❗ | 163 | 1 | Feito, mas esqueceu de selecionar a opção "a partir de um modelo". |
-| MK-07 | T2 – Selecionar um modelo | ❗ | 145 | 0 | O participante não seleciona o modelo manualmente porque o site o obriga a responder um questionário. O usuário acaba criando o modelo através da IA do próprio site. |
-| MK-07 | T3 – Inserir e editar informações | ❌ | — | 1 | Não fez a tarefa. |
-| MK-07 | T4 – Organizar e conectar os elementos | ❌ | 96 | 1 | O participante organizou de forma errada. Não seguiu o roteiro da tarefa e acabou apenas abraçando o modelo que a IA gerou para ele. |
-| MK-07 | T5 – Ajustar a aparência | ❗ | 56 | 2 | Tentou alterar as descrições e cores em elementos errados. |
-| MK-07 | T6 – Utilizar recursos complementares | ❗ | 42 | 0 | Adicionou elementos a mais no comentário. Não chega a ser um erro técnico, mas fugiu do que a tarefa pedia. |
-| MK-07 | T7 – Renomear e exportar o documento | ✅ | 164 | 1 | Usuário apresenta dificuldade ao exportar e nomeou o documento de forma incompleta. |
-| MK-07 | T8 – Compartilhar com alguém | ❌ | 31 | 3 | Colocou o e-mail, mas não mudou a permissão para "editar" e nem gerou o "link compartilhável". |
-| AM-08 | T1 – Criar um documento | ❗ | 68 | 2 | Criou o documento, mas por um caminho diferente. |
-| AM-08 | T2 – Selecionar um modelo | ✅ | 82 | 0 | Realizou a tarefa sem apresentar dificuldades. |
-| AM-08 | T3 – Inserir e editar informações | ✅ | 70 | 2 | Mesmo com 2 erros, conseguiu fazer a tarefa certa. |
-| AM-08 | T4 – Organizar e conectar os elementos | ❌ | — | — | Não realizou a tarefa por ter pulado a etapa. |
-| AM-08 | T5 – Ajustar a aparência | ❌ | — | — | Não realizou a tarefa por ter pulado a etapa. |
-| AM-08 | T6 – Utilizar recursos complementares | ❌ | — | — | Não realizou a tarefa por ter pulado a etapa. |
-| AM-08 | T7 – Renomear e exportar o documento | ❗ | 231 | 2 | Encontrou a função, mas com algumas dificuldades. |
-| AM-08 | T8 – Compartilhar com alguém | ✅ | 39 | 0 | Realizou a atividade sem apresentar dificuldades. |
+| P01 | T1 – Criar um documento | ❗ | 78 | 0 | Usuário foi por outro caminho |
+| P01 | T2 – Selecionar um modelo | ❗ | 107 | 0 | Sucesso com Dificuldade. |
+| P01 | T3 – Inserir e editar informações | ✅ | 308 | 0 | Sucesso com Dificuldade. Aparentemente o usuário não concluiu a tarefa e passa para a próxima etapa. |
+| P01 | T4 – Organizar e conectar os elementos | ❗ | 92 | 0 | Sucesso com Dificuldade. Usuário apresenta bastante dificuldade para organizar e conectar os elementos na interface. |
+| P01 | T5 – Ajustar a aparência | ❗ | 42 | 0 | Sucesso com Dificuldade. Usuário acha que concluiu tudo, demonstrando uma quebra de expectativa ou falta de feedback claro do sistema. |
+| P01 | T6 – Utilizar recursos complementares | ❗ | 188 | 0 | Sucesso com Dificuldade. Concluiu a utilização dos recursos complementares, mas enfrentou fricção na navegação. |
+| P01 | T7 – Renomear e exportar o documento | ❗ | 110 | 1 | Sucesso com Dificuldade. Concluiu a exportação, porém não foi realizada no formato PDF solicitado. |
+| P01 | T8 – Compartilhar com alguém | ❗ | 47 | 1 | Sucesso com Dificuldade. Fez o compartilhamento, mas faltaram algumas coisas descritas no roteiro das tarefas. |
+| P02 | T1 – Criar um documento | ✅ | 22 | 0 | Sucesso com Dificuldade. Foi quase, mas conseguiu concluir a criação do documento. |
+| P02 | T2 – Selecionar um modelo | ✅ | 20 | 0 | Sucesso. Usuário selecionou o modelo de forma rápida e eficiente. |
+| P02 | T3 – Inserir e editar informações | ✅ | 176 | 0 | Sucesso com Dificuldade. Usuário completou a inserção, mas enfrentou lentidão nos menus de propriedades. |
+| P02 | T4 – Organizar e conectar os elementos | ✅ | 54 | 0 | Sucesso com Dificuldade. Apresentou hesitação ao tentar ligar as setas entre os blocos. |
+| P02 | T5 – Ajustar a aparência | ✅ | 30 | 0 | Sucesso com Dificuldade. Usuário alterou o estilo visual dos blocos, mas demonstrou lentidão para achar a paleta de cores. |
+| P02 | T6 – Utilizar recursos complementares | ✅ | 74 | 0 | Sucesso com Dificuldade. Concluiu o uso de recursos extras após explorar os menus secundários com hesitação. |
+| P02 | T7 – Renomear e exportar o documento | ❗ | 88 | 1 | Sucesso com Dificuldade. Ele acha que concluiu a tarefa de "exportar para PDF". |
+| P02 | T8 – Compartilhar com alguém | ✅ | 27 | 0 | Sucesso com Dificuldade. Apresentou dificuldades visíveis para realizar essa parte de compartilhamento. |
+| P03 | T1 – Criar um documento | ✅ | 9 | 0 | Sucesso. Usuário criou o documento de forma extremamente rápida. |
+| P03 | T2 – Selecionar um modelo | ✅ | 11 | 0 | Sucesso. Selecionou o modelo com fluidez. |
+| P03 | T3 – Inserir e editar informações | ❗ | 210 | 1 | Sucesso com Dificuldade. Cometeu 1 erro e esqueceu de acionar o comando "tentar novamente". |
+| P03 | T4 – Organizar e conectar os elementos | ✅ | 143 | 0 | Sucesso. Realizado de forma limpa e sem fricção com a interface. |
+| P03 | T5 – Ajustar a aparência | ✅ | 87 | 0 | Sucesso. Realizado de forma limpa e sem fricção com a interface. |
+| P03 | T6 – Utilizar recursos complementares | ✅ | 121 | 0 | Sucesso. Realizado de forma limpa e sem fricção com a interface. |
+| P03 | T7 – Renomear e exportar o documento | ✅ | 44 | 0 | Sucesso. Realizado de forma limpa e sem fricção com a interface. |
+| P03 | T8 – Compartilhar com alguém | ✅ | 111 | 0 | Sucesso. Realizado de forma limpa e sem fricção com a interface. |
+| P04 | T1 – Criar um documento | ✅ | 73 | 0 | Sucesso. Fez certinho, mas demonstrava hesitação e dúvida constante durante a execução. |
+| P04 | T2 – Selecionar um modelo | ✅ | 107 | 0 | Sucesso com Dificuldade. Apresentou pequenas barreiras e voltou para etapas anteriores. |
+| P04 | T3 – Inserir e editar informações | ❗ | 912 | 2 | Sucesso com Dificuldade. Voltou para etapas anteriores, pulou para T4 antes de terminar e colocou credenciais no elemento errado duas vezes. |
+| P04 | T4 – Organizar e conectar os elementos | ✅ | 348 | 0 | Sucesso. Concluiu a organização, mas repetiu o mesmo processo desnecessariamente. |
+| P04 | T5 – Ajustar a aparência | ❌ | 47 | 1 | Insucesso. Pulou a etapa para ir direto para o T6 e não concluiu o ajuste de aparência. |
+| P04 | T6 – Utilizar recursos complementares | ❗ | 86 | 1 | Sucesso com Dificuldade. Comentou do jeito errado e adicionou um elemento físico em vez de abrir um balão de comentário. |
+| P04 | T7 – Renomear e exportar o documento | ❗ | 358 | 0 | Sucesso com Dificuldade. Voltou para as etapas anteriores várias vezes e repetiu a mesma tarefa desnecessariamente. |
+| P04 | T8 – Compartilhar com alguém | ❌ | 60 | 1 | Insucesso. Muita dificuldade para achar o link compartilhável. Adicionou o e-mail, mas não concluiu todas as sub-tarefas pedidas. |
+| P05 | T1 – Criar um documento | ❌ | 21 | 3 | Usuário seleciona um modelo que já estava em rascunho (criado por outro usuário) e pensa erroneamente que concluiu a tarefa. |
+| P05 | T2 – Selecionar um modelo | ❌ | 78 | 3 | Por erro induzido na tarefa anterior, o usuário pensa que está selecionando o modelo pelos elementos da barra esquerda onde aparece a palavra "fluxograma" |
+| P05 | T3 – Inserir e editar informações | ❗ | 585 | 1 | Utilizou elementos errados, pois não era o modelo "fluxograma". Apresentou bastante dificuldade. |
+| P05 | T4 – Organizar e conectar os elementos | ✅ | 288 | 0 | Apenas organizou os blocos. Sem intercorrências graves nesta etapa. |
+| P05 | T5 – Ajustar a aparência | ✅ | 110 | 0 | Ajustou a aparência corretamente, porém criou outro fluxograma de forma manual e alterou as cores dele, em vez de alterar o fluxograma inicial que ela mesma havia criado. |
+| P05 | T6 – Utilizar recursos complementares | ❗ | 173 | 0 | Usuário apresenta dificuldade na inserção e a tela se apresentou com as formas cortadas. |
+| P05 | T7 – Renomear e exportar o documento | ❗ | 80 | 0 | Apresenta dificuldade no processo, indo por um caminho alternativo na parte de apresentação. |
+| P05 | T8 – Compartilhar com alguém | ❗ | 120 | 0 | Usuário ficou um pouco perdido, pois não conseguia localizar o botão de "link compartilhável", só conseguindo visualizar o botão depois de clicar em "convidar". |
+| P06 | T1 – Criar um documento | ❗ | — | 0 | Executado corretamente, mas o avaliador não conseguiu registrar visualmente o processo. |
+| P06 | T2 – Selecionar um modelo | ❗ | — | 0 | Executado corretamente, mas o avaliador não conseguiu registrar visualmente o processo. |
+| P06 | T3 – Inserir e editar informações | ✅ | 206 | 0 | Execução perfeita e corretíssima. |
+| P06 | T4 – Organizar e conectar os elementos | ✅ | 303 | 0 | Execução perfeita e corretíssima. |
+| P06 | T5 – Ajustar a aparência | ✅ | 210 | 0 | Excelente desempenho. Usuário faz ajustes avançados para deixar o layout visualmente melhor. |
+| P06 | T6 – Utilizar recursos complementares | ✅ | 90 | 0 | Perfeito e certíssimo. Leu as tarefas com muita atenção e seguiu à risca. |
+| P06 | T7 – Renomear e exportar o documento | ❗ | 300 | 0 | Teve o desempenho afetado pelos outros usuários cadastrados na plataforma. Por conta do contexto anterior, o sistema abriu uma janela com a mensagem "comment-only sharing" (compartilhamento apenas para comentários), mas o usuário finalmente conseguiu abrir a tela correta. |
+| P06 | T8 – Compartilhar com alguém | ❌ | 55 | 3 | Insucesso por indução do sistema. Devido ao bloqueio na janela da tarefa anterior, o usuário pensou que havia concluído a ação apenas compartilhando o e-mail, não finalizando as etapas obrigatórias aqui |
+| P07 | T1 – Criar um documento | ❗ | 163 | 1 | Feito, mas esqueceu de selecionar a opção "a partir de um modelo". |
+| P07 | T2 – Selecionar um modelo | ❗ | 145 | 0 | O participante não seleciona o modelo manualmente porque o site o obriga a responder um questionário. O usuário acaba criando o modelo através da IA do próprio site. |
+| P07 | T3 – Inserir e editar informações | ❌ | — | 1 | Não fez a tarefa. |
+| P07 | T4 – Organizar e conectar os elementos | ❌ | 96 | 1 | O participante organizou de forma errada. Não seguiu o roteiro da tarefa e acabou apenas abraçando o modelo que a IA gerou para ele. |
+| P07 | T5 – Ajustar a aparência | ❗ | 56 | 2 | Tentou alterar as descrições e cores em elementos errados. |
+| P07 | T6 – Utilizar recursos complementares | ❗ | 42 | 0 | Adicionou elementos a mais no comentário. Não chega a ser um erro técnico, mas fugiu do que a tarefa pedia. |
+| P07 | T7 – Renomear e exportar o documento | ✅ | 164 | 1 | Usuário apresenta dificuldade ao exportar e nomeou o documento de forma incompleta. |
+| P07 | T8 – Compartilhar com alguém | ❌ | 31 | 3 | Colocou o e-mail, mas não mudou a permissão para "editar" e nem gerou o "link compartilhável". |
+| P08 | T1 – Criar um documento | ❗ | 68 | 2 | Criou o documento, mas por um caminho diferente. |
+| P08 | T2 – Selecionar um modelo | ✅ | 82 | 0 | Realizou a tarefa sem apresentar dificuldades. |
+| P08 | T3 – Inserir e editar informações | ✅ | 70 | 2 | Mesmo com 2 erros, conseguiu fazer a tarefa certa. |
+| P08 | T4 – Organizar e conectar os elementos | ❌ | — | — | Não realizou a tarefa por ter pulado a etapa. |
+| P08 | T5 – Ajustar a aparência | ❌ | — | — | Não realizou a tarefa por ter pulado a etapa. |
+| P08 | T6 – Utilizar recursos complementares | ❌ | — | — | Não realizou a tarefa por ter pulado a etapa. |
+| P08 | T7 – Renomear e exportar o documento | ❗ | 231 | 2 | Encontrou a função, mas com algumas dificuldades. |
+| P08 | T8 – Compartilhar com alguém | ✅ | 39 | 0 | Realizou a atividade sem apresentar dificuldades. |
 
-> **Explicação:** A tabela reúne as 64 execuções (8 participantes × 8 tarefas). Os participantes FRS-02 e LH-03 tiveram o melhor desempenho, com 7 sucessos plenos cada e nenhum insucesso. RB-01 concluiu todas as tarefas, mas quase sempre com dificuldade (7 de 8). Já JO-04, C-05, MK-07 e AM-08 concentraram os insucessos, e as observações mostram causas recorrentes: seguir caminhos alternativos, achar que a tarefa foi concluída quando não foi (T5, T7, T8) e pular etapas. Os campos com “—” correspondem a tempos não registrados: RK-06 (T1 e T2, falha de registro visual), MK-07 (T3, tarefa não realizada) e AM-08 (T4 a T6, etapas puladas). Esses valores ficaram fora das médias de tempo.
+> **Explicação:** A tabela reúne as 64 execuções (8 participantes × 8 tarefas). Os participantes P02 e P03 tiveram o melhor desempenho, com 7 sucessos plenos cada e nenhum insucesso. P01 concluiu todas as tarefas, mas quase sempre com dificuldade (7 de 8). Já P04, P05, P07 e P08 concentraram os insucessos, e as observações mostram causas recorrentes: seguir caminhos alternativos, achar que a tarefa foi concluída quando não foi (T5, T7, T8) e pular etapas. Os campos com “—” correspondem a tempos não registrados: P06 (T1 e T2, falha de registro visual), P07 (T3, tarefa não realizada) e P08 (T4 a T6, etapas puladas). Esses valores ficaram fora das médias de tempo.
 
 ### Resumo por participante
 
@@ -217,17 +217,17 @@ Cada parte é acompanhada de tabela e explicação, para facilitar a leitura e a
 
 | Participante | ✅ Sucesso | ❗ Com dificuldade | ❌ Insucesso | Tempo total (s) | Tempo médio por tarefa registrada (s) | Total de erros |
 |:-------------|:---------:|:-----------------:|:-----------:|----------------:|--------------------------------------:|---------------:|
-| RB-01 | 1 | 7 | 0 | 972 | 121,5 | 2 |
-| FRS-02 | 7 | 1 | 0 | 491 | 61,4 | 1 |
-| LH-03 | 7 | 1 | 0 | 736 | 92,0 | 1 |
-| JO-04 | 3 | 3 | 2 | 1991 | 248,9 | 5 |
-| C-05 | 2 | 4 | 2 | 1455 | 181,9 | 7 |
-| RK-06 | 4 | 3 | 1 | 1164 | 194,0 | 3 |
-| MK-07 | 1 | 4 | 3 | 697 | 99,6 | 9 |
-| AM-08 | 3 | 2 | 3 | 490 | 98,0 | 6 |
+| P01 | 1 | 7 | 0 | 972 | 121,5 | 2 |
+| P02 | 7 | 1 | 0 | 491 | 61,4 | 1 |
+| P03 | 7 | 1 | 0 | 736 | 92,0 | 1 |
+| P04 | 3 | 3 | 2 | 1991 | 248,9 | 5 |
+| P05 | 2 | 4 | 2 | 1455 | 181,9 | 7 |
+| P06 | 4 | 3 | 1 | 1164 | 194,0 | 3 |
+| P07 | 1 | 4 | 3 | 697 | 99,6 | 9 |
+| P08 | 3 | 2 | 3 | 490 | 98,0 | 6 |
 | **Total** | **28** | **25** | **11** | **7996** | **137,9** | **34** |
 
-> **Explicação:** Em 64 execuções, houve 28 sucessos plenos (43,8%), 25 sucessos com dificuldade (39,1%) e 11 insucessos (17,2%); ou seja, 53 execuções (82,8%) foram concluídas, mas menos da metade sem dificuldade. FRS-02 e LH-03 foram os mais eficazes, com tempos médios de cerca de 61 s e 92 s por tarefa. JO-04 foi o mais lento (1.991 s no total, com 912 s só na T3). MK-07 teve o maior número de erros (9) e C-05 vem em seguida (7). Em ambos, parte dos problemas veio de situações do próprio ambiente de teste, como o questionário obrigatório com IA (MK-07) e o modelo em rascunho criado por outro usuário (C-05). AM-08 teve 3 insucessos, mas 3 tarefas (T4 a T6) foram puladas, o que reduz a comparabilidade. Os tempos médios de RK-06 e AM-08 consideram apenas as tarefas com tempo registrado (6 e 5 tarefas, respectivamente).
+> **Explicação:** Em 64 execuções, houve 28 sucessos plenos (43,8%), 25 sucessos com dificuldade (39,1%) e 11 insucessos (17,2%); ou seja, 53 execuções (82,8%) foram concluídas, mas menos da metade sem dificuldade. P02 e P03 foram os mais eficazes, com tempos médios de cerca de 61 s e 92 s por tarefa. P04 foi o mais lento (1.991 s no total, com 912 s só na T3). P07 teve o maior número de erros (9) e P05 vem em seguida (7). Em ambos, parte dos problemas veio de situações do próprio ambiente de teste, como o questionário obrigatório com IA (P07) e o modelo em rascunho criado por outro usuário (P05). P08 teve 3 insucessos, mas 3 tarefas (T4 a T6) foram puladas, o que reduz a comparabilidade. Os tempos médios de P06 e P08 consideram apenas as tarefas com tempo registrado (6 e 5 tarefas, respectivamente).
 
 ### Consolidação por tarefa
 
