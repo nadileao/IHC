@@ -10,11 +10,18 @@ Ao todo, **8 participantes** responderam ao questionário. As respostas abertas 
 
 ## 2. Resultados gerais
 
-Os resultados gerais apresentam a percepção dos participantes nas seis dimensões avaliadas pelo UEQ.
+Os resultados gerais apresentam a percepção consolidada dos 8 participantes sobre o ecossistema do Lucidchart, mapeando o equilíbrio entre as suas dimensões detalhadas e as macro-qualidades de IHC.
 
-![Resultados gerais do UEQ](imagens/grafic1.png)
+![Panorama Geral da Experiência do Usuário - UEQ Lucidchart](ueq_panorama_geral_lucidchart.png)
 
-*Figura 1 — Resultados gerais da avaliação UEQ.*
+*Figura 1 — Panorama Geral da Experiência do Usuário (UEQ).*
+
+### 2.1 Análise Interpretativa do Panorama Geral
+O gráfico consolida o desempenho da plataforma dividida em três camadas analíticas complementares:
+
+*   **Qualidade Pragmática (+0,41):** Mostra que o sistema atende bem aos aspectos operacionais e práticos das tarefas. Esse bloco é puxado pelo equilíbrio positivo das dimensões funcionais de **Controlo (+0,438)**, **Eficiência (+0,406)** e **Transparência (+0,375)**. Os usuários reconhecem que a interface é clara e responsiva para a construção técnica de diagramas.
+*   **Qualidade Hedônica (+0,25):** Representa o calcanhar de Aquiles do sistema. Embora a dimensão de **Estimulação (+0,625)** indique que a proposta visual engaja e motiva o uso, a dimensão de **Inovação (-0,125)** afunda o bloco emocional na zona puramente negativa. Os usuários enxergam a ferramenta como puramente convencional, rígida e carente de diferenciais criativos (complexo de "mais do mesmo").
+*   **Atratividade Geral (+0,31):** O saldo global do sistema permanece positivo, porém tímido. A interface atende perfeitamente ao escopo utilitário racional do usuário, mas falha em cativar ou gerar uma experiência marcante de uso.
 
 ## 3. Análise quantitativa
 
