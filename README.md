@@ -29,23 +29,18 @@
  
 ## 📌 Sobre o TP1
  
-O TP1 consiste na avaliação do sistema **Lucid** sob diferentes perspectivas da
-Interação Humano-Computador (IHC), considerando aspectos relacionados à
-usabilidade, experiência do usuário, acessibilidade e comunicabilidade.
+O TP1 consiste na avaliação do sistema **Lucid** sob diferentes perspectivas da Interação Humano-Computador (IHC), considerando aspectos relacionados à usabilidade, experiência do usuário, acessibilidade e comunicabilidade.
  
 ---
  
 ## 📱 Sobre o Sistema: Lucid
  
-O **Lucid** é uma plataforma colaborativa baseada em nuvem para criação de
-diagramas, fluxogramas, mapas mentais e quadros visuais, voltada à comunicação
-de ideias e processos por meio de recursos gráficos. Reúne produtos como o
-**Lucidchart** (diagramação) e o **Lucidspark** (quadro branco colaborativo),
-permitindo o trabalho em equipe em tempo real.
+O **Lucid** é uma plataforma colaborativa baseada em nuvem para criação de diagramas, fluxogramas, mapas mentais e quadros visuais, voltada à comunicação
+de ideias e processos por meio de recursos gráficos. Reúne produtos como o **Lucidchart** (diagramação) e o **Lucidspark** (quadro branco colaborativo), permitindo o trabalho em equipe em tempo real.
  
 <div align="center">
 <!-- Substitua pelo caminho de uma captura de tela do sistema -->
-<img width="1160" height="870" alt="image" src="https://github.com/user-attachments/assets/beed6e4e-b787-4178-8e27-6ce3438d3cb6" />
+<img width="1000" height="870" alt="image" src="https://github.com/user-attachments/assets/beed6e4e-b787-4178-8e27-6ce3438d3cb6" />
 <sub>Imagem: interface do Lucidchart.</sub>
  
 </div>
@@ -99,24 +94,30 @@ O trabalho está organizado nas seguintes etapas:
 ---
  
 ## 🛠️ Tecnologias e Ferramentas
- 
+
 <div align="center">
 <img src="https://img.shields.io/badge/OBS_Studio-6A1B9A?style=for-the-badge&logo=obsstudio&logoColor=white">
 <img src="https://img.shields.io/badge/UEQ-7B2CBF?style=for-the-badge&logoColor=white">
 <img src="https://img.shields.io/badge/ATLAS.ti-6A1B9A?style=for-the-badge&logoColor=white">
 <img src="https://img.shields.io/badge/Notion-7B2CBF?style=for-the-badge&logo=notion&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-6A1B9A?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Google_Forms-7B2CBF?style=for-the-badge&logo=googleforms&logoColor=white">
+<img src="https://img.shields.io/badge/Google_Docs-6A1B9A?style=for-the-badge&logo=googledocs&logoColor=white">
+<img src="https://img.shields.io/badge/YouTube-7B2CBF?style=for-the-badge&logo=youtube&logoColor=white">
+<img src="https://img.shields.io/badge/Google_Drive-6A1B9A?style=for-the-badge&logo=googledrive&logoColor=white">
 </div>
 
 | Ferramenta | Utilização |
 | :--- | :--- |
-| **OBS** | Testes de usabilidade com usuários e coleta de métricas. |
+| **OBS** | Gravação das sessões (tela + áudio) dos testes de usabilidade e da avaliação de comunicabilidade. |
 | **UEQ** | Questionário para mensuração da experiência do usuário. |
 | **ATLAS.ti** | Análise qualitativa e codificação dos dados coletados. |
 | **Notion** | Organização e documentação das atividades da equipe. |
 | **GitHub** | Versionamento e publicação do trabalho. |
- 
-> ✏️ Ajuste a tabela conforme as ferramentas efetivamente utilizadas em cada avaliação.
+| **Google Forms** | Aplicação dos questionários de caracterização e pós-teste. |
+| **Google Docs** | Elaboração da ata da equipe e de documentos de apoio. |
+| **YouTube** | Hospedagem (modo não listado) dos vídeos das sessões de comunicabilidade. |
+| **Google Drive** | Armazenamento e compartilhamento de arquivos e evidências da equipe. |
  
 ---
  
@@ -137,19 +138,12 @@ O trabalho está organizado nas seguintes etapas:
  
 - Todo o material produzido está organizado por etapa, nas pastas indicadas acima.
 - Os dados coletados com participantes foram tratados exclusivamente para fins acadêmicos.
-- 
 ---
  
 ## 🤖 Declaração de Uso de IA
  
-Declaramos que ferramentas de Inteligência Artificial foram utilizadas neste
-trabalho de forma complementar, **sem substituir a responsabilidade da equipe
-sobre o conteúdo entregue**.
- 
-| Ferramenta | Atividade | Etapa(s) |
-| :--- | :--- | :---: |
-| *(ex.: Claude)* | Apoio à escrita e revisão textual | *(ex.: 00–04)* |
-| *(ex.: Claude)* | Organização de conteúdo e estruturação do README | *(ex.: README)* |
+Declaramos que ferramentas de Inteligência Artificial foram utilizadas neste trabalho de forma complementar, **sem substituir a responsabilidade da equipe sobre o conteúdo entregue**.
+
 ---
 
 <div align="center">
