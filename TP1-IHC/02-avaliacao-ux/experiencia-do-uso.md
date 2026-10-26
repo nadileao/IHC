@@ -12,8 +12,7 @@ Ao todo, **8 participantes** responderam ao questionário. As respostas abertas 
 
 Os resultados gerais apresentam a percepção consolidada dos 8 participantes sobre o ecossistema do Lucidchart, mapeando o equilíbrio entre as suas dimensões detalhadas e as macro-qualidades de IHC.
 
-![Panorama Geral da Experiência do Usuário - UEQ Lucidchart](ueq_panorama_geral_lucidchart.png)
-
+<img src="imagens/ueq_panorama_geral_lucidchart.png" alt="Panorama Geral da Experiência do Usuário" width="600">
 *Figura 1 — Panorama Geral da Experiência do Usuário (UEQ).*
 
 ### 2.1 Análise Interpretativa do Panorama Geral
