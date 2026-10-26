@@ -127,7 +127,7 @@ As respostas abaixo estão identificadas apenas por números, sem nomes ou outro
 
 As respostas foram importadas e analisadas no ATLAS.ti. A partir da leitura dos comentários, foram criados códigos que representam temas recorrentes, percepções positivas, dificuldades e sugestões. Em seguida, os códigos foram relacionados às dimensões do UEQ nas redes correspondentes.
 
-![Citações e códigos no ATLAS.ti](imagens/qualitativa1.png)
+![Citações e códigos no ATLAS.ti](imagens/qualitativa.png)
 
 *Figura 4 — Organização das citações e dos códigos no ATLAS.ti.*
 
