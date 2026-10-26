@@ -111,8 +111,34 @@ Esta seção apresenta o **registro detalhado das rupturas de comunicabilidade**
 > **A Tarefa 1 (criar uma conta no Lucid) foi o ponto mais crítico: os dois participantes tiveram muita dificuldade, porque a interface não deixa claro onde se cria a conta.** O cadastro gratuito e o login aparecem misturados em uma única tela, e quem já tem conta e quem ainda não tem entram pelo mesmo caminho, o que gera confusão. Isso aparece nas rupturas dos dois: o U1 foi levado automaticamente para uma conta Google antiga, recebeu a mensagem "dados incorretos" sem pista de como corrigir e só conseguiu criar a conta por um caminho alternativo ("Esqueceu a senha" → "Fazer login"); o U2, após criar a conta, caiu numa tela de assinatura sem orientação e foi levado direto para a edição, sem passar pela tela inicial. No caso do U2, essa falta de orientação se estendeu para a Tarefa 2, em que ele não percebeu que já estava em um documento em branco. Isso indica que o ponto que mais merece atenção no design é a **separação clara entre "criar conta" e "entrar"**, além de uma comunicação melhor sobre o que acontece depois do cadastro.
 
 ## Consolidação das etiquetas
-Explicar o que a tabela apresenta e discutir os resultados observados.
 
-Apresentar os principais resultados da avaliação, destacando quais etiquetas apareceram com maior
-frequência, quais tarefas apresentaram mais rupturas e o que esses resultados indicam sobre a comunicação
-entre o sistema e os usuários.
+A tabela abaixo soma as etiquetas atribuídas a cada participante e mostra as tarefas mais afetadas. No total, foram 17 rupturas: 12 do P1 e 5 do P2.
+
+| Etiqueta MAC | Ocorrências (P1) | Ocorrências (P2) | Total | Tarefas mais afetadas |
+|---|:---:|:---:|:---:|:---:|
+| Vai de outro jeito. | 4 | 0 | 4 | T1, T4, T7, T10 |
+| Cadê? | 3 | 0 | 3 | T7, T8, T10 |
+| Ué, o que houve? | 2 | 1 | 3 | T1 |
+| Por que não funciona? | 2 | 1 | 3 | T1, T2 |
+| E agora? | 0 | 1 | 1 | T1 |
+| Onde estou? | 0 | 1 | 1 | T2 |
+| Epa! | 0 | 1 | 1 | T8 |
+| Para mim está bom. | 1 | 0 | 1 | T7 |
+| **Total** | **12** | **5** | **17** | — |
+
+Tabela original no Notion: [Resultados observados](https://app.notion.com/p/405d4fd66fdb803c8762cd195b644192?v=71bd4fd66fdb83bc901e080c1cc14c45&source=copy_link)
+
+### Principais resultados
+
+- **Etiqueta mais frequente:** "Vai de outro jeito." (4 ocorrências). Em seguida, "Cadê?", "Ué, o que houve?" e "Por que não funciona?" (3 cada). As quatro somam 13 das 17 rupturas.
+- **Tarefa com mais rupturas:** a T1 (criar a conta), com 7 das 17. A T7 teve 3, e as T2, T8 e T10 tiveram 2 cada. As T3, T5, T6 e T9 não tiveram nenhuma.
+- **Conclusão das tarefas:** não houve "Desisto." nem "Não posso fazer isto.", ou seja, os dois participantes concluíram as tarefas, mas com dificuldade em alguns pontos.
+
+### O que isso indica
+
+Os resultados apontam dois problemas na comunicação do Lucid com o usuário:
+
+1. **Funções difíceis de encontrar.** "Cadê?" e "Vai de outro jeito." mostram que opções como voltar à tela inicial, mudar o modo de edição e marcar o documento como concluído não estão onde o usuário espera.
+2. **Respostas do sistema pouco claras.** "Ué, o que houve?" e "Por que não funciona?" aparecem sobretudo na criação da conta e do documento, quando o sistema redireciona ou mostra erros sem explicar o que aconteceu.
+
+Já as tarefas de edição dos diagramas foram bem compreendidas. Como foram apenas dois participantes, os resultados mostram tendências e não devem ser generalizados.
