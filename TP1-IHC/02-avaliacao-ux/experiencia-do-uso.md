@@ -244,15 +244,15 @@ As imagens utilizadas nesta documentação devem estar na pasta `imagens/`, loca
 .
 ├── README.md
 └── imagens/
+    ├── Atratividade.png
+    ├── Confiabilidade.png
+    ├── Eficiência.png
+    ├── Estimulação.png
+    ├── Novidade.png
+    ├── Perspicuidade.png
     ├── grafic1.png
-    ├── grafico1.png
     ├── grafico2.png
-    ├── qualitativa1.png
-    ├── atlas-lista-codigos.png
-    ├── rede-atratividade.png
-    ├── rede-perspicuidade.png
-    ├── rede-eficiencia.png
-    ├── rede-confiabilidade.png
-    ├── rede-estimulacao.png
-    └── rede-novidade.png
+    ├── grafico3.png
+    ├── qualitativa.png
+    └── qualitativa1.png
 ```
