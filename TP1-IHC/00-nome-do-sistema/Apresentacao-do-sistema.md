@@ -23,10 +23,7 @@
  
 ## 1. Qual sistema será avaliado?
  
-O sistema avaliado é o **Lucid**, uma plataforma de **colaboração visual** baseada
-em nuvem, desenvolvida pela Lucid Software. Ela permite criar, editar e compartilhar
-diagramas, fluxogramas, mapas mentais e quadros colaborativos diretamente no
-navegador, sem necessidade de instalação.
+O sistema avaliado é o **Lucid**, uma plataforma de **colaboração visual** baseada em nuvem, desenvolvida pela Lucid Software. Ela permite criar, editar e compartilhar diagramas, fluxogramas, mapas mentais e quadros colaborativos diretamente no navegador, sem necessidade de instalação.
  
 A plataforma reúne diferentes produtos:
  
@@ -44,8 +41,7 @@ A plataforma reúne diferentes produtos:
  
 ## 2. Qual é o domínio do sistema?
  
-O Lucid está inserido no domínio de **produtividade e colaboração visual**, com
-forte presença nas seguintes áreas:
+O Lucid está inserido no domínio de **produtividade e colaboração visual**, com forte presença nas seguintes áreas:
  
 | Área | Exemplo de uso |
 | :--- | :--- |
@@ -58,8 +54,7 @@ forte presença nas seguintes áreas:
  
 ## 3. Qual é a finalidade do sistema?
  
-O Lucid é utilizado para **representar visualmente ideias, processos e estruturas
-complexas**, facilitando a comunicação e o entendimento entre pessoas e equipes.
+O Lucid é utilizado para **representar visualmente ideias, processos e estruturas complexas**, facilitando a comunicação e o entendimento entre pessoas e equipes.
  
 Com ele, os usuários podem:
  
@@ -72,8 +67,7 @@ Com ele, os usuários podem:
  
 ## 4. Quem são os principais usuários do sistema?
  
-O Lucid atende a um público amplo, desde iniciantes até profissionais com
-necessidades mais avançadas de modelagem.
+O Lucid atende a um público amplo, desde iniciantes até profissionais com necessidades mais avançadas de modelagem.
  
 | Perfil | Necessidades principais | Nível de conhecimento |
 | :--- | :--- | :---: |
@@ -90,8 +84,7 @@ necessidades mais avançadas de modelagem.
  
 ## 5. Quais são as principais funcionalidades do sistema?
  
-Abaixo estão as funcionalidades mais relevantes para compreender o funcionamento
-do Lucid.
+Abaixo estão as funcionalidades mais relevantes para compreender o funcionamento do Lucid.
  
 | Funcionalidade | Descrição |
 | :--- | :--- |
@@ -118,8 +111,7 @@ flowchart LR
  
 ## 6. Qual será o escopo da avaliação?
  
-As avaliações realizadas neste trabalho concentram-se no **Lucidchart**, o
-principal produto da plataforma, em sua versão **web**.
+As avaliações realizadas neste trabalho concentram-se no **Lucidchart**, o principal produto da plataforma, em sua versão **web**.
  
 ### ✅ Incluído no escopo
  
@@ -136,6 +128,4 @@ principal produto da plataforma, em sua versão **web**.
 - Aplicativos móveis.
 - Integrações com ferramentas de terceiros.
 - Recursos exclusivos de planos pagos (empresariais).
-- Lucidspark e Lucidscale.
-> ✏️ **Equipe:** ajustem as listas acima conforme as partes e os fluxos que
-> realmente forem avaliados em cada etapa.
+- Lucidscale.
