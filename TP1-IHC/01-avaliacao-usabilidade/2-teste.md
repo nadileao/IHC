@@ -82,7 +82,7 @@ A pasta contém 8 vídeos, um para cada participante, identificados pelos códig
 Além das gravações, as figuras a seguir ilustra um momento da realização do teste.
 
 <p align="center">
-  <img src="imagens/jean%20fazendo%20teste.jpeg" alt="Participante durante a realização do teste piloto" width="450"><br>
+  <img src="imagens/teste piloto.jpeg" alt="Participante durante a realização do teste piloto" width="450"><br>
   <em>Figura 1 — Participante durante a realização do teste piloto.</em>
 </p>
 
