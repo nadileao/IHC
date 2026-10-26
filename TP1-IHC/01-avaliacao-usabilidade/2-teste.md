@@ -43,7 +43,13 @@ As instruções completas de cada tarefa estão disponíveis no documento: [Defi
 Dessa forma, o planejamento definiu o objetivo da avaliação, as tarefas a serem realizadas pelos participantes e os instrumentos de coleta de dados, estabelecendo a base para a condução do teste. A etapa seguinte consiste na realização do teste piloto, que permitiu verificar a adequação dessas definições antes da aplicação com os participantes.
 
 ## 2. Teste Piloto
+
+Antes da aplicação com os participantes, foi realizado um teste piloto com o objetivo de verificar a adequação do planejamento, em especial das tarefas e dos instrumentos de coleta de dados. 
+ 
+Esta seção descreve os ajustes realizados na lista de tarefas a partir dessa etapa, comparando a versão anterior com a versão final.
+
 ### Ajustes realizados
+
 Após o teste piloto, a lista de tarefas foi reajustada. Foram retiradas, simplificadas e reescritas algumas atividades, e uma nova tarefa foi incluída. A tabela a seguir resume as alterações.
 
 | Antes do piloto | Depois do piloto | Ajuste realizado |
@@ -65,10 +71,8 @@ Esta seção apresenta a execução do teste de usabilidade, realizada com a lis
  
 Em seguida, são apresentadas as evidências que documentam a realização do teste.
 
-
-
-
 ### Evidências
+
 Para documentar a realização do teste, foi feita a gravação de tela de cada participante enquanto executava as tarefas no sistema Lucid. As gravações foram editadas e reunidas em uma única pasta, que pode ser acessada no link abaixo:
 
 [Testes IHC - Vídeos](https://1drv.ms/f/c/1a63fe9cf7010b6c/IgBg4VASEXMFTIk5taP3KPGBAYKrhNs1CE01CYOP9o1lzIY?e=Rq0Ma7)
@@ -127,12 +131,29 @@ Os participantes responderam aos questionários pelo celular, conforme as figura
 As evidências apresentadas registram a realização do teste conforme o planejado. Os dados obtidos por meio da gravação de tela e dos questionários serviram de base para a análise dos resultados, apresentada na seção seguinte.
 
 ## 4. Análise dos Resultados
+ 
+Esta seção apresenta a análise dos dados coletados durante o teste de usabilidade. Os resultados são apresentados em etapas: primeiro, o desempenho de cada participante; depois, o resumo por participante e a consolidação por tarefa; em seguida, as respostas abertas e os fatores de usabilidade observados; e, por fim, as considerações sobre o teste.
+ 
+Cada parte é acompanhada de tabela e explicação, para facilitar a leitura e a localização das informações.
+ 
 ### Resultados por participante
-[Inserir tabela e explicação]
+ 
+[Inserir tabela e explicação.]
+ 
 ### Resumo por participante
-[Inserir tabela e explicação]
+ 
+[Inserir tabela e explicação.]
+ 
 ### Consolidação por tarefa
-[Inserir tabela e explicação]
+ 
+[Inserir tabela e explicação.]
+ 
 ### Respostas abertas e fatores de usabilidade
-[Inserir tabela e explicação]
+ 
+[Inserir tabela e explicação.]
+ 
 ### Considerações sobre o Teste de Usabilidade
+ 
+[Escrever as considerações finais.]
+ 
+Os resultados apresentados nesta seção fornecem subsídios para identificar os problemas de usabilidade do sistema Lucid e as oportunidades de melhoria na interface, conforme o objetivo definido no planejamento do teste.
