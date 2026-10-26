@@ -77,7 +77,7 @@ Para documentar a realização do teste, foi feita a gravação de tela de cada 
 
 [Testes IHC - Vídeos](https://1drv.ms/f/c/1a63fe9cf7010b6c/IgBg4VASEXMFTIk5taP3KPGBAYKrhNs1CE01CYOP9o1lzIY?e=Rq0Ma7)
 
-A pasta contém 8 vídeos, um para cada participante, identificados pelos códigos P01 a P08, conforme a tabela a seguir.
+A pasta contém 8 vídeos, um para cada participante, identificados pelos códigos P01 a P08.
 
 Além das gravações, as figuras a seguir ilustra um momento da realização do teste.
 
