@@ -186,7 +186,7 @@ Foram construídas seis redes, uma para cada dimensão do UEQ. Elas mostram as a
 
 #### 4.4.1 Atratividade
 
-![Rede de Atratividade](imagens/rede-atratividade.png)
+![Rede de Atratividade](imagens/Atratividade.png)
 
 *Figura 6 — Rede de códigos relacionada à dimensão Atratividade.*
 
@@ -194,7 +194,7 @@ A Atratividade está relacionada à impressão geral que o usuário tem da aplic
 
 #### 4.4.2 Perspicuidade
 
-![Rede de Perspicuidade](imagens/rede-perspicuidade.png)
+![Rede de Perspicuidade](imagens/Perspicuidade.png)
 
 *Figura 7 — Rede de códigos relacionada à dimensão Perspicuidade.*
 
@@ -202,7 +202,7 @@ A Perspicuidade está relacionada à facilidade de compreender a aplicação e a
 
 #### 4.4.3 Eficiência
 
-![Rede de Eficiência](imagens/rede-eficiencia.png)
+![Rede de Eficiência](imagens/Efici%C3%AAncia.png)
 
 *Figura 8 — Rede de códigos relacionada à dimensão Eficiência.*
 
@@ -210,7 +210,7 @@ A Eficiência está relacionada à facilidade e à fluidez na realização das t
 
 #### 4.4.4 Confiabilidade
 
-![Rede de Confiabilidade](imagens/rede-confiabilidade.png)
+![Rede de Confiabilidade](imagens/Confiabilidade.png)
 
 *Figura 9 — Rede de códigos relacionada à dimensão Confiabilidade.*
 
@@ -218,7 +218,7 @@ A Confiabilidade está relacionada à previsibilidade e ao controle percebidos d
 
 #### 4.4.5 Estimulação
 
-![Rede de Estimulação](imagens/rede-estimulacao.png)
+![Rede de Estimulação](imagens/Estimula%C3%A7%C3%A3o.png)
 
 *Figura 10 — Rede de códigos relacionada à dimensão Estimulação.*
 
@@ -226,7 +226,7 @@ A Estimulação está relacionada ao interesse e à motivação proporcionados p
 
 #### 4.4.6 Novidade
 
-![Rede de Novidade](imagens/rede-novidade.png)
+![Rede de Novidade](imagens/Novidade.png)
 
 *Figura 11 — Rede de códigos relacionada à dimensão Novidade.*
 
