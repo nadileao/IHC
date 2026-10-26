@@ -71,7 +71,7 @@ Esta seção apresenta o **registro detalhado das rupturas de comunicabilidade**
 - **Etiqueta MAC:** a expressão de comunicabilidade atribuída ao trecho.
 - **Interpretação:** a justificativa da etiqueta, ou seja, por que aquele trecho indica uma ruptura na comunicação entre designer e usuário.
 
-> 🔗 **Tabelas originais no Notion:** [Participante 01](LINK-NOTION-P1) · [Participante 02](LINK-NOTION-P2)
+> 🔗 **Tabelas originais no Notion:** [Participante 01](https://app.notion.com/p/faed4fd66fdb829da1be81a2c928d15d?v=cf2d4fd66fdb824d9e1c88fe6954863c&source=copy_link) · [Participante 02](https://app.notion.com/p/404d4fd66fdb80b88e85dbe9aad377b3?v=1fad4fd66fdb836ebd8f088c902b1015&source=copy_link)
 
 ---
 
