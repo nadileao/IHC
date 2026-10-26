@@ -82,7 +82,7 @@ A pasta contém 8 vídeos, um para cada participante, identificados pelos códig
 Além das gravações, as figuras a seguir ilustra um momento da realização do teste.
 
 <p align="center">
-  <img src="imagens/teste piloto.jpeg" alt="Participante durante a realização do teste piloto" width="450"><br>
+  <img src="imagens/%20teste%20piloto.jpeg" alt="Participante durante a realização do teste piloto" width="450"><br>
   <em>Figura 1 — Participante durante a realização do teste piloto.</em>
 </p>
 
@@ -136,7 +136,7 @@ Esta seção apresenta a análise dos dados coletados durante o teste de usabili
 
 Cada parte é acompanhada de tabela e explicação, para facilitar a leitura e a localização das informações.
 
-**Legenda:** ✅ sucesso · ❗ sucesso com dificuldade · ❌ insucesso · — dado não registrado (tempo `0` ou em branco na planilha original, por falha de registro ou tarefa pulada).
+**Legenda:** ✅ sucesso · ❗ sucesso com dificuldade · ❌ insucesso 
 
 ### Resultados por participante
 
