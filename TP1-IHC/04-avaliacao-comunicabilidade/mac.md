@@ -62,7 +62,53 @@ Os vídeos das sessões de avaliação podem ser acessados pelos links abaixo:
 - [Vídeo do participante U1](https://youtu.be/8wAkY85DSBY)
 - [Vídeo do participante U2](https://youtu.be/RGJXMOBjnRM)
 ## Etiquetagem das rupturas
-Explicar o que a tabela apresenta e discutir os resultados observados.
+
+Esta seção apresenta o **registro detalhado das rupturas de comunicabilidade** observadas durante as sessões de avaliação do Lucid, uma tabela para cada participante. Cada linha corresponde a um momento da interação em que houve dificuldade de interpretação da interface e traz:
+
+- **Tarefa:** em qual das 10 tarefas a ruptura ocorreu (T1 a T10).
+- **Timestamp:** o intervalo do vídeo da sessão em que o trecho pode ser conferido.
+- **Trecho observado:** o que o participante fez ou disse naquele momento.
+- **Etiqueta MAC:** a expressão de comunicabilidade atribuída ao trecho.
+- **Interpretação:** a justificativa da etiqueta, ou seja, por que aquele trecho indica uma ruptura na comunicação entre designer e usuário.
+
+> 🔗 **Tabelas originais no Notion:** [Participante 01](LINK-NOTION-P1) · [Participante 02](LINK-NOTION-P2)
+
+---
+
+### 👤 Participante 1 (U1)
+
+| Tarefa | Timestamp | Trecho observado | Etiqueta MAC | Interpretação |
+|:---:|:---:|---|:---:|---|
+| T1 | 00:41 a 00:52 | Ao tentar entrar com a conta Google, o sistema acessou automaticamente uma conta que já havia sido utilizada anteriormente. | **Ué, o que houve?** | Ele esperava entrar no Lucid usando sua conta google , mas o sistema entrou direto com outra conta. A reação não bateu com o que ele imaginava. |
+| T1 | 01:38 a 01:50 | O participante tentou realizar o login com e-mail e senha , mas o sistema retornou a mensagem de "dados incorretos". | **Por que não funciona?** | A mensagem não deu pista do que estava errado ou informar se é por aquele caminho que criar a conta e nem da a opção de fazer um conta, e ele não soube o que corrigir. |
+| T1 | 02:44 a 02:57 | O participante tentou novamente realizar o login com e-mail e senha , mas o sistema retornou a mensagem de "dados incorretos". | **Por que não funciona?** | O participante repetiu a tentativa e continuou sem entender a causa do erro. |
+| T1 | 03:05 a 03:19 | Tentou de novo entrar com a conta Google, o sistema acessou automaticamente uma conta que já havia sido utilizada anteriormente,mesmo após o participante ter saído dela. | **Ué, o que houve?** | Ele saiu da conta justamente para poder trocar, mas o sistema continuou entrando na outra conta. Nada indicava como escolher outra conta. |
+| T1 | 03:40 a 04:26 | Após algumas tentativas o participante encontrou outro caminho para criar a conta, navegando por outra tela ("Esqueceu a senha" → "Fazer login"). | **Vai de outro jeito.** | Diante da dificuldade para localizar o fluxo de cadastro, o participante abandonou a estratégia inicial e encontrou um caminho alternativo para criar a conta. |
+| T4 | 08:30 a 08:53 | Ao perceber que adaptar o modelo não produziria o resultado desejado, o participante excluiu todo o modelo e decidiu construir o fluxograma do zero utilizando as formas disponíveis. | **Vai de outro jeito.** | O participante abandonou a adaptação do modelo existente e optou por criar um novo fluxograma do zero, indicando que o caminho inicialmente proposto pela interface não atendeu às suas expectativas. |
+| T7 | 15:40 a 16:02 | Ao substituir a imagem de um funcionário, a imagem ficou cinza. Não aparecendo a imagem que escolheu pela web,mas decidiu continuar a tarefa sem tentar corrigi-lo. | **Para mim está bom.** | Ao perceber que a imagem do organograma permaneceu cinza, o participante aceitou o resultado e prosseguiu com a tarefa sem tentar corrigir a situação ou entender porque sua imagem ficou cinza,e o sistema não notificou algum erro. |
+| T7 | 16:32 a 16:38 | Após concluir a edição, o participante não encontrou uma opção para voltar à tela inicial do sistema e utilizou a aba do navegador para retornar. | **Cadê?** | O participante procurou um botão de voltar dentro do sistema e não encontrou, então recorreu ao navegador.Indicando que essa função não é visivel para o usuario. |
+| T7 | 16:40 a 16:46 | Como alternativa para retornar ao início, o participante utilizou aba já aberta da tela incial que estava no navegador. | **Vai de outro jeito.** | Sem identificar um caminho de voltar dentro do sistema, decidiu usar uma aba aberta da tela inicial no navegador. |
+| T8 | 17:40 a 17:55 | O participante comentou que não gostou dessa parte da interface e que foi difícil encontrar a opção para alterar o modo de edição, embora tenha conseguido realizar a ação. | **Cadê?** | A interface não comunicou claramente onde estava localizada a opção para alterar o modo de edição para Lucidspark, levando o participante a procurar até encontrá-la. |
+| T10 | 19:50 a 19:55 | O participante comentou que a opção para marcar o documento como "Concluído" estava escondida. Inicialmente procurou essa opção dentro do documento e somente a encontrou após sair para a tela externa. | **Cadê?** | O participante esperava encontrar a opção "Concluído" durante a edição do documento, mas a funcionalidade não era facilmente perceptível para ele. Isso gerou dificuldade para localizar o comando, indicando que a interface não comunicou de forma clara onde a ação deveria ser realizada. |
+| T10 | 19:56 a 20:12 | Após não localizar a opção dentro do documento, o participante saiu da edição e encontrou a funcionalidade na tela externa. | **Vai de outro jeito.** | Mudou de estratégia e saiu do documento, onde finalmente encontrou o que procurava. |
+
+---
+
+### 👤 Participante 2 (U2)
+
+| Tarefa | Timestamp | Trecho observado | Etiqueta MAC | Interpretação |
+|:---:|:---:|---|:---:|---|
+| T1 | 01:46 a 01:54 | Após criar a conta utilizando o login com a conta Google, o sistema direcionou o participante para uma tela de escolha de plano de assinatura. O participante ficou confuso e não soube como prosseguir. | **E agora?** | Depois do login, a tela não deixou claro o que fazer. O participante não soube como continuar a criação da conta e ficou parado na tela de assinatura. |
+| T1 | 01:57 a 02:06 | Após a tela de assinatura desaparecer, o sistema direcionou automaticamente o participante para a tela de edição, sem passar pela tela inicial. O participante comentou: "Acredito que deu. Sozinho saiu da tela anterior e prosseguiu para outra tela e achei confuso, mas consegui fazer a conta e pude utilizar." | **Ué, o que houve?** | O sistema pulou a tela inicial e levou o participante direto para a área de edição. Ele não esperava isso e ficou confuso. |
+| T2 | 02:20 a 03:33 | O sistema o levou direto para a edição, sem passar pela tela inicial. Como não percebeu que já estava num documento em branco, continuou procurando a opção de criar um novo. | **Onde estou?** | Ele procurou como criar um novo documento sem perceber que o sistema já tinha aberto um em branco. Nada na tela deixou isso claro, e ele continuou procurando algo que já estava ali. |
+| T2 | 03:33 a 04:20 | O participante foi direcionado diretamente para a tela de edição e não percebeu que já estava em um documento em branco. Ao encontrar a opção "Novo", clicou nela duas vezes, pois acreditava que o documento ainda não havia sido criado. Somente na segunda tentativa o sistema exibiu uma notificação informando que seu primeiro documento havia sido criado, momento em que o participante compreendeu que já estava em um documento em branco. | **Por que não funciona?** | Depois do primeiro clique em “Novo”, nada mostrou que o documento tinha sido criado. Ele achou que não tinha funcionado e clicou de novo. |
+| T8 | 38:00 a 40:00 | O participante selecionou inicialmente a opção "Exportar para Lucidspark", acreditando que ela alteraria o modo de edição. Ao perceber que o novo documento não continha os diagramas criados anteriormente, retornou ao documento original e localizou a opção "Editar no modo Lucidspark", concluindo a tarefa. | **Epa!** | Escolheu “Exportar para Lucidspark” achando que mudaria o modo de edição. Ao ver que o documento novo não tinha os diagramas, voltou ao original e achou a opção certa. |
+
+---
+
+### 🎯 Ponto principal de atenção
+
+> **A Tarefa 1 (criar uma conta no Lucid) foi o ponto mais crítico: os dois participantes tiveram muita dificuldade, porque a interface não deixa claro onde se cria a conta.** O cadastro gratuito e o login aparecem misturados em uma única tela, e quem já tem conta e quem ainda não tem entram pelo mesmo caminho, o que gera confusão. Isso aparece nas rupturas dos dois: o U1 foi levado automaticamente para uma conta Google antiga, recebeu a mensagem "dados incorretos" sem pista de como corrigir e só conseguiu criar a conta por um caminho alternativo ("Esqueceu a senha" → "Fazer login"); o U2, após criar a conta, caiu numa tela de assinatura sem orientação e foi levado direto para a edição, sem passar pela tela inicial. No caso do U2, essa falta de orientação se estendeu para a Tarefa 2, em que ele não percebeu que já estava em um documento em branco. Isso indica que o ponto que mais merece atenção no design é a **separação clara entre "criar conta" e "entrar"**, além de uma comunicação melhor sobre o que acontece depois do cadastro.
 
 ## Consolidação das etiquetas
 Explicar o que a tabela apresenta e discutir os resultados observados.
