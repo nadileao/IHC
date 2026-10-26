@@ -101,7 +101,7 @@ O trabalho está organizado nas seguintes etapas:
 ## 🛠️ Tecnologias e Ferramentas
  
 <div align="center">
-<img src="https://img.shields.io/badge/Maze-6A1B9A?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/OBS_Studio-6A1B9A?style=for-the-badge&logo=obsstudio&logoColor=white">
 <img src="https://img.shields.io/badge/UEQ-7B2CBF?style=for-the-badge&logoColor=white">
 <img src="https://img.shields.io/badge/ATLAS.ti-6A1B9A?style=for-the-badge&logoColor=white">
 <img src="https://img.shields.io/badge/Notion-7B2CBF?style=for-the-badge&logo=notion&logoColor=white">
