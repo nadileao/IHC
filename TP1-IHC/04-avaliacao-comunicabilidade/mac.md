@@ -60,7 +60,7 @@ As tarefas executadas foram:
 Os vídeos das sessões de avaliação podem ser acessados pelos links abaixo:
 
 - [Vídeo do participante U1](https://youtu.be/8wAkY85DSBY)
-- [Vídeo do participante U2]()
+- [Vídeo do participante U2](https://youtu.be/RGJXMOBjnRM)
 ## Etiquetagem das rupturas
 Explicar o que a tabela apresenta e discutir os resultados observados.
 
