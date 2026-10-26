@@ -71,44 +71,60 @@ Em seguida, são apresentadas as evidências que documentam a realização do te
 ### Evidências
 Para documentar a realização do teste, foi feita a gravação de tela de cada participante enquanto executava as tarefas no sistema Lucid. As gravações foram editadas e reunidas em uma única pasta, que pode ser acessada no link abaixo:
 
-[Testes IHC - Editados](https://1drv.ms/f/c/1a63fe9cf7010b6c/IgBg4VASEXMFTIk5taP3KPGBAYKrhNs1CE01CYOP9o1lzIY?e=Rq0Ma7)
+[Testes IHC - Vídeos](https://1drv.ms/f/c/1a63fe9cf7010b6c/IgBg4VASEXMFTIk5taP3KPGBAYKrhNs1CE01CYOP9o1lzIY?e=Rq0Ma7)
 
-A pasta contém [número] vídeos, um para cada participante, identificados pelos códigos P01 a P[número], conforme a tabela a seguir.
-
-| Participante | Vídeo | Duração |
-|--------------|-------|---------|
-| P01 | [nome do arquivo] | [mm:ss] |
-| P02 | [nome do arquivo] | [mm:ss] |
-| P03 | [nome do arquivo] | [mm:ss] |
+A pasta contém 8 vídeos, um para cada participante, identificados pelos códigos P01 a P08, conforme a tabela a seguir.
 
 Além das gravações, as figuras a seguir ilustra um momento da realização do teste.
 
-![Participante realizando o teste](imagens/jean%20fazendo%20teste.jpeg)
-*Figura 1 — Participante durante a realização do teste piloto.*
+<p align="center">
+  <img src="imagens/jean%20fazendo%20teste.jpeg" alt="Participante durante a realização do teste piloto" width="450"><br>
+  <em>Figura 1 — Participante durante a realização do teste piloto.</em>
+</p>
 
-![Participante realizando o teste](imagens/jean%20fazendo%20teste.jpeg)
-*Figura 1 — Participante durante a realização do teste piloto.*
+As figuras 1 a 3 mostram os participantes realizando as tarefas no notebook.
 
-![Participante realizando o teste](imagens/jean%20fazendo%20teste.jpeg)
-*Figura 1 — Participante durante a realização do teste piloto.*
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ad4c2374-6c34-4ebc-8b76-574b20b7d113" alt="Momento de aplicação do teste, com participante ao notebook" width="450"><br>
+  <em>Figura 1 — Participante durante a realização do teste.</em>
+</p>
 
-![Participante realizando o teste](imagens/jean%20fazendo%20teste.jpeg)
-*Figura 1 — Participante durante a realização do teste piloto.*
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d9e6bf86-030c-48d6-99b6-43b6fb3e8729" alt="Participante realizando as tarefas no Lucid" width="450"><br>
+  <em>Figura 2 — Participante durante a realização do teste.</em>
+</p>
 
-![Participante realizando o teste](imagens/jean%20fazendo%20teste.jpeg)
-*Figura 1 — Participante durante a realização do teste piloto.*
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f78a2f02-eeb7-4f78-b3d9-d81628f1016f" alt="Participante editando o fluxograma com a folha de instruções" width="450"><br>
+  <em>Figura 3 — Participante durante a realização do teste.</em>
+</p>
 
-![Participante realizando o teste](imagens/jean%20fazendo%20teste.jpeg)
-*Figura 1 — Participante durante a realização do teste piloto.*
+Os participantes responderam aos questionários pelo celular, conforme as figuras 4 a 7.
 
-![Participante realizando o teste](imagens/jean%20fazendo%20teste.jpeg)
-*Figura 1 — Participante durante a realização do teste piloto.*
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/e900700b-9ca2-47f9-9572-5747b9a57583" alt="Participante respondendo ao questionário no celular" width="250"><br>
+      <em>Figura 4 — Participante respondendo ao questionário.</em>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/9ef9dad9-dd35-423f-9921-ca661041736c" alt="Participante respondendo ao questionário no celular" width="250"><br>
+      <em>Figura 5 — Participante respondendo ao questionário.</em>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/c6b90c3a-d11c-415d-9454-720f919eaee6" alt="Participante respondendo ao questionário no celular" width="250"><br>
+      <em>Figura 6 — Participante respondendo ao questionário.</em>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/69b0f112-9a56-4df2-ae45-f1f095a1340c" alt="Participante respondendo ao questionário no celular" width="250"><br>
+      <em>Figura 7 — Participante respondendo ao questionário.</em>
+    </td>
+  </tr>
+</table>
 
-![Participante realizando o teste](imagens/jean%20fazendo%20teste.jpeg)
-*Figura 1 — Participante durante a realização do teste piloto.*
-
-![Participante realizando o teste](imagens/jean%20fazendo%20teste.jpeg)
-*Figura 1 — Participante durante a realização do teste piloto.*
+As evidências apresentadas registram a realização do teste conforme o planejado. Os dados obtidos por meio da gravação de tela e dos questionários serviram de base para a análise dos resultados, apresentada na seção seguinte.
 
 ## 4. Análise dos Resultados
 ### Resultados por participante
