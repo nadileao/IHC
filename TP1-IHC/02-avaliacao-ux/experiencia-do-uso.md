@@ -135,8 +135,6 @@ As respostas foram importadas e analisadas no ATLAS.ti. A partir da leitura dos 
 
 A análise resultou em **36 códigos**, utilizados para representar diferentes aspectos relatados pelos participantes.
 
-![Lista de códigos no ATLAS.ti](imagens/atlas-lista-codigos.png)
-
 *Figura 5 — Lista de códigos utilizados na análise qualitativa.*
 
 | Nº | Código |
@@ -258,5 +256,3 @@ As imagens utilizadas nesta documentação devem estar na pasta `imagens/`, loca
     ├── rede-estimulacao.png
     └── rede-novidade.png
 ```
-
-**Importante:** confirme que todos esses arquivos existem e que a grafia dos nomes corresponde exatamente à usada nos links. Os vídeos dos testes estão em outra área do projeto e não fazem parte da pasta `imagens/`.
