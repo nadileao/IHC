@@ -22,7 +22,7 @@ Os resultados gerais apresentam a percepção dos participantes nas seis dimens�
 
 O gráfico apresenta as médias das seis dimensões do UEQ e permite comparar diferentes aspectos da experiência de uso.
 
-![Médias das dimensões do UEQ](imagens/grafico1.png)
+![Médias das dimensões do UEQ](imagens/grafico2.png)
 
 *Figura 2 — Médias obtidas em cada dimensão do UEQ.*
 
@@ -45,7 +45,7 @@ Os resultados devem ser interpretados considerando o tamanho da amostra e comple
 
 O gráfico compara a qualidade pragmática, relacionada à realização das tarefas, e a qualidade hedônica, relacionada à estimulação e à novidade percebidas durante o uso.
 
-![Qualidade pragmática e hedônica](imagens/grafico2.png)
+![Qualidade pragmática e hedônica](imagens/grafico3.png)
 
 *Figura 3 — Comparação entre qualidade pragmática e qualidade hedônica.*
 
