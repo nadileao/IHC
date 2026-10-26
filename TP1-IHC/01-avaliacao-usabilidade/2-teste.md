@@ -209,7 +209,7 @@ Cada parte é acompanhada de tabela e explicação, para facilitar a leitura e a
 | AM-08 | T7 – Renomear e exportar o documento | ❗ | 231 | 2 | Encontrou a função, mas com algumas dificuldades. |
 | AM-08 | T8 – Compartilhar com alguém | ✅ | 39 | 0 | Realizou a atividade sem apresentar dificuldades. |
 
-**Explicação:** A tabela reúne as 64 execuções (8 participantes × 8 tarefas). Os participantes FRS-02 e LH-03 tiveram o melhor desempenho, com 7 sucessos plenos cada e nenhum insucesso. RB-01 concluiu todas as tarefas, mas quase sempre com dificuldade (7 de 8). Já JO-04, C-05, MK-07 e AM-08 concentraram os insucessos, e as observações mostram causas recorrentes: seguir caminhos alternativos, achar que a tarefa foi concluída quando não foi (T5, T7, T8) e pular etapas. Os campos com “—” correspondem a tempos não registrados: RK-06 (T1 e T2, falha de registro visual), MK-07 (T3, tarefa não realizada) e AM-08 (T4 a T6, etapas puladas). Esses valores ficaram fora das médias de tempo.
+> **Explicação:** A tabela reúne as 64 execuções (8 participantes × 8 tarefas). Os participantes FRS-02 e LH-03 tiveram o melhor desempenho, com 7 sucessos plenos cada e nenhum insucesso. RB-01 concluiu todas as tarefas, mas quase sempre com dificuldade (7 de 8). Já JO-04, C-05, MK-07 e AM-08 concentraram os insucessos, e as observações mostram causas recorrentes: seguir caminhos alternativos, achar que a tarefa foi concluída quando não foi (T5, T7, T8) e pular etapas. Os campos com “—” correspondem a tempos não registrados: RK-06 (T1 e T2, falha de registro visual), MK-07 (T3, tarefa não realizada) e AM-08 (T4 a T6, etapas puladas). Esses valores ficaram fora das médias de tempo.
 
 ### Resumo por participante
 
@@ -227,7 +227,7 @@ Cada parte é acompanhada de tabela e explicação, para facilitar a leitura e a
 | AM-08 | 3 | 2 | 3 | 490 | 98,0 | 6 |
 | **Total** | **28** | **25** | **11** | **7996** | **137,9** | **34** |
 
-**Explicação:** Em 64 execuções, houve 28 sucessos plenos (43,8%), 25 sucessos com dificuldade (39,1%) e 11 insucessos (17,2%); ou seja, 53 execuções (82,8%) foram concluídas, mas menos da metade sem dificuldade. FRS-02 e LH-03 foram os mais eficazes, com tempos médios de cerca de 61 s e 92 s por tarefa. JO-04 foi o mais lento (1.991 s no total, com 912 s só na T3). MK-07 teve o maior número de erros (9) e C-05 vem em seguida (7). Em ambos, parte dos problemas veio de situações do próprio ambiente de teste, como o questionário obrigatório com IA (MK-07) e o modelo em rascunho criado por outro usuário (C-05). AM-08 teve 3 insucessos, mas 3 tarefas (T4 a T6) foram puladas, o que reduz a comparabilidade. Os tempos médios de RK-06 e AM-08 consideram apenas as tarefas com tempo registrado (6 e 5 tarefas, respectivamente).
+> **Explicação:** Em 64 execuções, houve 28 sucessos plenos (43,8%), 25 sucessos com dificuldade (39,1%) e 11 insucessos (17,2%); ou seja, 53 execuções (82,8%) foram concluídas, mas menos da metade sem dificuldade. FRS-02 e LH-03 foram os mais eficazes, com tempos médios de cerca de 61 s e 92 s por tarefa. JO-04 foi o mais lento (1.991 s no total, com 912 s só na T3). MK-07 teve o maior número de erros (9) e C-05 vem em seguida (7). Em ambos, parte dos problemas veio de situações do próprio ambiente de teste, como o questionário obrigatório com IA (MK-07) e o modelo em rascunho criado por outro usuário (C-05). AM-08 teve 3 insucessos, mas 3 tarefas (T4 a T6) foram puladas, o que reduz a comparabilidade. Os tempos médios de RK-06 e AM-08 consideram apenas as tarefas com tempo registrado (6 e 5 tarefas, respectivamente).
 
 ### Consolidação por tarefa
 
@@ -244,40 +244,7 @@ Cada parte é acompanhada de tabela e explicação, para facilitar a leitura e a
 | T7 – Renomear e exportar o documento | 2 | 6 | 0 | 25,0% | 100,0% | 171,9 | 5 | Exportação fora do formato PDF ou achar que exportou; nome incompleto; janela “comment-only sharing”. |
 | T8 – Compartilhar com alguém | 3 | 2 | 3 | 37,5% | 62,5% | 61,2 | 8 | Localizar o link compartilhável (só aparece após clicar em “convidar”) e mudar a permissão para “editar”. |
 
-**Explicação:** A T8 (Compartilhar com alguém) foi a mais problemática: teve a menor taxa de conclusão (62,5%), 3 insucessos e o maior número de erros (8), sobretudo por causa da dificuldade de achar o link compartilhável. A T7 (Renomear e exportar) teve 100% de conclusão, mas só 2 participantes a fizeram sem dificuldade, principalmente pelo problema com o formato PDF. A T3 (Inserir e editar informações) foi a mais demorada, com média de 352,4 s, e a T4 e a T5 tiveram as menores taxas de conclusão depois da T8 (75%). As tarefas iniciais (T1 e T2) foram as mais rápidas, mas é nelas que aparecem desvios de caminho que afetaram as tarefas seguintes. Os tempos médios desconsideram valores não registrados.
-
-### Respostas abertas
-
-| Participante | Pontos positivos | Dificuldades relatadas | Sugestões |
-|:-------------|:-----------------|:-----------------------|:----------|
-| RB-01 | | | |
-| FRS-02 | | | |
-| LH-03 | | | |
-| JO-04 | | | |
-| C-05 | | | |
-| RK-06 | | | |
-| MK-07 | | | |
-| AM-08 | | | |
-
-**Explicação:** [Preencher com as falas dos participantes. Os arquivos enviados trazem apenas as observações do avaliador, sem respostas abertas.]
-
-### Fatores de usabilidade observados
-
-| Fator | Evidências observadas | Avaliação |
-|:------|:----------------------|:---------:|
-| Eficácia | 82,8% das execuções foram concluídas, mas só 43,8% sem dificuldade; 11 insucessos, concentrados em T8, T4 e T5. | Moderada |
-| Eficiência | Tempos muito variáveis entre participantes (de 61 s a 249 s por tarefa em média); T3 foi a mais lenta (352,4 s); várias repetições e voltas a etapas anteriores. | Moderada |
-| Satisfação | [Sem dados de satisfação nos arquivos; preencher com as respostas abertas ou o questionário aplicado.] | — |
-| Facilidade de aprendizado | Tarefas iniciais (T1, T2) rápidas para a maioria, mas com desvios de caminho; FRS-02 e LH-03 mostraram boa fluidez, enquanto JO-04 e RB-01 hesitaram com frequência. | Moderada |
-| Prevenção de erros | 34 erros no total; T8 (8), T3 (7) e T1 (6) concentram a maioria. Falta de feedback claro levou participantes a acharem que concluíram T5, T7 e T8. | Baixa |
-
-**Explicação:** Os fatores foram avaliados a partir dos resultados das tarefas e das observações do avaliador. Eficácia e eficiência ficaram em nível intermediário. A prevenção de erros foi o ponto mais frágil, em especial pela falta de feedback sobre a conclusão das tarefas. A satisfação não pôde ser avaliada com os dados disponíveis.
-
-### Considerações sobre o teste
-
-Os resultados indicam que o sistema permite concluir a maioria das tarefas (82,8%), mas com muita fricção: apenas 43,8% das execuções foram sem dificuldade. Os pontos que mais merecem atenção são: (1) a **visibilidade do link compartilhável e da permissão de edição** (T8); (2) o **feedback na exportação**, incluindo a escolha do formato PDF (T7); (3) o **feedback de conclusão** nos ajustes de aparência (T5); e (4) a **localização das opções de modelo e do fluxo de criação** (T1 e T2), incluindo o questionário obrigatório com IA.
-
-**Limitações:** amostra de apenas 8 participantes; plataforma compartilhada, em que rascunhos e configurações de outros usuários afetaram C-05 e RK-06; falhas de registro (RK-06 em T1 e T2) e etapas puladas (AM-08, JO-04); e critérios de classificação que variam entre as observações (alguns registros marcados como ✅ descrevem dificuldades na observação). Recomenda-se padronizar os critérios de sucesso antes de novas rodadas e repetir o teste com uma amostra maior.
+> **Explicação:** A T8 (Compartilhar com alguém) foi a mais problemática: teve a menor taxa de conclusão (62,5%), 3 insucessos e o maior número de erros (8), sobretudo por causa da dificuldade de achar o link compartilhável. A T7 (Renomear e exportar) teve 100% de conclusão, mas só 2 participantes a fizeram sem dificuldade, principalmente pelo problema com o formato PDF. A T3 (Inserir e editar informações) foi a mais demorada, com média de 352,4 s, e a T4 e a T5 tiveram as menores taxas de conclusão depois da T8 (75%). As tarefas iniciais (T1 e T2) foram as mais rápidas, mas é nelas que aparecem desvios de caminho que afetaram as tarefas seguintes. Os tempos médios desconsideram valores não registrados.
  
 ### Respostas abertas e fatores de usabilidade
  
