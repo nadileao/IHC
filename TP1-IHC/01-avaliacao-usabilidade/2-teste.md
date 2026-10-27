@@ -38,7 +38,7 @@ As instruções completas de cada tarefa estão disponíveis no documento: [Defi
 
 - **Questionário 1 —** [Questionário de Caracterização](https://docs.google.com/forms/d/e/1FAIpQLSf1JLvmTs-5hKT0SX_bP9XrZS1xZ7qgaueptYo4pWZxBomSaA/viewform?usp=sharing&ouid=109685506125297228782).
 - **Questionário 2 —** [Questionário pós-teste](https://docs.google.com/forms/d/e/1FAIpQLSeacMrnmA-3dvsBWZqC-jdVVZ7vQVyqpBno-FUd4CqWY_fskw/viewform?usp=sharing&ouid=109685506125297228782).
-- **OBS Studio::** Essa ferramenta foi utilizada para fazer as gravações (registro audiovisual de tela, webcam e voz) dos participantes realizando o teste.
+- **OBS Studio::** Essa ferramenta foi utilizada para fazer as gravações (registro audiovisual de tela, webcam e voz) dos participantes realizando o teste,no lugar do MAZE.
 
 Dessa forma, o planejamento definiu o objetivo da avaliação, as tarefas a serem realizadas pelos participantes e os instrumentos de coleta de dados, estabelecendo a base para a condução do teste. A etapa seguinte consiste na realização do teste piloto, que permitiu verificar a adequação dessas definições antes da aplicação com os participantes.
 
