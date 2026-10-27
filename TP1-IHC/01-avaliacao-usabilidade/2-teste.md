@@ -259,7 +259,17 @@ Cada parte é acompanhada de tabela e explicação, para facilitar a leitura e a
 **Melhorias pedidas:** menu mais minimalista e intuitivo, melhor navegação, ícones melhores, indicação clara de busca de fluxos, mensagens mais explícitas, exportação e dicas de uso, modo escuro, resolver a tela de login.
  
 ### Considerações sobre o Teste de Usabilidade
+
+ O teste avaliou o **Lucid** em 8 tarefas com 8 participantes (64 execuções). **82,8% foram concluídas, mas só 43,8% sem dificuldade** (28 sucessos, 25 com dificuldade e 11 insucessos), com 34 erros no total.
  
-[Escrever as considerações finais.]
+**Principais problemas**
+- **Compartilhar (T8):** menor conclusão (62,5%) e mais erros (8). O link compartilhável só aparece após clicar em "convidar".
+- **Exportar (T7):** 100% concluída, mas só 25% sem dificuldade. Muitos não exportaram em PDF ou acharam que tinham exportado.
+- **Inserir e editar informações (T3):** tarefa mais longa, com média de 352,4 s.
+- **Falta de feedback:** em T5, T7 e T8 os usuários acharam que concluíram sem ter concluído.
+- **Navegação:** menus e funcionalidades difíceis de achar, com muitos caminhos alternativos.
+**Fatores de usabilidade (Nielsen):** o aprendizado foi gradual (início confuso, depois familiar). Eficiência e memorização foram prejudicadas pela busca por menus e recursos. Houve erros como setas criadas sem querer. A satisfação foi boa com personalização, texto direto nas caixas e criação automática de setas, e ruim quanto à monotonia e à tela de login.
  
-Os resultados apresentados nesta seção fornecem subsídios para identificar os problemas de usabilidade do sistema Lucid e as oportunidades de melhoria na interface, conforme o objetivo definido no planejamento do teste.
+**Recomendações:** simplificar menu e navegação, dar feedback ao concluir exportar e compartilhar, deixar visíveis o link compartilhável e a permissão de edição, e oferecer dicas de uso.
+ 
+**Conclusão:** o Lucid é aprendido com o uso, mas ainda tem problemas de navegação, descoberta de funcionalidades e feedback ao usuário, o que atende ao objetivo do teste de identificar oportunidades de melhoria.
