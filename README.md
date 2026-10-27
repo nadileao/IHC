@@ -65,7 +65,7 @@ O trabalho está organizado nas seguintes etapas:
 ```text
 .
 ├── TP1-IHC/
-│   ├── 00-nome-do-sistema/
+│   ├── 00-lucid/
 │   │   └── Apresentacao-do-sistema.md       # Apresentação do sistema
 │   ├── 01-avaliacao-usabilidade/
 │   │   ├── 1-inspecao.md                    # Inspeção de usabilidade (Avaliação Heurística)
