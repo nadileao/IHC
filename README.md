@@ -52,7 +52,7 @@ O trabalho está organizado nas seguintes etapas:
  
 | Etapa | Avaliação | Acesso |
 | :---: | :--- | :---: |
-| **00** | 📱 Apresentação do Sistema | [Acessar](./TP1-IHC/00-nome-do-sistema) |
+| **00** | 📱 Apresentação do Sistema | [Acessar](./TP1-IHC/00-lucid) |
 | **01** | 🔎 Avaliação de Usabilidade | [Acessar](./TP1-IHC/01-avaliacao-usabilidade) |
 | **02** | 💭 Avaliação de UX | [Acessar](./TP1-IHC/02-avaliacao-ux) |
 | **03** | ♿ Avaliação de Acessibilidade | [Acessar](./TP1-IHC/03-avaliacao-acessibilidade) |
