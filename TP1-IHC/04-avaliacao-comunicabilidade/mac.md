@@ -2,7 +2,7 @@
 ## Método utilizado
 ## 📐 Método de Avaliação de Comunicabilidade (MAC)
 
-O **MAC** é um método qualitativo de avaliação de interfaces, baseado na **Engenharia Semiótica** (de Souza, 2005). Seu objetivo é avaliar a qualidade da **metacomunicação**, isto é, a mensagem que o designer transmite ao usuário, por meio da interface, sobre como o sistema funciona e como pode ser usado. Para isso, observa-se o usuário realizando tarefas e analisa-se onde ele tem dificuldade de interpretar a interface.
+O **MAC** é um método qualitativo de avaliação de interfaces, baseado na **Engenharia Semiótica**. Seu objetivo é avaliar a qualidade da **metacomunicação**, isto é, a mensagem que o designer transmite ao usuário, por meio da interface, sobre como o sistema funciona e como pode ser usado. Para isso, observa-se o usuário realizando tarefas e analisa-se onde ele tem dificuldade de interpretar a interface.
 
 ### 🚧 Rupturas de comunicabilidade
 
