@@ -61,20 +61,23 @@ O trabalho está organizado nas seguintes etapas:
 ---
  
 ## 📁 Organização do Repositório
- 
+
 ```text
 .
 ├── TP1-IHC/
 │   ├── 00-nome-do-sistema/
 │   │   └── Apresentacao-do-sistema.md       # Apresentação do sistema
 │   ├── 01-avaliacao-usabilidade/
-│   │   └── 1-inspecao.md                    # Avaliação de usabilidade
+│   │   ├── 1-inspecao.md                    # Inspeção de usabilidade (Avaliação Heurística)
+│   │   ├── 2-teste.md                       # Teste de usabilidade com usuários
+│   │   └── imagens/                         # Evidências e capturas de tela
 │   ├── 02-avaliacao-ux/
-│   │   └── experiencia-do-uso.md            # Avaliação de experiência do usuário
+│   │   ├── experiencia-do-uso.md            # Avaliação de experiência do usuário (UEQ + ATLAS.ti)
+│   │   └── imagens/                         # Gráficos do UEQ e redes do ATLAS.ti
 │   ├── 03-avaliacao-acessibilidade/
 │   │   └── Inspecao-de-acessibilidade.md    # Avaliação de acessibilidade
 │   └── 04-avaliacao-comunicabilidade/
-│       └── mac.md                           # Avaliação de comunicabilidade
+│       └── mac.md                           # Avaliação de comunicabilidade (MAC)
 ├── LICENSE
 └── README.md
 ```
