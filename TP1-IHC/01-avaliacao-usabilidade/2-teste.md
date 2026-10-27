@@ -217,37 +217,35 @@ Cada parte é acompanhada de tabela e explicação, para facilitar a leitura e a
 
 ### Resumo por participante
 
-| Participante | ✅ Sucesso | ❗ Com dificuldade | ❌ Insucesso | Tempo total (s) | Tempo médio por tarefa registrada (s) | Total de erros |
-|:-------------|:---------:|:-----------------:|:-----------:|----------------:|--------------------------------------:|---------------:|
-| P01 | 1 | 7 | 0 | 972 | 121,5 | 2 |
-| P02 | 7 | 1 | 0 | 491 | 61,4 | 1 |
-| P03 | 7 | 1 | 0 | 736 | 92,0 | 1 |
-| P04 | 3 | 3 | 2 | 1991 | 248,9 | 5 |
-| P05 | 2 | 4 | 2 | 1455 | 181,9 | 7 |
-| P06 | 4 | 3 | 1 | 1164 | 194,0 | 3 |
-| P07 | 1 | 4 | 3 | 697 | 99,6 | 9 |
-| P08 | 3 | 2 | 3 | 490 | 98,0 | 6 |
-| **Total** | **28** | **25** | **11** | **7996** | **137,9** | **34** |
+| ID | Sucesso ✓ | Com dificuldade ! | Insucesso ✗ | Tempo total (s) | Total de erros |
+|:---|:---------:|:-----------------:|:-----------:|----------------:|---------------:|
+| P01 | 1 | 7 | 0 | 972 | 2 |
+| P02 | 7 | 1 | 0 | 491 | 1 |
+| P03 | 7 | 1 | 0 | 736 | 1 |
+| P04 | 3 | 3 | 2 | 1991 | 5 |
+| P05 | 2 | 4 | 2 | 1455 | 7 |
+| P06 | 4 | 3 | 1 | 1164 | 3 |
+| P07 | 1 | 4 | 3 | 697 | 9 |
+| P08 | 3 | 2 | 3 | 490 | 6 |
 
-> **Explicação:** Das 64 execuções, 28 (43,8%) foram sucessos plenos, 25 (39,1%) foram sucessos com dificuldade e 11 (17,2%) foram insucessos. Ou seja, 53 execuções (82,8%) foram concluídas, mas menos da metade delas ocorreu sem dificuldade. O desempenho foi muito desigual entre os participantes: P02 e P03 sozinhos somam 14 dos 28 sucessos plenos (metade do total), enquanto P01 concluiu todas as tarefas, mas com apenas 1 sucesso pleno, o que indica que o sistema exigiu esforço mesmo de quem não falhou. Os insucessos se concentraram em P07 e P08 (3 cada), P04 e P05 (2 cada) e P06 (1). P07 e P05 também tiveram mais erros (9 e 7), somando 16 dos 34 erros do teste (47%). Esses erros não vieram só da interface: o questionário obrigatório com IA (P07) e o modelo em rascunho criado por outro usuário (P05) são situações do ambiente de teste e merecem cautela na interpretação. P04 foi o mais lento, com 1.991 s no total (cerca de 25% do tempo de todos os participantes) e 912 s só na T3. Já P02 foi o mais rápido, com média de 61,4 s por tarefa. P06 e P08 não têm tempo registrado em algumas tarefas (2 e 3 tarefas, respectivamente), então suas médias foram calculadas só com as tarefas que têm tempo (6 e 5 tarefas) e não são totalmente comparáveis com as dos demais. No geral, a tabela mostra que o sistema foi concluível pela maioria, mas com muita variação de esforço entre os usuários.
-
+> **Explicação:** Das 64 execuções (8 participantes × 8 tarefas), 28 foram sucessos plenos, 25 foram sucessos com dificuldade e 11 foram insucessos, com 34 erros no total. P02 e P03 tiveram o melhor desempenho (7 sucessos plenos cada, nenhum insucesso). P01 concluiu todas as tarefas, mas quase sempre com dificuldade (7 de 8). Os insucessos se concentraram em P07 e P08 (3 cada), P04 e P05 (2 cada) e P06 (1). P07 (9) e P05 (7) tiveram mais erros, e parte deles veio do ambiente do teste, como o questionário obrigatório com IA e o modelo em rascunho criado por outro usuário. P04 foi o mais lento, com 1991 s no total, dos quais 912 s só na T3. O tempo total de P06 e P08 considera apenas as tarefas com tempo registrado, então não é totalmente comparável com o dos demais.
 
 ### Consolidação por tarefa
 
 🔗 [Ver tabela original no Notion](https://app.notion.com/p/99ad4fd66fdb8355bf7a814ea47ff84d?v=032d4fd66fdb82cf8083086a96eb7f35&source=copy_link)
 
-| Tarefa | ✅ | ❗ | ❌ | Taxa de sucesso pleno (✅) | Taxa de conclusão (✅ + ❗) | Tempo médio (s) | Total de erros | Principal dificuldade |
-|:-------|:-:|:-:|:-:|:-----------:|:-------------:|----------:|------:|:----------------------|
-| T1 – Criar um documento | 3 | 4 | 1 | 37,5% | 87,5% | 62,0 | 6 | Caminho diferente do esperado; esquecer a opção “a partir de um modelo”; uso de modelo em rascunho de outro usuário. |
-| T2 – Selecionar um modelo | 4 | 3 | 1 | 50,0% | 87,5% | 78,6 | 3 | Questionário obrigatório do site e criação do modelo pela IA; confusão com os elementos da barra lateral. |
-| T3 – Inserir e editar informações | 4 | 3 | 1 | 50,0% | 87,5% | 352,4 | 7 | Tarefa mais longa; elementos e credenciais colocados no lugar errado, lentidão nos menus e voltas a etapas anteriores. |
-| T4 – Organizar e conectar os elementos | 5 | 1 | 2 | 62,5% | 75,0% | 189,1 | 1 | Dificuldade para ligar os blocos com setas; repetição desnecessária do processo; uso do modelo gerado pela IA. |
-| T5 – Ajustar a aparência | 4 | 2 | 2 | 50,0% | 75,0% | 83,1 | 3 | Achar a paleta de cores, alterar elementos errados e achar que concluiu sem feedback claro; duas etapas puladas. |
-| T6 – Utilizar recursos complementares | 3 | 4 | 1 | 37,5% | 87,5% | 110,6 | 1 | Comentário feito de forma errada (elemento físico em vez de balão); navegação com fricção; formas cortadas na tela. |
-| T7 – Renomear e exportar o documento | 2 | 6 | 0 | 25,0% | 100,0% | 171,9 | 5 | Exportação fora do formato PDF ou achar que exportou; nome incompleto; janela “comment-only sharing”. |
-| T8 – Compartilhar com alguém | 3 | 2 | 3 | 37,5% | 62,5% | 61,2 | 8 | Localizar o link compartilhável (só aparece após clicar em “convidar”) e mudar a permissão para “editar”. |
+| Tarefa | TSR – Taxa de Sucesso (%) | TTR – Tempo médio da tarefa (s) |
+|:-------|-------------------------:|--------------------------------:|
+| T1 - Criar um documento | 87,5% | 62,0 |
+| T2 - Selecionar um modelo | 87,5% | 78,6 |
+| T3 - Inserir e editar informações | 87,5% | 352,4 |
+| T4 - Organizar e conectar os elementos | 75% | 189,1 |
+| T5 - Ajustar a aparência | 75% | 83,1 |
+| T6 - Utilizar recursos complementares | 87,5% | 110,6 |
+| T7 - Renomear e exportar o documento | 100% | 171,9 |
+| T8 - Compartilhar com alguém | 62,5% | 61,2 |
 
-> **Explicação:** Nenhuma tarefa teve taxa de sucesso pleno acima de 62,5% (T4), e a maioria ficou entre 25% e 50%, o que mostra que a dificuldade não está em uma tarefa isolada, mas na interface como um todo. A T8 (Compartilhar com alguém) foi a mais crítica: teve a menor taxa de conclusão (62,5%), 3 insucessos e o maior número de erros (8). Apesar disso, teve o segundo menor tempo médio (61,2 s), o que indica que alguns participantes terminaram rápido porque acharam que haviam concluído (como P06 e P07, que colocaram o e-mail, mas não finalizaram as etapas obrigatórias). Portanto, tempo baixo não significa boa usabilidade nessa tarefa. A T7 (Renomear e exportar) tem o caso oposto: 100% de conclusão, mas só 25% sem dificuldade, com 6 de 8 participantes concluindo com ressalvas, principalmente pelo formato PDF. A T3 (Inserir e editar informações) foi a mais demorada, com média de 352,4 s (cerca de 5,7 vezes a de T1 e 5,8 vezes a de T8), e junto com a T8 concentra 15 dos 34 erros (44%). A T4 e a T5 tiveram taxa de conclusão de 75% por causa dos insucessos de P04, P07 e P08, e a T4 teve apenas 1 erro, mas 2 insucessos, o que sugere falhas por pular a etapa e não por erros de execução. Por fim, T1 e T2 foram rápidas, mas tiveram desvios de caminho (modelo em rascunho, questionário obrigatório) que afetaram as tarefas seguintes, principalmente para P05 e P07. Os tempos médios desconsideram os valores não registrados (P06 em T1 e T2, P07 em T3 e P08 em T4 a T6).
+> **Explicação:** O TSR considera como sucesso as tarefas concluídas com ✅ ou ❗ (sucesso com dificuldade), divididas pelas 8 tentativas. O TTR é o total de segundos dividido pelo número de usuários com tempo registrado. A T8 teve o pior TSR (62,5%), com 3 insucessos, e seu tempo baixo (61,2 s) não indica facilidade: alguns participantes terminaram rápido porque acharam que haviam concluído. A T7 teve TSR de 100%, mas só 2 dos 8 participantes concluíram sem dificuldade, principalmente por problemas com o formato PDF. A T3 foi a mais demorada (352,4 s), cerca de 5,7 vezes o tempo da T1. T4 e T5 ficaram com 75% por causa de insucessos em que o participante pulou a etapa. Os tempos desconsideram os valores não registrados (P06 em T1 e T2, P07 em T3 e P08 em T4 a T6).
  
 ### Respostas abertas e fatores de usabilidade
  
