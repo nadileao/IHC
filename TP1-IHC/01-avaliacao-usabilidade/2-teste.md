@@ -215,8 +215,6 @@ Cada parte é acompanhada de tabela e explicação, para facilitar a leitura e a
 
 🔗 [Ver tabela original no Notion](https://app.notion.com/p/b4cd4fd66fdb83d4917a81fe7222cf99?v=2c6d4fd66fdb827e83e408335d5db00a&source=copy_link)
 
-### Resumo por participante
-
 | ID | Sucesso ✓ | Com dificuldade ! | Insucesso ✗ | Tempo total (s) | Total de erros |
 |:---|:---------:|:-----------------:|:-----------:|----------------:|---------------:|
 | P01 | 1 | 7 | 0 | 972 | 2 |
