@@ -86,7 +86,7 @@ Além das gravações, as figuras a seguir ilustra um momento da realização do
   <em>Figura 1 — Participante durante a realização do teste piloto.</em>
 </p>
 
-As figuras 1 a 3 mostram os participantes realizando as tarefas no notebook.
+As figuras 1 a 4 mostram os participantes realizando as tarefas no notebook.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ad4c2374-6c34-4ebc-8b76-574b20b7d113" alt="Momento de aplicação do teste, com participante ao notebook" width="450"><br>
@@ -101,6 +101,11 @@ As figuras 1 a 3 mostram os participantes realizando as tarefas no notebook.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f78a2f02-eeb7-4f78-b3d9-d81628f1016f" alt="Participante editando o fluxograma com a folha de instruções" width="450"><br>
   <em>Figura 3 — Participante durante a realização do teste.</em>
+</p>
+
+<p align="center">
+  <img width="450" alt="WhatsApp Image 2026-10-26 at 22 20 56" src="https://github.com/user-attachments/assets/0e7d0eb6-6955-4673-9b0b-a1a48e706e02"/><br>
+  <em>Figura 4 — Participante durante a realização do teste.</em>
 </p>
 
 Os participantes responderam aos questionários pelo celular, conforme as figuras 4 a 7.
