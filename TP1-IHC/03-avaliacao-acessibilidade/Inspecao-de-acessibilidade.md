@@ -16,7 +16,7 @@ Foram selecionadas as seguintes telas para inspeção:
 
 A avaliação foi feita em três etapas: **detecção**, **coleção** e **discriminação**.
 
-**1. Detecção.** Quatro avaliadores (Marcos, Nádia, Matheus e Kevily) inspecionaram as telas de forma independente. Cada um registrou os problemas encontrados, com o processo utilizado, a tela, a frequência e o critério WCAG violado. Foram usados:
+**1. Detecção.** Quatro avaliadores ([Marcos](https://app.notion.com/p/520d4fd66fdb838e9a9e01b68dcc5dc9?v=ef9d4fd66fdb8216a72c8807f21f077a), [Nádia](https://app.notion.com/p/196d4fd66fdb83ff9b9c81fcdc5b6b93?v=514d4fd66fdb82659a04887955b94883), [Matheus](https://app.notion.com/p/c62d4fd66fdb83a6928881c9c0731989?v=74ad4fd66fdb83b78de5885647c22e86) e [Kevily](https://app.notion.com/p/4e1d4fd66fdb83668a44019b73cac496?v=78dd4fd66fdb82ef9c03885cb259c231)) inspecionaram as telas de forma independente. Cada um registrou os problemas encontrados, com o processo utilizado, a tela, a frequência e o critério WCAG violado. Foram usados:
 - navegação apenas pelo teclado (Tab / Shift+Tab);
 - leitor de tela (NVDA) e simulação por árvore de acessibilidade;
 - ferramentas automáticas (WAVE, axe DevTools e Accessibility Insights);
@@ -28,9 +28,13 @@ No total foram registrados **31 problemas**.
 
 **2. Coleção.** Os registros dos quatro avaliadores foram reunidos em uma única tabela. Registros que descrevem o mesmo problema (mesma causa, mesmo em telas ou avaliadores diferentes) foram agrupados. Para cada grupo foi mantido o registro que melhor descrevia o problema, e a ocorrência foi classificada como **única** (1 registro) ou **repetida** (2 ou mais registros). O resultado foi **19 problemas**: 7 repetidos e 12 únicos.
 
+[Confira aqui o Notion da Coleção](https://app.notion.com/p/834d4fd66fdb827e8d69016032cd1c94?v=f88d4fd66fdb8341883d082c979c2040)
+
 **3. Discriminação.** Cada problema foi classificado como **defeito** ou **falso positivo**. Resultaram **17 defeitos** e **2 falsos positivos**:
 - o contraste das fontes finas, observado só com o simulador Funkify, sem medição da razão de contraste;
 - a hierarquia de títulos, que o axe trata como boa prática e não como falha direta da WCAG.
+
+[Confira aqui o Notion da Discriminação](https://app.notion.com/p/77cd4fd66fdb838786a581bc34f529c9?v=d3ad4fd66fdb83d9a4f488c18875ca3d)
 
 As tabelas a seguir apresentam apenas os **defeitos**.
 
