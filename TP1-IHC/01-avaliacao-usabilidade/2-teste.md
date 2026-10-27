@@ -254,7 +254,7 @@ Cada parte é acompanhada de tabela e explicação, para facilitar a leitura e a
 | **Efficiency** (Eficiência) | Rapidez para executar tarefas | Perda de tempo procurando menus, ícones, comentários, renomear o fluxograma e exportar. | P2, P3, P5, P7, P8 |
 | **Memorability** (Memorização) | Facilidade de retomar o uso | Pontos difíceis de localizar ou lembrar: exportar, renomear o arquivo, cor nos blocos, comentários (procurado junto às reações). Pedem dicas de uso e melhor navegação. | P3, P5, P6, P7, P8 |
 | **Errors** (Erros) | Erros e recuperação | Setas criadas sem querer e difíceis de excluir. Orientações pouco claras e falta de indicadores visuais. | P1, P5 |
-| **Satisfaction** (Satisfação) | Quão agradável é usar | Positivo: personalização, texto direto nas caixas, criação automática de setas/quadros, mover objetos, uso dos blocos, visualização do fluxograma. Negativo: "monótono", tela de login. | P1–P5, P8, P9 |
+| **Satisfaction** (Satisfação) | Quão agradável é usar | Positivo: personalização, texto direto nas caixas, criação automática de setas/quadros, mover objetos, uso dos blocos, visualização do fluxograma. Negativo: "monótono", tela de login. | P1–P5, P8 |
  
 **Melhorias pedidas:** menu mais minimalista e intuitivo, melhor navegação, ícones melhores, indicação clara de busca de fluxos, mensagens mais explícitas, exportação e dicas de uso, modo escuro, resolver a tela de login.
  
