@@ -145,8 +145,11 @@ O trabalho está organizado nas seguintes etapas:
  
 ## 🤖 Declaração de Uso de IA
  
-Declaramos que ferramentas de Inteligência Artificial foram utilizadas neste trabalho de forma complementar, **sem substituir a responsabilidade da equipe sobre o conteúdo entregue**.
+A equipe utilizou as ferramentas de Inteligência Artificial **Gemini (Google)** e **Claude (Anthropic)** exclusivamente como suporte auxiliar de produtividade e organização ao longo do desenvolvimento do Trabalho Prático 2 (TP2).
 
+O uso dessas ferramentas restringiu-se à revisão ortográfica, padronização de formatação (Markdown), organização estrutural das Atas de Reunião, transcrição e síntese textual das entrevistas e consulta orientativa sobre conceitos teóricos de Interação Humano-Computador (como Matriz CSD, técnica PATHY e Engenharia Semiótica).
+
+Ressaltamos que toda a coleta de dados primários em campo (condução das entrevistas em Itacoatiara-AM e coleta de TCLEs), a análise crítica dos problemas reais, a definição dos requisitos do sistema e a modelagem dos artefatos de design (Personas, Mapas de Objetivos, diagramas HTA, MoLIC e Sketches) foram concebidos e validados integralmente pelos integrantes da equipe.
 ---
 
 <div align="center">
