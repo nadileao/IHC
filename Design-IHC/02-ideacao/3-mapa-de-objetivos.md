@@ -1,21 +1,19 @@
 # 🎯 Mapa de Objetivos: ItaAluga
 
-[⬅ Voltar ao README do TP2](../README.md)
-
 O mapa de objetivos representa graficamente o que as personas querem alcançar ao usar o **ItaAluga**. Cada quadro tracejado reúne um **objetivo final** (à direita) e os objetivos que o instrumentam diretamente (à esquerda). Neste momento o mapa mostra apenas objetivos; as operações e os planos de cada tarefa são detalhados nos [HTAs](./4-htas.md).
 
 ## Como ler o mapa
 
-<div align="center">
-<img src="c:\Users\nadia\OneDrive\Imagens\Screenshots\Captura de tela 2026-11-21 214954.png"alt="Legenda do mapa de objetivos" width="420">
-</div>
+<p align="center">
+  <img src="Captura de tela 2026-11-21 214954.png"
+       alt="Legenda do Mapa de Objetivos"
+       width="320">
+</p>
+<p align="center">
+  <strong>Legenda do Mapa de Objetivos</strong>
+</p>
 
-| Sigla | Papel 
-| :---: | :--- | 
-| **LD** | Locador (quem anuncia) |
-| **LT** | Locatário (quem aluga) |
-| **UA** | Usuário com necessidade de acessibilidade | 
-| **ST** | Suporte Técnico |
+
 
 Cada caixa segue o formato **Papel | Objetivo**. Os objetivos com mais de uma sigla são **compartilhados** entre os papéis. Os quadros marcados como *Exclusivo Locador* ou *Exclusivo Locatário* só se aplicam a quem assume aquele papel. Como a mesma conta serve para anunciar e alugar, uma pessoa pode ser LD e LT.
 
