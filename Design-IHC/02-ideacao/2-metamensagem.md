@@ -32,13 +32,3 @@ Com o **ItaAluga**, queremos transformar equipamentos parados em oportunidades e
 
 4. $\color{#C65B5B}{\textbf{Formas de utilizar a solução:}}$  
    Usar a mesma conta para anunciar ou alugar, registrar o estado do item com fotos e pedir ajuda se algo der errado.
-## Rastreabilidade com as personas
- 
-| Trecho da metamensagem | De onde vem |
-|---|---|
-| Equipamentos parados e renda extra | Anthony (P1) e Rafaela (P1) |
-| Medo de dano, atraso, não devolução e de não ser ressarcido | Briefing; Anthony (Quem) e Rafaela (Quem) |
-| Medo de golpe e insegurança de alugar online | Raimunda (Quem, P1) |
-| Passo a passo, cadastro simples | Raimunda (E2, E5, E6); briefing |
-| Verificação, contrato, fotos, garantia e reputação | Briefing; P2 das três personas |
-| Ajuda em todas as telas | Briefing; Raimunda (E7) |
