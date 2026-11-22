@@ -8,12 +8,8 @@ O TP2 consiste no design de um aplicativo a partir de uma **demanda real**, perc
 
 ## 📱 Sobre o Aplicativo: ItAluga
 
-[Descreva em 3 a 5 linhas: qual é a demanda, quem é o cliente (sem identificar pessoas, se necessário), quem são os usuários e qual problema o aplicativo busca resolver.]
+O ItaAluga é um aplicativo de aluguel de equipamentos entre pessoas de Itacoatiara-AM. A demanda foi apresentada por um profissional eletricista que percebeu que poderia obter uma renda extra com os equipamentos de construção que possui, e revelou a necessidade de um meio prático e seguro para alugar equipamentos entre moradores da cidade. Os usuários são moradores que têm equipamentos parados ou que precisam de um por pouco tempo. O problema é a insegurança no aluguel entre pessoas, em relação à conservação do item, à confiança na outra parte e às garantias.
 
-<div align="center">
-<!-- Opcional: imagem de destaque (logo, sketch principal ou persona) -->
-<!-- <img width="800" alt="Destaque do aplicativo" src="./imagens/destaque.png"> -->
-</div>
 
 ## 📁 Estrutura e Resumo das Etapas
 
