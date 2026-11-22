@@ -36,7 +36,6 @@ O mapa tem **12 grupos de objetivos**. Clique no nome para ir direto ao detalham
 | 11 | [Reputação e Avaliações](#11-reputação-e-avaliações) | Avaliar e ver reputação | LD, LT, UA | 
 | 12 | [Ajuda e Suporte](#12-ajuda-e-suporte) | Pedir e prestar ajuda | LD, LT, UA, ST | 
 
-> A coluna **HTA** indica os objetivos que deram origem aos HTAs, que estão em [4-htas.md](./4-htas.md).
 
 ## Mapa Completo
 
@@ -44,8 +43,8 @@ O mapa tem **12 grupos de objetivos**. Clique no nome para ir direto ao detalham
 <summary><b>Clique para ver o mapa completo em uma única imagem</b></summary>
 <br>
 <div align="center">
-<a href="./imagens/mapa-de-objetivos/mapa-completo.png">
-<img src="./imagens/mapa-de-objetivos/mapa-completo.png" alt="Mapa de objetivos completo do ItaAluga" width="600">
+<a href="Diagramas_IHC-MAPA DE OBJETIVO.drawio (3).png">
+<img src="Diagramas_IHC-MAPA DE OBJETIVO.drawio (3).png" alt="Mapa de objetivos completo do ItaAluga" width="600">
 </a>
 <br>
 <sub>Clique na imagem para abri-la em tamanho original.</sub>
@@ -58,63 +57,56 @@ O mapa tem **12 grupos de objetivos**. Clique no nome para ir direto ao detalham
 
 ### 1. Cadastro
 
-<img src="./imagens/mapa-de-objetivos/01-cadastro.png" alt="Grupo Cadastro" width="700">
+<img src="Captura de tela 2026-11-21 221236.png" alt="Grupo Cadastro" width="700">
 
 **Criar minha conta** (LD, LT, UA) envolve informar os dados básicos, confirmar o contato e definir a senha. É o ponto de partida para qualquer papel no aplicativo.
 
 ### 2. Acesso
 
-<img src="./imagens/mapa-de-objetivos/02-acesso.png" alt="Grupo Acesso" width="700">
+<img src="Captura de tela 2026-11-21 220958.png" alt="Grupo Acesso" width="700">
 
 **Entrar na minha conta** (LD, LT, UA) envolve fazer login no aplicativo e recuperar a senha quando necessário.
 
 ### 3. Criação de Anúncios
 
-*Exclusivo Locador*
 
-<img src="./imagens/mapa-de-objetivos/03-criacao-de-anuncios.png" alt="Grupo Criação de Anúncios" width="700">
+<img src="Captura de tela 2026-11-21 221300.png" alt="Grupo Criação de Anúncios" width="700">
 
 **Colocar um equipamento para alugar** (LD, UA) envolve mostrar o equipamento e seu estado, definir preços e regras do aluguel, confirmar a identidade e publicar o anúncio.
 
 ### 4. Gestão de Pedidos e Locações
 
-*Exclusivo Locador*
-
-<img src="./imagens/mapa-de-objetivos/04-gestao-de-pedidos-e-locacoes.png" alt="Grupo Gestão de Pedidos e Locações" width="700">
+<img src="Captura de tela 2026-11-21 221523.png" alt="Grupo Gestão de Pedidos e Locações" width="700">
 
 **Gerenciar meus anúncios e pedidos** (LD, UA) envolve decidir quem pode alugar o equipamento e acompanhar os anúncios e aluguéis em andamento.
 
 ### 5. Busca de Equipamentos
 
-*Exclusivo Locatário*
-
-<img src="./imagens/mapa-de-objetivos/05-busca-de-equipamentos.png" alt="Grupo Busca de Equipamentos" width="700">
+<img src="Captura de tela 2026-11-21 221541.png" alt="Grupo Busca de Equipamentos" width="700">
 
 **Encontrar um equipamento** (LT, UA) envolve pesquisar os equipamentos disponíveis e conferir o item e a reputação do dono.
 
 ### 6. Solicitação e Pagamento
 
-*Exclusivo Locatário*
-
-<img src="./imagens/mapa-de-objetivos/06-solicitacao-e-pagamento.png" alt="Grupo Solicitação e Pagamento" width="700">
+<img src="Captura de tela 2026-11-21 221559.png" alt="Grupo Solicitação e Pagamento" width="700">
 
 **Alugar um equipamento** (LT, UA) envolve pedir o aluguel, confirmar a identidade, realizar o pagamento e concluir o pedido com segurança.
 
 ### 7. Entrega do Equipamento
 
-<img src="./imagens/mapa-de-objetivos/07-entrega-do-equipamento.png" alt="Grupo Entrega do Equipamento" width="700">
+<img src="Captura de tela 2026-11-21 221615.png" alt="Grupo Entrega do Equipamento" width="700">
 
 **Realizar a entrega do equipamento** (LD, LT, UA) envolve registrar o estado do item na entrega e confirmar o início do aluguel.
 
 ### 8. Devolução do Equipamento
 
-<img src="./imagens/mapa-de-objetivos/08-devolucao-do-equipamento.png" alt="Grupo Devolução do Equipamento" width="700">
+<img src="Captura de tela 2026-11-21 221843.png" alt="Grupo Devolução do Equipamento" width="700">
 
 **Concluir a devolução do equipamento** (LD, LT, UA) envolve acompanhar o prazo de devolução, registrar o estado do item, comparar o estado antes e depois do uso e encerrar o aluguel.
 
 ### 9. Problemas
 
-<img src="./imagens/mapa-de-objetivos/09-problemas.png" alt="Grupo Problemas" width="700">
+<img src="Captura de tela 2026-11-21 221902.png" width="700">
 
 **Resolver um problema no aluguel** (LD, LT, UA) envolve informar o problema, enviar provas do que aconteceu, responder ao problema, acompanhar a análise do caso e receber o resultado final.
 
@@ -122,19 +114,19 @@ O mapa tem **12 grupos de objetivos**. Clique no nome para ir direto ao detalham
 
 *Papel do Suporte Técnico*
 
-<img src="./imagens/mapa-de-objetivos/10-mediacao-de-casos.png" alt="Grupo Mediação de Casos" width="700">
+<img src="Captura de tela 2026-11-21 221917.png" width="700">
 
 **Analisar e resolver disputas** (ST) envolve analisar o caso e as provas, decidir a solução do problema e enviar a decisão às partes. É o lado do suporte do grupo [Problemas](#9-problemas).
 
 ### 11. Reputação e Avaliações
 
-<img src="./imagens/mapa-de-objetivos/11-reputacao-e-avaliacoes.png" alt="Grupo Reputação e Avaliações" width="700">
+<img src="Captura de tela 2026-11-21 221933.png" alt="Grupo Reputação e Avaliações" width="700">
 
 **Avaliar e ver reputação** (LD, LT, UA) envolve avaliar a outra pessoa e consultar o histórico e as notas.
 
 ### 12. Ajuda e Suporte
 
-<img src="./imagens/mapa-de-objetivos/12-ajuda-e-suporte.png" alt="Grupo Ajuda e Suporte" width="700">
+<img src="Captura de tela 2026-11-21 221950.png" alt="Grupo Ajuda e Suporte" width="700">
 
 **Pedir e prestar ajuda** (LD, LT, UA, ST) envolve entender como usar cada etapa e iniciar contato com o suporte. Do lado do suporte (ST), atender os pedidos de ajuda.
 
