@@ -7,7 +7,7 @@ O mapa de objetivos representa graficamente o que as personas querem alcançar a
 ## Como ler o mapa
 
 <div align="center">
-<img src="c:\Users\nadia\OneDrive\Imagens\Screenshots\Captura de tela 2026-11-21 214954.png" alt="Legenda do mapa de objetivos" width="420">
+<img src="c:\Users\nadia\OneDrive\Imagens\Screenshots\Captura de tela 2026-11-21 214954.png"alt="Legenda do mapa de objetivos" width="420">
 </div>
 
 | Sigla | Papel 
@@ -23,20 +23,20 @@ Cada caixa segue o formato **Papel | Objetivo**. Os objetivos com mais de uma si
 
 O mapa tem **12 grupos de objetivos**. Clique no nome para ir direto ao detalhamento.
 
-| # | Grupo | Objetivo final | Papéis | HTA |
-| :---: | :--- | :--- | :---: | :---: |
-| 1 | [Cadastro](#1-cadastro) | Criar minha conta | LD, LT, UA | HTA 1 |
-| 2 | [Acesso](#2-acesso) | Entrar na minha conta | LD, LT, UA | |
-| 3 | [Criação de Anúncios](#3-criação-de-anúncios) | Colocar um equipamento para alugar | LD, UA | HTA 2 |
-| 4 | [Gestão de Pedidos e Locações](#4-gestão-de-pedidos-e-locações) | Gerenciar meus anúncios e pedidos | LD, UA | |
-| 5 | [Busca de Equipamentos](#5-busca-de-equipamentos) | Encontrar um equipamento | LT, UA | |
-| 6 | [Solicitação e Pagamento](#6-solicitação-e-pagamento) | Alugar um equipamento | LT, UA | HTA 3 |
-| 7 | [Entrega do Equipamento](#7-entrega-do-equipamento) | Realizar a entrega do equipamento | LD, LT, UA | |
-| 8 | [Devolução do Equipamento](#8-devolução-do-equipamento) | Concluir a devolução do equipamento | LD, LT, UA | HTA 4 |
-| 9 | [Problemas](#9-problemas) | Resolver um problema no aluguel | LD, LT, UA | HTA 5 |
-| 10 | [Mediação de Casos](#10-mediação-de-casos) | Analisar e resolver disputas | ST | |
-| 11 | [Reputação e Avaliações](#11-reputação-e-avaliações) | Avaliar e ver reputação | LD, LT, UA | |
-| 12 | [Ajuda e Suporte](#12-ajuda-e-suporte) | Pedir e prestar ajuda | LD, LT, UA, ST | |
+| # | Grupo | Objetivo final | Papéis | 
+| :---: | :--- | :--- | :---: | 
+| 1 | [Cadastro](#1-cadastro) | Criar minha conta | LD, LT, UA | 
+| 2 | [Acesso](#2-acesso) | Entrar na minha conta | LD, LT, UA | 
+| 3 | [Criação de Anúncios](#3-criação-de-anúncios) | Colocar um equipamento para alugar | LD, UA | 
+| 4 | [Gestão de Pedidos e Locações](#4-gestão-de-pedidos-e-locações) | Gerenciar meus anúncios e pedidos | LD, UA | 
+| 5 | [Busca de Equipamentos](#5-busca-de-equipamentos) | Encontrar um equipamento | LT, UA | 
+| 6 | [Solicitação e Pagamento](#6-solicitação-e-pagamento) | Alugar um equipamento | LT, UA | 
+| 7 | [Entrega do Equipamento](#7-entrega-do-equipamento) | Realizar a entrega do equipamento | LD, LT, UA | 
+| 8 | [Devolução do Equipamento](#8-devolução-do-equipamento) | Concluir a devolução do equipamento | LD, LT, UA | 
+| 9 | [Problemas](#9-problemas) | Resolver um problema no aluguel | LD, LT, UA | 
+| 10 | [Mediação de Casos](#10-mediação-de-casos) | Analisar e resolver disputas | ST | 
+| 11 | [Reputação e Avaliações](#11-reputação-e-avaliações) | Avaliar e ver reputação | LD, LT, UA | 
+| 12 | [Ajuda e Suporte](#12-ajuda-e-suporte) | Pedir e prestar ajuda | LD, LT, UA, ST | 
 
 > A coluna **HTA** indica os objetivos que deram origem aos HTAs, que estão em [4-htas.md](./4-htas.md).
 
