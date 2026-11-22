@@ -9,30 +9,29 @@ A metamensagem é a mensagem implícita que a equipe de design transmite ao usu�
 
 “Olá! Seja bem-vindo(a) ao ItaAluga!
 
-Entendemos que você é <span style="color: #9D63C1;">**um morador ou moradora de Itacoatiara que tem equipamentos parados e quer gerar uma renda extra, ou que precisa de um equipamento por pouco tempo sem precisar comprá-lo.**</span>
+Entendemos que você é $\color{#9D63C1}{\textbf{um morador ou moradora}}$ $\color{#9D63C1}{\textbf{de Itacoatiara que tem}}$ $\color{#9D63C1}{\textbf{equipamentos parados e quer}}$ $\color{#9D63C1}{\textbf{gerar uma renda extra,}}$ $\color{#9D63C1}{\textbf{ou que precisa de}}$ $\color{#9D63C1}{\textbf{um equipamento por pouco}}$ $\color{#9D63C1}{\textbf{tempo sem precisar comprá-lo.}}$
 
-Sabemos que você procura <span style="color: #3984C6;"> **praticidade, economia e segurança, com informações claras e etapas fáceis de seguir,**</span> porque se preocupa com a conservação do equipamento, com a confiança na outra pessoa e com as garantias do aluguel.
+Sabemos que você procura $\color{#3984C6}{\textbf{praticidade, economia e segurança,}}$ $\color{#3984C6}{\textbf{com informações claras e}}$ $\color{#3984C6}{\textbf{etapas fáceis de seguir,}}$ porque se preocupa com a conservação do equipamento, com a confiança na outra pessoa e com as garantias do aluguel.
 
-Por isso criamos o **ItaAluga**, <span style="color: #398A62;"> **um aplicativo que conecta pessoas de Itacoatiara para alugar equipamentos com mais segurança,**</span> com confirmação de identidade, garantias, registro do estado do equipamento com fotos, avaliações entre usuários e apoio do suporte se algo der errado.
+Por isso criamos o **ItaAluga**, $\color{#398A62}{\textbf{um aplicativo que conecta}}$ $\color{#398A62}{\textbf{pessoas de Itacoatiara para}}$ $\color{#398A62}{\textbf{alugar equipamentos com mais}}$ $\color{#398A62}{\textbf{segurança,}}$ com confirmação de identidade, garantias, registro do estado do equipamento com fotos, avaliações entre usuários e apoio do suporte se algo der errado.
 
-Para usá-lo, <span style="color: #C65B5B;"> **faça seu cadastro e use a mesma conta para anunciar ou alugar:**</span> publique ou pesquise equipamentos, registre o estado do item na entrega e na devolução e, em caso de imprevisto, reporte o problema ou peça ajuda.
+Para usá-lo, $\color{#C65B5B}{\textbf{faça seu cadastro e}}$ $\color{#C65B5B}{\textbf{use a mesma conta}}$ $\color{#C65B5B}{\textbf{para anunciar ou alugar:}}$ publique ou pesquise equipamentos, registre o estado do item na entrega e na devolução e, em caso de imprevisto, reporte o problema ou peça ajuda.
 
 Com o **ItaAluga**, queremos transformar equipamentos parados em oportunidades e tornar o aluguel mais prático e seguro para Itacoatiara.”
 
 **Legenda:**
 
-1. <span style="color: #9D63C1;">**Quem é o usuário:**</span>
+1. $\color{#9D63C1}{\textbf{Quem é o usuário:}}$  
    Moradores de Itacoatiara que têm equipamentos parados ou precisam de um por pouco tempo.
 
-2. <span style="color: #3984C6;">**O que quer/precisa fazer e formas que prefere:**</span>
+2. $\color{#3984C6}{\textbf{O que quer/precisa fazer e formas}}$ $\color{#3984C6}{\textbf{que prefere:}}$  
    Alugar ou anunciar de forma prática e segura, com informações claras e etapas fáceis de seguir.
 
-3. <span style="color: #398A62;">**Qual é a solução projetada:**</span>
-   O ItaAluga, aplicativo de aluguel entre pessoas, com identidade confirmada, caução, fotos, avaliações e suporte.
+3. $\color{#398A62}{\textbf{Qual é a solução projetada:}}$  
+   O ItaAluga, aplicativo de aluguel entre pessoas, com identidade confirmada, garantias, fotos, avaliações e suporte.
 
-4. <span style="color: #C65B5B;"> **Formas de utilizar a solução:**</span>
+4. $\color{#C65B5B}{\textbf{Formas de utilizar a solução:}}$  
    Usar a mesma conta para anunciar ou alugar, registrar o estado do item com fotos e pedir ajuda se algo der errado.
-
 ## Rastreabilidade com as personas
  
 | Trecho da metamensagem | De onde vem |
