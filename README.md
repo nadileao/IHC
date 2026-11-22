@@ -1,103 +1,84 @@
 <div align="center">
 <h1>Interação Humano-Computador (IHC)</h1>
- 
+
 <img src="https://img.shields.io/badge/UFAM-ICET-6A1B9A?style=for-the-badge&logo=googlescholar&logoColor=white">
-<img src="https://img.shields.io/badge/TP1-2026-7B2CBF?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/Sistema-Lucid-6A1B9A?style=for-the-badge&logo=lucid&logoColor=white">
+<img src="https://img.shields.io/badge/TP1-Avaliação_do_Lucid-7B2CBF?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/TP2-Design_de_IHC-6A1B9A?style=for-the-badge&logo=figma&logoColor=white">
 <br><br>
- 
+
 <p>
-<b>Trabalho Prático 1 — Avaliação do Sistema Lucid</b>
-</p>
-<p>
-<b>Disciplina:</b> Interação Humano-Computador (IHC) · UFAM / ICET
+<b>Disciplina:</b> Interação Humano-Computador (IHC) · UFAM / ICET<br>
+<b>Professor:</b> Prof. Dr. Andrey Rodrigues
 </p>
 </div>
 
 ## 📑 Sumário
- 
-- [📌 Sobre o TP1](#-sobre-o-tp1)
-- [📱 Sobre o Sistema: Lucid](#-sobre-o-sistema-lucid)
-- [🗂️ Estrutura do Trabalho](#️-estrutura-do-trabalho)
+
+- [📌 Visão Geral](#-visão-geral)
+- [📚 Navegação pelos Trabalhos](#-navegação-pelos-trabalhos)
 - [📁 Organização do Repositório](#-organização-do-repositório)
-- [🔍 Resumo das Avaliações](#-resumo-das-avaliações)
-- [🛠️ Tecnologias e Ferramentas](#️-tecnologias-e-ferramentas)
+- [🔧 Tecnologias e Ferramentas](#-tecnologias-e-ferramentas)
 - [👥 Integrantes](#-integrantes)
 - [📝 Observações Gerais](#-observações-gerais)
 - [🤖 Declaração de Uso de IA](#-declaração-de-uso-de-ia)
----
- 
-## 📌 Sobre o TP1
- 
-O TP1 consiste na avaliação do sistema **Lucid** sob diferentes perspectivas da Interação Humano-Computador (IHC), considerando aspectos relacionados à usabilidade, experiência do usuário, acessibilidade e comunicabilidade.
- 
----
- 
-## 📱 Sobre o Sistema: Lucid
- 
-O **Lucid** é uma plataforma colaborativa baseada em nuvem para criação de diagramas, fluxogramas, mapas mentais e quadros visuais, voltada à comunicação
-de ideias e processos por meio de recursos gráficos. Reúne produtos como o **Lucidchart** (diagramação) e o **Lucidspark** (quadro branco colaborativo), permitindo o trabalho em equipe em tempo real.
- 
-<div align="center">
-<!-- Substitua pelo caminho de uma captura de tela do sistema -->
-<img width="1000" height="870" alt="image" src="https://github.com/user-attachments/assets/beed6e4e-b787-4178-8e27-6ce3438d3cb6" />
-<sub>Imagem: interface do Lucidchart.</sub>
- 
-</div>
 
- 
-## 🗂️ Estrutura do Trabalho
- 
-O trabalho está organizado nas seguintes etapas:
- 
+---
+
+## 📌 Visão Geral
+
+Este repositório reúne os dois trabalhos práticos da disciplina de IHC.
+
+| Trabalho | Tema | Detalhes |
+| :---: | :--- | :---: |
+| **TP1** | Avaliação do sistema **Lucid**: usabilidade, UX, acessibilidade e comunicabilidade | [Ver TP1](./TP1-IHC/README.md) |
+| **TP2** | Design do aplicativo **ItAluga**: imersão, ideação e prototipação | [Ver TP2](./Design-IHC/README.md) |
+
+---
+
+## 📚 Navegação pelos Trabalhos
+
+### TP1: Avaliação do Lucid
+
 | Etapa | Avaliação | Acesso |
 | :---: | :--- | :---: |
-| **00** | 📱 Apresentação do Sistema | [Acessar](./TP1-IHC/00-lucid) |
-| **01** | 🔎 Avaliação de Usabilidade | [Acessar](./TP1-IHC/01-avaliacao-usabilidade) |
-| **02** | 💭 Avaliação de UX | [Acessar](./TP1-IHC/02-avaliacao-ux) |
-| **03** | ♿ Avaliação de Acessibilidade | [Acessar](./TP1-IHC/03-avaliacao-acessibilidade) |
-| **04** | 💬 Avaliação de Comunicabilidade | [Acessar](./TP1-IHC/04-avaliacao-comunicabilidade) |
- 
+| 00 | Apresentação do Sistema | [Acessar](./TP1-IHC/00-lucid) |
+| 01 | Usabilidade | [Acessar](./TP1-IHC/01-avaliacao-usabilidade) |
+| 02 | UX | [Acessar](./TP1-IHC/02-avaliacao-ux) |
+| 03 | Acessibilidade | [Acessar](./TP1-IHC/03-avaliacao-acessibilidade) |
+| 04 | Comunicabilidade | [Acessar](./TP1-IHC/04-avaliacao-comunicabilidade) |
+
+### TP2: Design de IHC
+
+| Etapa | Artefatos | Acesso |
+| :---: | :--- | :---: |
+| 01 | Imersão: briefing, Matriz CSD e pesquisa com usuários | [Acessar](./Design-IHC/01-imersao) |
+| 02 | Ideação: personas, metamensagem, mapa de objetivos, HTAs e MoLIC | [Acessar](./Design-IHC/02-ideacao) |
+| 03 | Prototipação: sketches de baixa fidelidade | [Acessar](./Design-IHC/03-prototipacao) |
+
 ---
- 
+
 ## 📁 Organização do Repositório
 
 ```text
 .
-├── TP1-IHC/
+├── TP1-IHC/                 # Avaliação do Lucid (README próprio)
 │   ├── 00-lucid/
-│   │   └── Apresentacao-do-sistema.md       # Apresentação do sistema
 │   ├── 01-avaliacao-usabilidade/
-│   │   ├── 1-inspecao.md                    # Inspeção de usabilidade (Avaliação Heurística)
-│   │   ├── 2-teste.md                       # Teste de usabilidade com usuários
-│   │   └── imagens/                         # Evidências e capturas de tela
 │   ├── 02-avaliacao-ux/
-│   │   ├── experiencia-do-uso.md            # Avaliação de experiência do usuário (UEQ + ATLAS.ti)
-│   │   └── imagens/                         # Gráficos do UEQ e redes do ATLAS.ti
 │   ├── 03-avaliacao-acessibilidade/
-│   │   └── Inspecao-de-acessibilidade.md    # Avaliação de acessibilidade
 │   └── 04-avaliacao-comunicabilidade/
-│       └── mac.md                           # Avaliação de comunicabilidade (MAC)
+├── Design-IHC/              # Design do aplicativo (README próprio)
+│   ├── 01-imersao/
+│   ├── 02-ideacao/
+│   └── 03-prototipacao/
 ├── LICENSE
 └── README.md
 ```
- 
----
- 
-## 🔍 Resumo das Avaliações
- 
-| Etapa | Avaliação | Descrição |
-| :---: | :--- | :--- |
-| **00** | 📱 Apresentação do Sistema | Contextualização do Lucid: finalidade, público-alvo e principais funcionalidades. |
-| **01** | 🔎 Usabilidade | Análise da facilidade de uso, eficiência, aprendizado e prevenção de erros na interface. |
-| **02** | 💭 UX | Investigação das percepções, emoções e satisfação dos usuários ao utilizar o sistema. |
-| **03** | ♿ Acessibilidade | Verificação das condições de uso por pessoas com diferentes necessidades e limitações. |
-| **04** | 💬 Comunicabilidade | Análise de como a interface comunica ao usuário a intenção de design e as possibilidades de interação. |
- 
----
- 
-## 🛠️ Tecnologias e Ferramentas
 
+---
+
+## 🔧 Tecnologias e Ferramentas
+ 
 <div align="center">
 <img src="https://img.shields.io/badge/OBS_Studio-6A1B9A?style=for-the-badge&logo=obsstudio&logoColor=white">
 <img src="https://img.shields.io/badge/UEQ-7B2CBF?style=for-the-badge&logoColor=white">
@@ -108,48 +89,43 @@ O trabalho está organizado nas seguintes etapas:
 <img src="https://img.shields.io/badge/Google_Docs-6A1B9A?style=for-the-badge&logo=googledocs&logoColor=white">
 <img src="https://img.shields.io/badge/YouTube-7B2CBF?style=for-the-badge&logo=youtube&logoColor=white">
 <img src="https://img.shields.io/badge/Google_Drive-6A1B9A?style=for-the-badge&logo=googledrive&logoColor=white">
+<img src="https://img.shields.io/badge/Draw.io-7B2CBF?style=for-the-badge&logo=diagramsdotnet&logoColor=white">
+<img src="https://img.shields.io/badge/Canva-6A1B9A?style=for-the-badge&logo=canva&logoColor=white">
 </div>
 
-| Ferramenta | Utilização |
-| :--- | :--- |
-| **OBS** | Gravação das sessões (tela + áudio) dos testes de usabilidade e da avaliação de comunicabilidade. |
-| **UEQ** | Questionário para mensuração da experiência do usuário. |
-| **ATLAS.ti** | Análise qualitativa e codificação dos dados coletados. |
-| **Notion** | Organização e documentação das atividades da equipe. |
-| **GitHub** | Versionamento e publicação do trabalho. |
-| **Google Forms** | Aplicação dos questionários de caracterização e pós-teste. |
-| **Google Docs** | Elaboração da ata da equipe e de documentos de apoio. |
-| **YouTube** | Hospedagem (modo não listado) dos vídeos das sessões de comunicabilidade. |
-| **Google Drive** | Armazenamento e compartilhamento de arquivos e evidências da equipe. |
- 
+- **TP1:** OBS (gravação das sessões), UEQ (experiência do usuário), ATLAS.ti (análise qualitativa), Google Forms (questionários),Notion (organização da equipe) e YouTube (vídeos em modo não listado).
+- **TP2:** Draw.io ([HTAs, MoLIC e demais diagramas]), Canva (sketches de baixa fidelidade).
+- **Ambos:** GitHub (versionamento),  Google Docs (atas) e Google Drive.
+
 ---
- 
+
 ## 👥 Integrantes
- 
+
 | Integrante |
-| :--- |
-| **João Roberto Valentim** |
-| **Kevily da Silva Oliveira** |
-| **Marcos de Oliveira da Silva** |
-| **Matheus Damasceno Glória** |
-| **Nádia Maria Leão Xavier** |
-| **Renato Augusto Amazonas Gomes** |
- 
+| :--- | 
+| **João Roberto Valentim** | 
+| **Kevily da Silva Oliveira** | 
+| **Marcos de Oliveira da Silva** | 
+| **Matheus Damasceno Glória** | 
+| **Nádia Maria Leão Xavier** | 
+| **Renato Augusto Amazonas Gomes** | 
+
 ---
- 
+
 ## 📝 Observações Gerais
- 
-- Todo o material produzido está organizado por etapa, nas pastas indicadas acima.
-- Os dados coletados com participantes foram tratados exclusivamente para fins acadêmicos.
+
+- Todo o material está organizado por trabalho e por etapa, nas pastas indicadas acima.
+- Os dados coletados com participantes foram tratados exclusivamente para fins acadêmicos, preservando a identidade dos envolvidos.
+- A ata de participação da equipe do TP2 foi entregue separadamente, em PDF, pelo Google Classroom.
+
 ---
- 
+
 ## 🤖 Declaração de Uso de IA
- 
-A equipe utilizou as ferramentas de Inteligência Artificial **Gemini (Google)** e **Claude (Anthropic)** exclusivamente como suporte auxiliar de produtividade e organização ao longo do desenvolvimento do Trabalho Prático 2 (TP2).
 
-O uso dessas ferramentas restringiu-se à revisão ortográfica, padronização de formatação (Markdown), organização estrutural das Atas de Reunião, transcrição e síntese textual das entrevistas e consulta orientativa sobre conceitos teóricos de Interação Humano-Computador (como Matriz CSD, técnica PATHY e Engenharia Semiótica).
+A equipe utilizou as ferramentas de Inteligência Artificial **Gemini (Google)** e **Claude (Anthropic)** como suporte auxiliar no desenvolvimento do Trabalho Prático 2 (TP2), exclusivamente para revisão ortográfica, formatação em Markdown, organização das atas, transcrição e síntese de entrevistas e consulta sobre conceitos teóricos de Interação Humano-Computador (IHC).
 
-Ressaltamos que toda a coleta de dados primários em campo (condução das entrevistas em Itacoatiara-AM e coleta de TCLEs), a análise crítica dos problemas reais, a definição dos requisitos do sistema e a modelagem dos artefatos de design (Personas, Mapas de Objetivos, diagramas HTA, MoLIC e Sketches) foram concebidos e validados integralmente pelos integrantes da equipe.
+Ressaltamos que a coleta de dados em campo, a análise dos problemas identificados, a definição dos requisitos e a elaboração e validação dos artefatos de design (Personas, Mapas de Objetivos, HTA, MoLIC e Sketches) foram realizadas integralmente pelos integrantes da equipe.
+
 ---
 
 <div align="center">
