@@ -1,4 +1,4 @@
-#  HTAs: ItaAluga
+#  HTAs: ItAluga
  
 
 Os HTAs (*Hierarchical Task Analysis*) detalham como cada objetivo do [mapa de objetivos](./3-mapa-de-objetivos.md) é cumprido, decompondo a tarefa principal em subtarefas e planos de execução. Cada um dos **12 grupos do mapa** tem um HTA correspondente, apresentado lado a lado com o respectivo grupo para evidenciar a consistência entre o que foi planejado e o que foi detalhado.
@@ -30,7 +30,7 @@ Os HTAs (*Hierarchical Task Analysis*) detalham como cada objetivo do [mapa de o
   <img src="imagem/HTA de cadastro.png" alt="Mapa de objetivos e HTA: Criar minha conta" width="900">
 </a>
 
-**Propósito.** Permitir que qualquer pessoa crie a conta única do ItaAluga, usada tanto para anunciar quanto para alugar equipamentos.
+**Propósito.** Permitir que qualquer pessoa crie a conta única do ItAluga, usada tanto para anunciar quanto para alugar equipamentos.
 
 | Tarefa | Subtarefas | Plano |
 | :--- | :--- | :---: |
