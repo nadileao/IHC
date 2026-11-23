@@ -9,7 +9,7 @@ A metamensagem é a mensagem implícita que a equipe de design transmite ao usu�
 
 “Olá! Seja bem-vindo(a) ao ItaAluga!
 
-Entendemos que você é $\color{#9D63C1}{\textbf{um morador ou moradora}}$ $\color{#9D63C1}{\textbf{de Itacoatiara que tem}}$ $\color{#9D63C1}{\textbf{equipamentos parados e quer}}$ $\color{#9D63C1}{\textbf{gerar uma renda extra,}}$ $\color{#9D63C1}{\textbf{ou que precisa de}}$ $\color{#9D63C1}{\textbf{um equipamento por pouco}}$ $\color{#9D63C1}{\textbf{tempo sem precisar comprá-lo.}}$
+Entendemos que você é $\color{#9D63C1}{\textbf{um morador ou moradora}}$ $\color{#9D63C1}{\textbf{de Itacoatiara}}$  que tem equipamentos parados e quer gerar uma renda extra,ou que precisa de um equipamento por pouco tempo sem precisar comprá-lo.
 
 Sabemos que você procura $\color{#3984C6}{\textbf{praticidade, economia e segurança,}}$ $\color{#3984C6}{\textbf{com informações claras e}}$ $\color{#3984C6}{\textbf{etapas fáceis de seguir,}}$ porque se preocupa com a conservação do equipamento, com a confiança na outra pessoa e com as garantias do aluguel.
 
