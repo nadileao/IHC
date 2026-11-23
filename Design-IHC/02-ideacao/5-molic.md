@@ -277,9 +277,9 @@ Cada cena do MoLIC corresponde a tarefas definidas nos HTAs e é a base das tela
  
 | Parte do MoLIC | HTAs | Telas nos sketches |
 | :--- | :---: | :--- |
-| Conta e Acesso | 1, 2 | [Tela(s) correspondente(s)] |
-| Anúncios e Gestão de Pedidos | 3, 4 | [Tela(s) correspondente(s)] |
-| Busca e Aluguel | 5, 6 | [Tela(s) correspondente(s)] |
-| Entrega e Devolução | 7, 8 | [Tela(s) correspondente(s)] |
-| Problemas e Mediação | 9, 10 | [Tela(s) correspondente(s)] |
-| Reputação e Ajuda | 11, 12 | [Tela(s) correspondente(s)] |
+| Conta e Acesso | 1, 2 | [Sketches 1, 2 e 3](../03-prototipacao/1-sketches.md): criar conta, recuperar senha, entrar e ajustar acessibilidade |
+| Anúncios e Gestão de Pedidos | 3, 4 | [Sketches 5 e 6](../03-prototipacao/1-sketches.md): anunciar equipamento, gerenciar anúncios e pedidos |
+| Busca e Aluguel | 5, 6 | [Sketch 4](../03-prototipacao/1-sketches.md): buscar e alugar equipamento (até a solicitação) |
+| Entrega e Devolução | 7, 8 | Não prototipado nesta entrega |
+| Problemas e Mediação | 9, 10 | Não prototipado nesta entrega |
+| Reputação e Ajuda | 11, 12 | Não prototipado nesta entrega |
