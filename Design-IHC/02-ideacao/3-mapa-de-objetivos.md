@@ -1,6 +1,6 @@
-# 🎯 Mapa de Objetivos: ItaAluga
+# 🎯 Mapa de Objetivos: ItAluga
 
-O mapa de objetivos representa graficamente o que as personas querem alcançar ao usar o **ItaAluga**. Cada quadro tracejado reúne um **objetivo final** (à direita) e os objetivos que o instrumentam diretamente (à esquerda). Neste momento o mapa mostra apenas objetivos; as operações e os planos de cada tarefa são detalhados nos [HTAs](./4-htas.md).
+O mapa de objetivos representa graficamente o que as personas querem alcançar ao usar o **ItAluga**. Cada quadro tracejado reúne um **objetivo final** (à direita) e os objetivos que o instrumentam diretamente (à esquerda). Neste momento o mapa mostra apenas objetivos; as operações e os planos de cada tarefa são detalhados nos [HTAs](./4-htas.md).
 
 ## Como ler o mapa
 
