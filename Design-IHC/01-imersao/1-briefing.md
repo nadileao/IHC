@@ -39,11 +39,11 @@ As perguntas abaixo foram conduzidas de forma aberta e não diretiva, cobrindo o
   <tr>
     <td align="center" width="50%">
       <img src="img/Registro da entrevista.jpeg" alt="Figura 1" width="90%"><br>
-      <strong>Figura 1 – Registro da entrevista</strong>
+      <strong>Figura 1 </strong>
     </td>
     <td align="center" width="50%">
       <img src="img/registro da entrevista 2.jpeg" alt="Figura 2" width="90%"><br>
-      <strong>Figura 2 – Registro da entrevista 2</strong>
+      <strong>Figura 2 </strong>
     </td>
   </tr>
 </table>
