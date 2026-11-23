@@ -1,10 +1,10 @@
-# 🔀 Diagramas MoLIC: ItaAluga
+# 🔀 Diagramas MoLIC: ItAluga
 
 A MoLIC (*Modeling Language for Interaction as Conversation*) representa a interação entre o usuário e o sistema como uma conversa: cada cena é um momento do diálogo e cada transição é uma fala do usuário (**u:**) ou do designer (**d:**). Os diagramas desta página derivam dos [HTAs](./4-htas.md) e do [mapa de objetivos](./3-mapa-de-objetivos.md).
 
 ## Visão Geral do Diagrama Completo
  
-A modelagem do ItaAluga é composta por **14 diagramas** que se conectam por cenas de referência. O usuário começa pelo cadastro ou pelo acesso, e o acesso leva à busca de equipamentos. Daí a conversa se ramifica entre alugar e anunciar, passa pela entrega e pela devolução do equipamento e, quando algo dá errado, segue para a resolução de problemas, mediada pelo suporte. Avaliações, reputação e pedidos de ajuda complementam o fluxo.
+A modelagem do ItAluga é composta por **14 diagramas** que se conectam por cenas de referência. O usuário começa pelo cadastro ou pelo acesso, e o acesso leva à busca de equipamentos. Daí a conversa se ramifica entre alugar e anunciar, passa pela entrega e pela devolução do equipamento e, quando algo dá errado, segue para a resolução de problemas, mediada pelo suporte. Avaliações, reputação e pedidos de ajuda complementam o fluxo.
 
 <div align="center">
 <a href="imagem/MOLIC - visão geral do diagrama.drawio.png">
