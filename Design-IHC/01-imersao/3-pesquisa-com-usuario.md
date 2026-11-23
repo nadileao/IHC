@@ -50,7 +50,12 @@ Roteiro semiestruturado aplicado aos participantes da pesquisa complementar, abr
 
 ---
 
-## 4. Evidências Éticas (TCLEs)
+## 4. Evidências da Pesquisa
+As entrevistas foram realizadas presencialmente com autorização dos participantes e registradas em áudio para garantir a fidelidade das informações coletadas durante a pesquisa. Os registros foram utilizados exclusivamente para a transcrição e síntese das respostas, preservando a identidade dos participantes.
 
-*(Inserir aqui as imagens dos Termos de Consentimento Livre e Esclarecido assinados pelas participantes da Pesquisa Complementar, com nomes completos, assinaturas e telefones devidamente tarjados para preservar o anonimato).*
+Os registros em áudio das entrevistas encontram-se disponíveis no link abaixo:
 
+📁 Pasta com os registros das entrevistas:
+  [**Áudios das entrevistas**](https://drive.google.com/drive/folders/1e32LLpkI5AvfFIIeLxCwTxvjaGn7FIAZ?usp=sharing)
+
+Além disso, foram coletados os Termos de Consentimento Livre e Esclarecido (TCLE), que que serão entregue pelo classroom.
