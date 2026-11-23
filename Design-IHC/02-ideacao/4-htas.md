@@ -11,7 +11,7 @@ O número **0** de cada HTA é o objetivo final do grupo correspondente no mapa.
 | :---: | :--- | :--- |
 | **>** | Sequência: uma subtarefa depois da outra | `1 > 2 > 3` |
 | **/** | Escolha: o usuário executa apenas uma das alternativas | `1.2.1 / 1.2.2` |
-| **+** | Subtarefas realizadas em qualquer ordem, todas necessárias | `1.1 + 1.2 + 1.3` |
+| **+** |Subtarefas realizadas em qualquer ordem ou ao mesmo tempo | `1.1 + 1.2 + 1.3` |
 | **( )** | Agrupamento dentro de um plano | `(1.1 + 1.2) > 1.3` |
 
 ## Visão Geral
@@ -79,7 +79,7 @@ O número **0** de cada HTA é o objetivo final do grupo correspondente no mapa.
 | **3. Confirmar minha identidade** | 3.1 Fotografar o RG ou 3.2 Fotografar a CNH; 3.3 Tirar uma selfie para validação facial; 3.4 Enviar o comprovante de endereço (3.4.1 tirar foto ou 3.4.2 escolher arquivo) | `(3.1 / 3.2) > 3.3 > 3.4` e `3.4.1 / 3.4.2` |
 | **4. Publicar o anúncio** | 4.1 Revisar o resumo das informações; 4.2 Confirmar e ativar o anúncio | `4.1 > 4.2` |
 
-**Decisões e fluxo.** As tarefas ocorrem em sequência. O usuário decide a origem das fotos (câmera ou arquivo), o documento de identificação (RG ou CNH) e a forma de enviar o comprovante de endereço (foto ou arquivo). Os campos de cada etapa podem ser preenchidos em qualquer ordem. A confirmação de identidade (3) dá segurança a quem for alugar, e a revisão (4.1) evita publicar informações incorretas antes da ativação (4.2).
+**Decisões e fluxo.** As tarefas ocorrem em sequência, e a confirmação de identidade (tarefa 3) só é pedida na primeira vez que o usuário anuncia ou solicita um aluguel; nas demais vezes, ela é pulada." O usuário decide a origem das fotos (câmera ou arquivo), o documento de identificação (RG ou CNH) e a forma de enviar o comprovante de endereço (foto ou arquivo). Os campos de cada etapa podem ser preenchidos em qualquer ordem. A confirmação de identidade (3) dá segurança a quem for alugar, e a revisão (4.1) evita publicar informações incorretas antes da ativação (4.2).
 
 ---
 
