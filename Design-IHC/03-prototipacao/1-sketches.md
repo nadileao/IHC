@@ -1,6 +1,5 @@
 # Sketches: ItaAluga
 
-[⬅ Voltar ao README principal](../README.md)
 
 Os sketches são protótipos de **baixa fidelidade**, sem cores e sem interação, que representam o início do design visual do ItaAluga. Cada tela deriva de uma cena dos [diagramas MoLIC](../02-ideacao/5-molic.md) e das tarefas dos [HTAs](../02-ideacao/4-htas.md). Foram feitos no Draw.io.
 
