@@ -3,17 +3,6 @@
 
 Os HTAs (*Hierarchical Task Analysis*) detalham como cada objetivo do [mapa de objetivos](./3-mapa-de-objetivos.md) é cumprido, decompondo a tarefa principal em subtarefas e planos de execução. Cada um dos **12 grupos do mapa** tem um HTA correspondente, apresentado lado a lado com o respectivo grupo para evidenciar a consistência entre o que foi planejado e o que foi detalhado.
 
-## Como ler os HTAs
-
-O número **0** de cada HTA é o objetivo final do grupo correspondente no mapa. Os objetivos ligados a ele no mapa aparecem como as tarefas de nível 1 do HTA. Os **planos** indicam como as subtarefas se combinam:
-
-| Símbolo | Significado | Exemplo |
-| :---: | :--- | :--- |
-| **>** | Sequência: uma subtarefa depois da outra | `1 > 2 > 3` |
-| **/** | Escolha: o usuário executa apenas uma das alternativas | `1.2.1 / 1.2.2` |
-| **+** |Subtarefas realizadas em qualquer ordem ou ao mesmo tempo | `1.1 + 1.2 + 1.3` |
-| **( )** | Agrupamento dentro de um plano | `(1.1 + 1.2) > 1.3` |
-
 ## Visão Geral
 
 | HTA | Objetivo (tarefa 0) | Papéis | Plano | Grupo no mapa |
@@ -37,7 +26,7 @@ O número **0** de cada HTA é o objetivo final do grupo correspondente no mapa.
 
 ### HTA 1: Criar minha conta
 
-<img src="imagem/HTA de Cadastro.png" alt="Mapa de objetivos e HTA: Criar minha conta" width="900">
+<img src="imagem/HTA de cadastro.png" alt="Mapa de objetivos e HTA: Criar minha conta" width="900">
 
 **Propósito.** Permitir que qualquer pessoa crie a conta única do ItaAluga, usada tanto para anunciar quanto para alugar equipamentos.
 
@@ -115,7 +104,7 @@ O número **0** de cada HTA é o objetivo final do grupo correspondente no mapa.
 
 ### HTA 6: Alugar um equipamento
 
-<img src="imagem/HTA de solicitar.png" alt="Mapa de objetivos e HTA: Alugar um equipamento" width="900">
+<img src="imagem/HTA de Solicitar.png" alt="Mapa de objetivos e HTA: Alugar um equipamento" width="900">
 
 **Propósito.** Conduzir o locatário da solicitação do aluguel até o pagamento, confirmando sua identidade e acompanhando a resposta do locador.
 
@@ -164,7 +153,7 @@ O número **0** de cada HTA é o objetivo final do grupo correspondente no mapa.
 
 ### HTA 9: Resolver um problema no aluguel
 
-<img src="imagem/HTA de problema.png" alt="Mapa de objetivos e HTA: Resolver um problema no aluguel" width="900">
+<img src="imagem/HTA de Problema.png" alt="Mapa de objetivos e HTA: Resolver um problema no aluguel" width="900">
 
 **Propósito.** Permitir que locador ou locatário reporte, comprove e acompanhe um problema ocorrido no aluguel e receba uma decisão sobre ele.
 
@@ -213,7 +202,7 @@ O número **0** de cada HTA é o objetivo final do grupo correspondente no mapa.
 
 ### HTA 12: Pedir e prestar ajuda
 
-<img src="imagem/HTA de ajuda.png" alt="Mapa de objetivos e HTA: Pedir e prestar ajuda" width="900">
+<img src="imagem/HTA de Ajudar.png" alt="Mapa de objetivos e HTA: Pedir e prestar ajuda" width="900">
 
 **Propósito.** Oferecer ao usuário caminhos para tirar dúvidas, sozinho ou com o suporte, e descrever como o Suporte Técnico atende os pedidos.
 
