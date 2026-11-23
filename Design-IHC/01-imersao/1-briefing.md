@@ -25,7 +25,7 @@ As perguntas abaixo foram conduzidas de forma aberta e não diretiva, cobrindo o
 | **Prioridades** | 1. **Segurança e Respaldo:** Garantir proteção financeira e formal contra danos, atrasos e não devolução.<br>2. **Confiança entre Usuários:** Assegurar que as partes envolvidas sejam reais e tenham histórico confiável.<br>3. **Acessibilidade e Inclusão:** Atender moradores com baixo letramento digital, pessoas idosas, celulares simples e conexão de internet instável. |
 | **Fontes de informação** | Relato prático de profissional autônomo da região (eletricista, 34 anos); manuais técnicos de fabricantes de ferramentas; normas de economia compartilhada; diretrizes de acessibilidade (W3C) e LGPD. |
 | **Padrão prévio** | Facebook Marketplace, OLX, Mercado Livre e grupos locais de WhatsApp. Falham por serem informais e inseguros para maquinários (sem verificação de identidade, sem garantias, sem registros formais e sem filtros técnicos). |
-| **Contato técnico** | [Inserir e-mail ou usuário GitHub do integrante responsável pela comunicação técnica do grupo] |
+| **Contato técnico** | O cliente autoriza novos contatos por meio do WhatsApp caso seja necessário esclarecer dúvidas durante o desenvolvimento do projeto. |
 | **Restrições** | Acesso à locação condicionado à validação real de identidade; restrição para usuários com histórico de inadimplência ou mau uso; autonomia para o dono do equipamento aceitar ou recusar solicitações; necessidade de funcionamento leve em redes móveis oscilantes. |
 
 ## 4. Questões que ainda precisam ser investigadas
@@ -35,6 +35,19 @@ As perguntas abaixo foram conduzidas de forma aberta e não diretiva, cobrindo o
 - Quais elementos visuais (tamanho de botões, contraste, ícones com rótulos) são indispensáveis para garantir autonomia a usuários mais velhos ou com baixa familiaridade digital?
 
 ## 5. Registro da reunião
-*(Inserir aqui a imagem do Termo de Consentimento Livre e Esclarecido - TCLE assinado pelo participante, com nome completo e assinatura devidamente tarjados para preservar sua identidade).*
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="img/Registro da entrevista.jpeg" alt="Figura 3" width="400" height="240" style="object-fit: contain;">
+      <br>
+      <strong>Figura 1</strong>
+    </td>
+    <td align="center" width="50%">
+      <img src="img/registro da entrevista 2.jpeg" alt="Figura 4" width="400" height="240" style="object-fit: contain;">
+      <br>
+      <strong>Figura 2</strong>
+    </td>
+  </tr>
+</table>
 
-**Descrição:** Entrevista semiestruturada realizada presencialmente em Itacoatiara (AM) com profissional eletricista (34 anos), registrada por meio de anotações e gravação de áudio autorizada mediante assinatura do TCLE, visando mapear as dores reais e o contexto local de locação de equipamentos.
+**Descrição:** Entrevista semiestruturada realizada presencialmente em Itacoatiara (AM) com profissional eletricista (34 anos), registrada por meio de anotações e registro fotográficos, autorizada mediante assinatura do TCLE, visando mapear as dores reais e o contexto local de locação de equipamentos.
