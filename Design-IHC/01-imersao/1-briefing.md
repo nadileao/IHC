@@ -35,17 +35,15 @@ As perguntas abaixo foram conduzidas de forma aberta e não diretiva, cobrindo o
 - Quais elementos visuais (tamanho de botões, contraste, ícones com rótulos) são indispensáveis para garantir autonomia a usuários mais velhos ou com baixa familiaridade digital?
 
 ## 5. Registro da reunião
-<table>
+<table align="center" width="100%">
   <tr>
     <td align="center" width="50%">
-      <img src="img/Registro da entrevista.jpeg" alt="Figura 3" width="400" height="240" style="object-fit: contain;">
-      <br>
-      <strong>Figura 1</strong>
+      <img src="img/Registro da entrevista.jpeg" alt="Figura 1" width="90%"><br>
+      <strong>Figura 1 – Registro da entrevista</strong>
     </td>
     <td align="center" width="50%">
-      <img src="img/registro da entrevista 2.jpeg" alt="Figura 4" width="400" height="240" style="object-fit: contain;">
-      <br>
-      <strong>Figura 2</strong>
+      <img src="img/registro da entrevista 2.jpeg" alt="Figura 2" width="90%"><br>
+      <strong>Figura 2 – Registro da entrevista 2</strong>
     </td>
   </tr>
 </table>
