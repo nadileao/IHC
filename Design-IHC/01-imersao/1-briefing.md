@@ -34,7 +34,7 @@ As perguntas abaixo foram conduzidas de forma aberta e não diretiva, cobrindo o
 - Como estruturar a mediação de conflitos e a defesa do locatário caso ocorra acusação de dano ou divergência no estado de devolução do item?
 - Quais elementos visuais (tamanho de botões, contraste, ícones com rótulos) são indispensáveis para garantir autonomia a usuários mais velhos ou com baixa familiaridade digital?
 
-## 5. Registro da reunião
+## 5. Registro da entrevista
 <table align="center" width="100%">
   <tr>
     <td align="center" width="50%">
