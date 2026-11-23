@@ -1,7 +1,7 @@
-# Sketches: ItaAluga
+# Sketches: ItAluga
 
 
-Os sketches são protótipos de **baixa fidelidade**, sem cores e sem interação, que representam o início do design visual do ItaAluga. Cada tela deriva de uma cena dos [diagramas MoLIC](../02-ideacao/5-molic.md) e das tarefas dos [HTAs](../02-ideacao/4-htas.md). Foram feitos no Draw.io.
+Os sketches são protótipos de **baixa fidelidade**, sem cores e sem interação, que representam o início do design visual do ItAluga. Cada tela deriva de uma cena dos [diagramas MoLIC](../02-ideacao/5-molic.md) e das tarefas dos [HTAs](../02-ideacao/4-htas.md). Foram feitos no Draw.io.
 
 Os sketches cobrem seis fluxos, distribuídos em **11 imagens**. Para o fluxo de **Criar conta**, foram feitas duas versões alternativas (A e B), e a equipe escolheu a **versão A**.
 
