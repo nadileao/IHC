@@ -4,10 +4,12 @@
 
 Os sketches são protótipos de **baixa fidelidade**, sem cores e sem interação, que representam o início do design visual do ItaAluga. Cada tela deriva de uma cena dos [diagramas MoLIC](../02-ideacao/5-molic.md) e das tarefas dos [HTAs](../02-ideacao/4-htas.md). Foram feitos no Draw.io.
 
-Os sketches cobrem seis fluxos, em 11 imagens. Para o **Criar conta**, foram feitas duas versões alternativas (A e B), e a equipe escolheu a **versão A**.
+Os sketches cobrem seis fluxos, distribuídos em **11 imagens**. Para o fluxo de **Criar conta**, foram feitas duas versões alternativas (A e B), e a equipe escolheu a **versão A**.
 
-| # | Fluxo | Imagem | MoLIC | HTA |
-| :---: | :--- | :--- | :--- | :--- |
+## Relação entre os fluxos, imagens e modelos
+
+| **#** | **Fluxo** | **Imagem** | **MoLIC** | **HTA** |
+| ----- | --------- | :--------: | --------- | ------- |
 | 1 | [Criar conta](#1-criar-conta) (versões A e B) | 2 | [1.1 Cadastro](../02-ideacao/5-molic.md#11-criar-minha-conta-cadastro) | [HTA 1](../02-ideacao/4-htas.md#hta-1-criar-minha-conta) |
 | 2 | [Recuperar senha](#2-recuperar-senha) | 2 | [1.3 Recuperar senha](../02-ideacao/5-molic.md#13-recuperar-minha-senha) | [HTA 2](../02-ideacao/4-htas.md#hta-2-entrar-na-minha-conta) |
 | 3 | [Entrar e ajustar acessibilidade](#3-entrar-e-ajustar-acessibilidade) | 1 | [1.2 Acesso](../02-ideacao/5-molic.md#12-entrar-no-sistema-e-ajustar-acessibilidade-acesso) | [HTA 2](../02-ideacao/4-htas.md#hta-2-entrar-na-minha-conta) |
@@ -24,11 +26,11 @@ Fluxo de cadastro: o usuário parte do login, informa seus dados, confirma o tel
 ### Versão A (escolhida)
 
 <div align="center">
-<a href="imagem/SKETCHES%201(tela%20A).png">
-<img src="imagem/SKETCHES%201(tela%20A).png" alt="Sketch: Criar conta, versão A" width="1000">
-</a>
-<br>
-<sub>Clique na imagem para abri-la em tamanho original.</sub>
+  <a href="imagem/SKETCHES%201(tela%20A).png">
+    <img src="imagem/SKETCHES%201(tela%20A).png" alt="Sketch: Criar conta, versão A" width="1000">
+  </a>
+  <br>
+  <sub>Clique na imagem para abri-la em tamanho original.</sub>
 </div>
 
 | Tela | Elementos principais | Cena do MoLIC |
@@ -42,11 +44,11 @@ Fluxo de cadastro: o usuário parte do login, informa seus dados, confirma o tel
 ### Versão B (alternativa)
 
 <div align="center">
-<a href="imagem/SKETCHES%201(tela%20B).png">
-<img src="imagem/SKETCHES%201(tela%20B).png" alt="Sketch: Criar conta, versão B" width="1000">
-</a>
-<br>
-<sub>Clique na imagem para abri-la em tamanho original.</sub>
+  <a href="imagem/SKETCHES%201(tela%20B).png">
+    <img src="imagem/SKETCHES%201(tela%20B).png" alt="Sketch: Criar conta, versão B" width="1000">
+  </a>
+  <br>
+  <sub>Clique na imagem para abri-la em tamanho original.</sub>
 </div>
 
 A versão B reúne o cadastro e a definição da senha em **uma única tela**, o que reduz o fluxo de cinco para quatro telas.
@@ -67,11 +69,11 @@ A versão B reúne o cadastro e a definição da senha em **uma única tela**, o
 Fluxo para quem esqueceu a senha: o usuário informa o telefone, confirma o código recebido e define uma nova senha. Ao final, volta ao login.
 
 <div align="center">
-<a href="imagem/SKETCHES%202.png">
-<img src="imagem/SKETCHES%202.png" alt="Sketch: Recuperar senha" width="1000">
-</a>
-<br>
-<sub>Clique na imagem para abri-la em tamanho original.</sub>
+  <a href="imagem/SKETCHES%202.png">
+    <img src="imagem/SKETCHES%202.png" alt="Sketch: Recuperar senha" width="1000">
+  </a>
+  <br>
+  <sub>Clique na imagem para abri-la em tamanho original.</sub>
 </div>
 
 | Tela | Elementos principais | Cena do MoLIC |
@@ -84,11 +86,11 @@ Fluxo para quem esqueceu a senha: o usuário informa o telefone, confirma o cód
 ### Mensagens de erro
 
 <div align="center">
-<a href="imagem/SKETCHES%203.png">
-<img src="imagem/SKETCHES%203.png" alt="Sketch: Recuperar senha, mensagens de erro" width="900">
-</a>
-<br>
-<sub>Clique na imagem para abri-la em tamanho original.</sub>
+  <a href="imagem/SKETCHES%203.png">
+    <img src="imagem/SKETCHES%203.png" alt="Sketch: Recuperar senha, mensagens de erro" width="900">
+  </a>
+  <br>
+  <sub>Clique na imagem para abri-la em tamanho original.</sub>
 </div>
 
 Cada erro previsto no MoLIC aparece em um aviso fixo no topo da tela em que ocorreu, com ícone de alerta e fundo cinza, e o usuário permanece na mesma tela para corrigir.
@@ -106,11 +108,11 @@ Cada erro previsto no MoLIC aparece em um aviso fixo no topo da tela em que ocor
 Fluxo de login com os recursos de apoio. No primeiro acesso, o usuário decide se quer adaptar a tela. Se já tiver uma preferência definida, o fluxo segue direto para a lista de equipamentos.
 
 <div align="center">
-<a href="imagem/SKETCHES%205.png">
-<img src="imagem/SKETCHES%205.png" alt="Sketch: Entrar e ajustar acessibilidade" width="1000">
-</a>
-<br>
-<sub>Clique na imagem para abri-la em tamanho original.</sub>
+  <a href="imagem/SKETCHES%205.png">
+    <img src="imagem/SKETCHES%205.png" alt="Sketch: Entrar e ajustar acessibilidade" width="1000">
+  </a>
+  <br>
+  <sub>Clique na imagem para abri-la em tamanho original.</sub>
 </div>
 
 | Tela | Elementos principais | Cena do MoLIC |
@@ -130,11 +132,11 @@ O botão **Aa** no topo da última tela representa o acesso ubíquo do MoLIC, qu
 Fluxo do locatário: busca o equipamento, vê os resultados, examina o anúncio, confirma a identidade e envia a solicitação ao locador.
 
 <div align="center">
-<a href="imagem/SKETCHES%204.png">
-<img src="imagem/SKETCHES%204.png" alt="Sketch: Buscar e alugar equipamentos" width="1000">
-</a>
-<br>
-<sub>Clique na imagem para abri-la em tamanho original.</sub>
+  <a href="imagem/SKETCHES%204.png">
+    <img src="imagem/SKETCHES%204.png" alt="Sketch: Buscar e alugar equipamentos" width="1000">
+  </a>
+  <br>
+  <sub>Clique na imagem para abri-la em tamanho original.</sub>
 </div>
 
 | Tela | Elementos principais | Cena do MoLIC |
@@ -154,11 +156,11 @@ Fluxo do locador: descreve o equipamento, define preços e regras, confirma a id
 ### Parte 1 de 2
 
 <div align="center">
-<a href="imagem/SKETCHES%206.png">
-<img src="imagem/SKETCHES%206.png" alt="Sketch: Anunciar equipamento, parte 1" width="1000">
-</a>
-<br>
-<sub>Clique na imagem para abri-la em tamanho original.</sub>
+  <a href="imagem/SKETCHES%206.png">
+    <img src="imagem/SKETCHES%206.png" alt="Sketch: Anunciar equipamento, parte 1" width="1000">
+  </a>
+  <br>
+  <sub>Clique na imagem para abri-la em tamanho original.</sub>
 </div>
 
 | Tela | Elementos principais | Cena do MoLIC |
@@ -172,11 +174,11 @@ As anotações mostram a bifurcação do MoLIC: com a identidade **já validada*
 ### Parte 2 de 2
 
 <div align="center">
-<a href="imagem/SKETCHES%207.png">
-<img src="imagem/SKETCHES%207.png" alt="Sketch: Anunciar equipamento, parte 2" width="1000">
-</a>
-<br>
-<sub>Clique na imagem para abri-la em tamanho original.</sub>
+  <a href="imagem/SKETCHES%207.png">
+    <img src="imagem/SKETCHES%207.png" alt="Sketch: Anunciar equipamento, parte 2" width="1000">
+  </a>
+  <br>
+  <sub>Clique na imagem para abri-la em tamanho original.</sub>
 </div>
 
 | Tela | Elementos principais | Cena do MoLIC |
@@ -188,11 +190,11 @@ As anotações mostram a bifurcação do MoLIC: com a identidade **já validada*
 ### Mensagens de erro
 
 <div align="center">
-<a href="imagem/SKETCHES%208.png">
-<img src="imagem/SKETCHES%208.png" alt="Sketch: Anunciar equipamento, mensagens de erro" width="1000">
-</a>
-<br>
-<sub>Clique na imagem para abri-la em tamanho original.</sub>
+  <a href="imagem/SKETCHES%208.png">
+    <img src="imagem/SKETCHES%208.png" alt="Sketch: Anunciar equipamento, mensagens de erro" width="1000">
+  </a>
+  <br>
+  <sub>Clique na imagem para abri-la em tamanho original.</sub>
 </div>
 
 | Tela | Mensagem | Transição do MoLIC |
@@ -211,11 +213,11 @@ Painel do locador: mostra anúncios, aluguéis em andamento e solicitações rec
 ### Parte 1 de 2
 
 <div align="center">
-<a href="imagem/SKETCHES%209.png">
-<img src="imagem/SKETCHES%209.png" alt="Sketch: Gerenciar anúncios e pedidos, parte 1" width="1000">
-</a>
-<br>
-<sub>Clique na imagem para abri-la em tamanho original.</sub>
+  <a href="imagem/SKETCHES%209.png">
+    <img src="imagem/SKETCHES%209.png" alt="Sketch: Gerenciar anúncios e pedidos, parte 1" width="1000">
+  </a>
+  <br>
+  <sub>Clique na imagem para abri-la em tamanho original.</sub>
 </div>
 
 | Tela | Elementos principais | Cena do MoLIC |
@@ -229,11 +231,11 @@ O botão **Abrir** de uma solicitação leva ao diagrama *Responder solicitaçã
 ### Parte 2 de 2
 
 <div align="center">
-<a href="imagem/SKETCHES%2010.png">
-<img src="imagem/SKETCHES%2010.png" alt="Sketch: Gerenciar anúncios e pedidos, parte 2" width="1000">
-</a>
-<br>
-<sub>Clique na imagem para abri-la em tamanho original.</sub>
+  <a href="imagem/SKETCHES%2010.png">
+    <img src="imagem/SKETCHES%2010.png" alt="Sketch: Gerenciar anúncios e pedidos, parte 2" width="1000">
+  </a>
+  <br>
+  <sub>Clique na imagem para abri-la em tamanho original.</sub>
 </div>
 
 | Tela | O que mostra | Transição do MoLIC |
