@@ -4,11 +4,14 @@
 
 ## 📌 Sobre o TP2
 
-O TP2 consiste no design de um aplicativo a partir de uma **demanda real**, percorrendo as etapas de **imersão**, **ideação** e **prototipação**. O objetivo é transformar o conhecimento obtido sobre o problema e os usuários em decisões de design, demonstrando como a solução evoluiu ao longo do processo.
+O TP2 consiste no design de um aplicativo a partir de uma **demanda real**, percorrendo as etapas de **imersão**, **ideação** e **prototipação**. 
+<br>O objetivo é transformar o conhecimento obtido sobre o problema e os usuários em decisões de design, demonstrando como a solução evoluiu ao longo do processo.
 
 ## 📱 Sobre o Aplicativo: ItAluga
 
-O ItaAluga é um aplicativo de aluguel de equipamentos entre pessoas de Itacoatiara-AM. A demanda foi apresentada por um profissional eletricista que percebeu que poderia obter uma renda extra com os equipamentos de construção que possui, e revelou a necessidade de um meio prático e seguro para alugar equipamentos entre moradores da cidade. Os usuários são moradores que têm equipamentos parados ou que precisam de um por pouco tempo. O problema é a insegurança no aluguel entre pessoas, em relação à conservação do item, à confiança na outra parte e às garantias.
+O **ItAluga** é uma proposta de aplicativo para aluguel de equipamentos entre moradores de Itacoatiara-AM.
+<br>A ideia surgiu a partir da demanda apresentada por um profissional eletricista, que identificou a possibilidade de obter renda extra alugando seus equipamentos de construção.
+<br>O projeto busca facilitar esse tipo de negociação, conectando pessoas que possuem equipamentos disponíveis com aquelas que precisam utilizá-los temporariamente. A proposta também considera os desafios de confiança, conservação dos equipamentos e segurança nas transações entre pessoas.
 
 
 ## 📁 Estrutura e Resumo das Etapas
@@ -59,4 +62,5 @@ Design-IHC/
 │   └── 5-molic.md                       # Diagramas MoLIC
 └── 03-prototipacao/
     └── 1-sketches.md                    # Protótipos de baixa fidelidade
+
 ```
