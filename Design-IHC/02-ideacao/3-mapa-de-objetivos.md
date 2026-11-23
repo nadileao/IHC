@@ -87,7 +87,7 @@ O mapa tem **12 grupos de objetivos**. Clique no nome para ir direto ao detalham
 
 ### 6. Solicitação e Pagamento
 
-<img src="imagem/Mapa de objetivo de solicitar.png" alt="Grupo Solicitação e Pagamento" width="700">
+<img src="imagem/mapa de objetivo solicitar.png" alt="Grupo Solicitação e Pagamento" width="700">
 
 **Alugar um equipamento** (LT, UA) envolve pedir o aluguel, confirmar a identidade, realizar o pagamento e concluir o pedido com segurança.
 
