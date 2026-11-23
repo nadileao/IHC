@@ -13,6 +13,7 @@ A modelagem do ItaAluga é composta por **14 diagramas** que se conectam por cen
 <br>
 <sub>Clique na imagem para abri-la em tamanho original.</sub>
 </div>
+
 ## Partes do Diagrama
  
 Os diagramas foram agrupados em seis partes, que acompanham os pares de HTAs.
@@ -34,7 +35,10 @@ Os diagramas foram agrupados em seis partes, que acompanham os pares de HTAs.
  
 #### 1.1 Criar minha conta (Cadastro)
 
-<img src="imagem/MOLIC-Cadastro.png" alt="MoLIC: Criar minha conta" width="800">
+<a href="imagem/MOLIC-Cadastro.png">
+  <img src="imagem/MOLIC-Cadastro.png" alt="MoLIC: Criar minha conta" width="800">
+</a>
+
 Este diagrama conduz o usuário do início do cadastro até a conta criada, em três cenas sequenciais. Cada avanço passa por uma validação do sistema, e os erros levam de volta à cena em que ocorreram. Ao final, o usuário é encaminhado ao diagrama de acesso para se identificar.
  
 | Cena | O que representa | Transições principais |
@@ -46,7 +50,10 @@ Este diagrama conduz o usuário do início do cadastro até a conta criada, em t
  
 #### 1.2 Entrar no sistema e ajustar acessibilidade (Acesso)
 
-<img src="imagem/MOLIC-Acesso.png" alt="MoLIC: Entrar no sistema e ajustar acessibilidade" width="800">
+<a href="imagem/MOLIC-Acesso.png">
+  <img src="imagem/MOLIC-Acesso.png" alt="MoLIC: Entrar no sistema e ajustar acessibilidade" width="800">
+</a>
+
 Este diagrama trata do login e dos recursos de acessibilidade. Depois do login, o caminho depende de o usuário já ter definido sua preferência de acessibilidade: se for o primeiro acesso, ele decide se quer adaptar a interface; se já tiver preferência, segue direto para a pesquisa de equipamentos. A acessibilidade também pode ser acionada a qualquer momento pelo acesso ubíquo.
  
 | Cena | O que representa | Transições principais |
@@ -59,7 +66,10 @@ Este diagrama trata do login e dos recursos de acessibilidade. Depois do login, 
  
 #### 1.3 Recuperar minha senha
 
-<img src="imagem/MOLIC-Recuperar senha.png" alt="MoLIC: Recuperar minha senha" width="800">
+<a href="imagem/MOLIC-Recuperar senha.png">
+  <img src="imagem/MOLIC-Recuperar senha.png" alt="MoLIC: Recuperar minha senha" width="800">
+</a>
+
 Este diagrama permite que quem esqueceu a senha volte a acessar a conta. O código enviado ao telefone comprova a identidade antes de a nova senha ser definida, e o fluxo termina no diagrama de acesso.
  
 | Cena | O que representa | Transições principais |
@@ -75,7 +85,10 @@ Este diagrama permite que quem esqueceu a senha volte a acessar a conta. O códi
  
 #### 2.1 Anunciar equipamento
 
-<img src="imagem/MOLIC-anunciar.png" alt="MoLIC: Anunciar equipamento" width="800">
+<a href="imagem/MOLIC-anunciar.png">
+  <img src="imagem/MOLIC-anunciar.png" alt="MoLIC: Anunciar equipamento" width="800">
+</a>
+
 Este diagrama conduz o locador da descrição do equipamento até o anúncio ativo. Cada etapa tem uma validação, e a confirmação de identidade só é pedida se o usuário ainda não foi validado antes.
  
 | Cena | O que representa | Transições principais |
@@ -89,7 +102,10 @@ Este diagrama conduz o locador da descrição do equipamento até o anúncio ati
  
 #### 2.2 Gerenciar anúncios e pedidos
 
-<img src="imagem/MOLIC-Gerenciar.png" alt="MoLIC: Gerenciar anúncios e pedidos" width="800">
+<a href="imagem/MOLIC-Gerenciar.png">
+  <img src="imagem/MOLIC-Gerenciar.png" alt="MoLIC: Gerenciar anúncios e pedidos" width="800">
+</a>
+
 Este diagrama é o painel do locador. A partir de uma visão geral, ele abre uma solicitação recebida (que leva ao diagrama de resposta) ou seleciona um anúncio para editar ou excluir. A exclusão exige confirmação para evitar enganos.
  
 | Cena | O que representa | Transições principais |
@@ -101,7 +117,10 @@ Este diagrama é o painel do locador. A partir de uma visão geral, ele abre uma
  
 #### 2.3 Responder solicitação de aluguel
 
-<img src="imagem/MOLIC-solicitação.png" alt="MoLIC: Responder solicitação de aluguel" width="800">
+<a href="imagem/MOLIC-solicitação.png">
+  <img src="imagem/MOLIC-solicitação.png" alt="MoLIC: Responder solicitação de aluguel" width="800">
+</a>
+
 Este diagrama mostra como o locador decide sobre um pedido de aluguel: aceitar, recusar ou propor uma alteração. Em qualquer caso, a resposta é enviada ao locatário e o locador acompanha a situação da solicitação.
  
 | Cena | O que representa | Transições principais |
@@ -116,7 +135,10 @@ Este diagrama mostra como o locador decide sobre um pedido de aluguel: aceitar, 
  
 #### 3.1 Buscar e alugar equipamento
 
-<img src="imagem/Molic-Busca e aluguel.png" alt="MoLIC: Buscar e alugar equipamento" width="800">
+<a href="imagem/Molic-Busca e aluguel.png">
+  <img src="imagem/Molic-Busca e aluguel.png" alt="MoLIC: Buscar e alugar equipamento" width="800">
+</a>
+
 Este é o diagrama mais longo e cobre toda a jornada do locatário, da busca até o comprovante do aluguel. Ele ramifica conforme a resposta do locador (aceito, contraproposta ou recusado) e pula a confirmação de identidade quando o usuário já foi validado.
  
 | Cena | O que representa | Transições principais |
@@ -136,7 +158,10 @@ Este é o diagrama mais longo e cobre toda a jornada do locatário, da busca at�
  
 #### 4.1 Entregar o equipamento
 
-<img src="imagem/Molic-entregar.png" alt="MoLIC: Entregar o equipamento" width="800">
+<a href="imagem/Molic-entregar.png">
+  <img src="imagem/Molic-entregar.png" alt="MoLIC: Entregar o equipamento" width="800">
+</a>
+
 Este diagrama registra o início do aluguel. A vistoria inicial cria uma prova do estado do equipamento, e a entrega só é considerada válida depois que a outra parte também a valida presencialmente.
  
 | Cena | O que representa | Transições principais |
@@ -147,7 +172,10 @@ Este diagrama registra o início do aluguel. A vistoria inicial cria uma prova d
  
 #### 4.2 Devolver o equipamento
 
-<img src="imagem/Molic-devolução.png" alt="MoLIC: Devolver o equipamento" width="800">
+<a href="imagem/Molic-devolução.png">
+  <img src="imagem/Molic-devolução.png" alt="MoLIC: Devolver o equipamento" width="800">
+</a>
+
 Este diagrama encerra o aluguel. O registro da devolução é comparado com o da entrega: se o equipamento voltou igual, o aluguel é encerrado; se houve divergência ou dano, a conversa segue para o diagrama de resolução de problemas.
  
 | Cena | O que representa | Transições principais |
@@ -164,7 +192,10 @@ Este diagrama encerra o aluguel. O registro da devolução é comparado com o da
  
 #### 5.1 Resolver um problema no aluguel
 
-<img src="imagem/Molic-Problema.png" alt="MoLIC: Resolver um problema no aluguel" width="800">
+<a href="imagem/Molic-Problema.png">
+  <img src="imagem/Molic-Problema.png" alt="MoLIC: Resolver um problema no aluguel" width="800">
+</a>
+
 Este diagrama cobre os dois lados de um problema. Quem identifica a ocorrência a relata e envia provas, e a outra parte é notificada e responde com sua versão. Os dois acompanham a análise e recebem o resultado final.
  
 | Cena | O que representa | Transições principais |
@@ -177,7 +208,10 @@ Este diagrama cobre os dois lados de um problema. Quem identifica a ocorrência 
  
 #### 5.2 Mediar um problema (Suporte)
 
-<img src="imagem/Molic-Mediar.png" alt="MoLIC: Mediar um problema" width="800">
+<a href="imagem/Molic-Mediar.png">
+  <img src="imagem/Molic-Mediar.png" alt="MoLIC: Mediar um problema" width="800">
+</a>
+
 Este é o lado do Suporte Técnico no mesmo caso. O suporte analisa as provas das duas partes, decide a solução, registra o motivo e comunica a decisão a ambos.
  
 | Cena | O que representa | Transições principais |
@@ -193,7 +227,10 @@ Este é o lado do Suporte Técnico no mesmo caso. O suporte analisa as provas da
  
 #### 6.1 Avaliar a outra pessoa e consultar reputação
 
-<img src="imagem/MOLIC-avaliar.png" alt="MoLIC: Avaliar a outra pessoa e consultar reputação" width="800">
+<a href="imagem/MOLIC-avaliar.png">
+  <img src="imagem/MOLIC-avaliar.png" alt="MoLIC: Avaliar a outra pessoa e consultar reputação" width="800">
+</a>
+
 Este diagrama tem duas entradas independentes: avaliar quem participou de um aluguel concluído e consultar a reputação de qualquer usuário.
  
 | Cena | O que representa | Transições principais |
@@ -204,7 +241,10 @@ Este diagrama tem duas entradas independentes: avaliar quem participou de um alu
  
 #### 6.2 Pedir ajuda e falar com o suporte
 
-<img src="imagem/MOLIC-pedir.png" alt="MoLIC: Pedir ajuda e falar com o suporte" width="800">
+<a href="imagem/MOLIC-pedir.png">
+  <img src="imagem/MOLIC-pedir.png" alt="MoLIC: Pedir ajuda e falar com o suporte" width="800">
+</a>
+
 Este diagrama oferece dois níveis de ajuda: primeiro, a ajuda da própria etapa; depois, o contato com o suporte. Se o suporte encaminhar o caso à mediação, o usuário acompanha o andamento no diagrama de resolução de problemas.
  
 | Cena | O que representa | Transições principais |
@@ -216,7 +256,10 @@ Este diagrama oferece dois níveis de ajuda: primeiro, a ajuda da própria etapa
  
 #### 6.3 Atender pedido de ajuda (Suporte)
 
-<img src="imagem/MOLIC-Atender.png" alt="MoLIC: Atender pedido de ajuda" width="800">
+<a href="imagem/MOLIC-Atender.png">
+  <img src="imagem/MOLIC-Atender.png" alt="MoLIC: Atender pedido de ajuda" width="800">
+</a>
+
 Este é o lado do Suporte Técnico no atendimento. O suporte examina o pedido e orienta o usuário diretamente ou, quando o assunto é uma disputa, encaminha o caso à mediação.
  
 | Cena | O que representa | Transições principais |
@@ -240,4 +283,3 @@ Cada cena do MoLIC corresponde a tarefas definidas nos HTAs e é a base das tela
 | Entrega e Devolução | 7, 8 | [Tela(s) correspondente(s)] |
 | Problemas e Mediação | 9, 10 | [Tela(s) correspondente(s)] |
 | Reputação e Ajuda | 11, 12 | [Tela(s) correspondente(s)] |
- 

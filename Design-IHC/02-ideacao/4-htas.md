@@ -26,7 +26,9 @@ Os HTAs (*Hierarchical Task Analysis*) detalham como cada objetivo do [mapa de o
 
 ### HTA 1: Criar minha conta
 
-<img src="imagem/HTA de cadastro.png" alt="Mapa de objetivos e HTA: Criar minha conta" width="900">
+<a href="imagem/HTA de cadastro.png">
+  <img src="imagem/HTA de cadastro.png" alt="Mapa de objetivos e HTA: Criar minha conta" width="900">
+</a>
 
 **Propósito.** Permitir que qualquer pessoa crie a conta única do ItaAluga, usada tanto para anunciar quanto para alugar equipamentos.
 
@@ -42,7 +44,9 @@ Os HTAs (*Hierarchical Task Analysis*) detalham como cada objetivo do [mapa de o
 
 ### HTA 2: Entrar na minha conta
 
-<img src="imagem/HTA de acesso.png" alt="Mapa de objetivos e HTA: Entrar na minha conta" width="900">
+<a href="imagem/HTA de acesso.png">
+  <img src="imagem/HTA de acesso.png" alt="Mapa de objetivos e HTA: Entrar na minha conta" width="900">
+</a>
 
 **Propósito.** Permitir que quem já tem cadastro acesse o aplicativo e, se esquecer a senha, consiga recuperá-la sem precisar de ajuda externa.
 
@@ -57,7 +61,9 @@ Os HTAs (*Hierarchical Task Analysis*) detalham como cada objetivo do [mapa de o
 
 ### HTA 3: Colocar um equipamento para alugar
 
-<img src="imagem/HTA de anunciar.png" alt="Mapa de objetivos e HTA: Colocar um equipamento para alugar" width="900">
+<a href="imagem/HTA de anunciar.png">
+  <img src="imagem/HTA de anunciar.png" alt="Mapa de objetivos e HTA: Colocar um equipamento para alugar" width="900">
+</a>
 
 **Propósito.** Guiar o locador na criação e publicação de um anúncio, apresentando o equipamento, definindo as condições do aluguel e confirmando sua identidade.
 
@@ -68,13 +74,15 @@ Os HTAs (*Hierarchical Task Analysis*) detalham como cada objetivo do [mapa de o
 | **3. Confirmar minha identidade** | 3.1 Fotografar o RG ou 3.2 Fotografar a CNH; 3.3 Tirar uma selfie para validação facial; 3.4 Enviar o comprovante de endereço (3.4.1 tirar foto ou 3.4.2 escolher arquivo) | `(3.1 / 3.2) > 3.3 > 3.4` e `3.4.1 / 3.4.2` |
 | **4. Publicar o anúncio** | 4.1 Revisar o resumo das informações; 4.2 Confirmar e ativar o anúncio | `4.1 > 4.2` |
 
-**Decisões e fluxo.** As tarefas ocorrem em sequência, e a confirmação de identidade (tarefa 3) só é pedida na primeira vez que o usuário anuncia ou solicita um aluguel; nas demais vezes, ela é pulada." O usuário decide a origem das fotos (câmera ou arquivo), o documento de identificação (RG ou CNH) e a forma de enviar o comprovante de endereço (foto ou arquivo). Os campos de cada etapa podem ser preenchidos em qualquer ordem. A confirmação de identidade (3) dá segurança a quem for alugar, e a revisão (4.1) evita publicar informações incorretas antes da ativação (4.2).
+**Decisões e fluxo.** As tarefas ocorrem em sequência, e a confirmação de identidade (tarefa 3) só é pedida na primeira vez que o usuário anuncia ou solicita um aluguel; nas demais vezes, ela é pulada. O usuário decide a origem das fotos (câmera ou arquivo), o documento de identificação (RG ou CNH) e a forma de enviar o comprovante de endereço (foto ou arquivo). Os campos de cada etapa podem ser preenchidos em qualquer ordem. A confirmação de identidade (3) dá segurança a quem for alugar, e a revisão (4.1) evita publicar informações incorretas antes da ativação (4.2).
 
 ---
 
 ### HTA 4: Gerenciar meus anúncios e pedidos
 
-<img src="imagem/HTA de gestão.png" alt="Mapa de objetivos e HTA: Gerenciar meus anúncios e pedidos" width="900">
+<a href="imagem/HTA de gestão.png">
+  <img src="imagem/HTA de gestão.png" alt="Mapa de objetivos e HTA: Gerenciar meus anúncios e pedidos" width="900">
+</a>
 
 **Propósito.** Permitir que o locador responda aos pedidos de aluguel que recebe e acompanhe seus anúncios e locações.
 
@@ -89,7 +97,9 @@ Os HTAs (*Hierarchical Task Analysis*) detalham como cada objetivo do [mapa de o
 
 ### HTA 5: Encontrar um equipamento
 
-<img src="imagem/HTA de busca.png" alt="Mapa de objetivos e HTA: Encontrar um equipamento" width="900">
+<a href="imagem/HTA de busca.png">
+  <img src="imagem/HTA de busca.png" alt="Mapa de objetivos e HTA: Encontrar um equipamento" width="900">
+</a>
 
 **Propósito.** Ajudar o locatário a localizar um equipamento disponível e a decidir se confia no item e no dono antes de pedir o aluguel.
 
@@ -104,7 +114,9 @@ Os HTAs (*Hierarchical Task Analysis*) detalham como cada objetivo do [mapa de o
 
 ### HTA 6: Alugar um equipamento
 
-<img src="imagem/HTA de Solicitar.png" alt="Mapa de objetivos e HTA: Alugar um equipamento" width="900">
+<a href="imagem/HTA de Solicitar.png">
+  <img src="imagem/HTA de Solicitar.png" alt="Mapa de objetivos e HTA: Alugar um equipamento" width="900">
+</a>
 
 **Propósito.** Conduzir o locatário da solicitação do aluguel até o pagamento, confirmando sua identidade e acompanhando a resposta do locador.
 
@@ -121,7 +133,9 @@ Os HTAs (*Hierarchical Task Analysis*) detalham como cada objetivo do [mapa de o
 
 ### HTA 7: Realizar a entrega do equipamento
 
-<img src="imagem/HTA de entrega.png" alt="Mapa de objetivos e HTA: Realizar a entrega do equipamento" width="900">
+<a href="imagem/HTA de entrega.png">
+  <img src="imagem/HTA de entrega.png" alt="Mapa de objetivos e HTA: Realizar a entrega do equipamento" width="900">
+</a>
 
 **Propósito.** Registrar o estado do equipamento no momento da entrega, criando uma prova que protege locador e locatário e marca o início do aluguel.
 
@@ -136,7 +150,9 @@ Os HTAs (*Hierarchical Task Analysis*) detalham como cada objetivo do [mapa de o
 
 ### HTA 8: Concluir a devolução do equipamento
 
-<img src="imagem/HTA de devolução.png" alt="Mapa de objetivos e HTA: Concluir a devolução do equipamento" width="900">
+<a href="imagem/HTA de devolução.png">
+  <img src="imagem/HTA de devolução.png" alt="Mapa de objetivos e HTA: Concluir a devolução do equipamento" width="900">
+</a>
 
 **Propósito.** Encerrar o aluguel com segurança, comparando o estado do equipamento antes e depois do uso.
 
@@ -153,7 +169,9 @@ Os HTAs (*Hierarchical Task Analysis*) detalham como cada objetivo do [mapa de o
 
 ### HTA 9: Resolver um problema no aluguel
 
-<img src="imagem/HTA de Problema.png" alt="Mapa de objetivos e HTA: Resolver um problema no aluguel" width="900">
+<a href="imagem/HTA de Problema.png">
+  <img src="imagem/HTA de Problema.png" alt="Mapa de objetivos e HTA: Resolver um problema no aluguel" width="900">
+</a>
 
 **Propósito.** Permitir que locador ou locatário reporte, comprove e acompanhe um problema ocorrido no aluguel e receba uma decisão sobre ele.
 
@@ -171,7 +189,9 @@ Os HTAs (*Hierarchical Task Analysis*) detalham como cada objetivo do [mapa de o
 
 ### HTA 10: Analisar e resolver disputas
 
-<img src="imagem/HTA de mediação.png" alt="Mapa de objetivos e HTA: Analisar e resolver disputas" width="900">
+<a href="imagem/HTA de mediação.png">
+  <img src="imagem/HTA de mediação.png" alt="Mapa de objetivos e HTA: Analisar e resolver disputas" width="900">
+</a>
 
 **Propósito.** Descrever como o Suporte Técnico analisa um problema reportado, decide a solução e comunica o resultado às partes.
 
@@ -187,7 +207,9 @@ Os HTAs (*Hierarchical Task Analysis*) detalham como cada objetivo do [mapa de o
 
 ### HTA 11: Avaliar e ver reputação
 
-<img src="imagem/HTA de avaliação.png" alt="Mapa de objetivos e HTA: Avaliar e ver reputação" width="900">
+<a href="imagem/HTA de avaliação.png">
+  <img src="imagem/HTA de avaliação.png" alt="Mapa de objetivos e HTA: Avaliar e ver reputação" width="900">
+</a>
 
 **Propósito.** Construir confiança entre os usuários, permitindo avaliar quem participou de um aluguel e consultar a reputação de qualquer pessoa.
 
@@ -202,7 +224,9 @@ Os HTAs (*Hierarchical Task Analysis*) detalham como cada objetivo do [mapa de o
 
 ### HTA 12: Pedir e prestar ajuda
 
-<img src="imagem/HTA de Ajudar.png" alt="Mapa de objetivos e HTA: Pedir e prestar ajuda" width="900">
+<a href="imagem/HTA de Ajudar.png">
+  <img src="imagem/HTA de Ajudar.png" alt="Mapa de objetivos e HTA: Pedir e prestar ajuda" width="900">
+</a>
 
 **Propósito.** Oferecer ao usuário caminhos para tirar dúvidas, sozinho ou com o suporte, e descrever como o Suporte Técnico atende os pedidos.
 

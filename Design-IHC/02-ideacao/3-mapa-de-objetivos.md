@@ -34,7 +34,7 @@ O mapa tem **12 grupos de objetivos**. Clique no nome para ir direto ao detalham
 | 9 | [Problemas](#9-problemas) | Resolver um problema no aluguel | LD, LT, UA | 
 | 10 | [Mediação de Casos](#10-mediação-de-casos) | Analisar e resolver disputas | ST | 
 | 11 | [Reputação e Avaliações](#11-reputação-e-avaliações) | Avaliar e ver reputação | LD, LT, UA | 
-| 12 | [Ajuda e Suporte](#12-ajuda-e-suporte) | Pedir e prestar ajuda | LD, LT, UA, ST | 
+| 12 | [Ajuda e Suporte](#12-ajuda-e-suporte) | Pedir e prestar ajuda | LD, LT, UA, ST |
 
 
 ## Mapa Completo
@@ -57,55 +57,73 @@ O mapa tem **12 grupos de objetivos**. Clique no nome para ir direto ao detalham
 
 ### 1. Cadastro
 
-<img src="imagem/Objetivo cadastro.png" alt="Grupo Cadastro" width="700">
+<a href="imagem/Objetivo cadastro.png">
+  <img src="imagem/Objetivo cadastro.png" alt="Grupo Cadastro" width="700">
+</a>
 
 **Criar minha conta** (LD, LT, UA) envolve informar os dados básicos, confirmar o contato e definir a senha. É o ponto de partida para qualquer papel no aplicativo.
 
 ### 2. Acesso
 
-<img src="imagem/Objetivo Acesso.png" alt="Grupo Acesso" width="700">
+<a href="imagem/Objetivo Acesso.png">
+  <img src="imagem/Objetivo Acesso.png" alt="Grupo Acesso" width="700">
+</a>
 
 **Entrar na minha conta** (LD, LT, UA) envolve fazer login no aplicativo e recuperar a senha quando necessário.
 
 ### 3. Criação de Anúncios
 
-<img src="imagem/Objetivo Anuncio.png" alt="Grupo Criação de Anúncios" width="700">
+<a href="imagem/Objetivo Anuncio.png">
+  <img src="imagem/Objetivo Anuncio.png" alt="Grupo Criação de Anúncios" width="700">
+</a>
 
 **Colocar um equipamento para alugar** (LD, UA) envolve mostrar o equipamento e seu estado, definir preços e regras do aluguel, confirmar a identidade e publicar o anúncio.
 
 ### 4. Gestão de Pedidos e Locações
 
-<img src="imagem/Objetivo gestão.png" alt="Grupo Gestão de Pedidos e Locações" width="700">
+<a href="imagem/Objetivo gestão.png">
+  <img src="imagem/Objetivo gestão.png" alt="Grupo Gestão de Pedidos e Locações" width="700">
+</a>
 
 **Gerenciar meus anúncios e pedidos** (LD, UA) envolve decidir quem pode alugar o equipamento e acompanhar os anúncios e aluguéis em andamento.
 
 ### 5. Busca de Equipamentos
 
-<img src="imagem/Objetivo busca.png" alt="Grupo Busca de Equipamentos" width="700">
+<a href="imagem/Objetivo busca.png">
+  <img src="imagem/Objetivo busca.png" alt="Grupo Busca de Equipamentos" width="700">
+</a>
 
 **Encontrar um equipamento** (LT, UA) envolve pesquisar os equipamentos disponíveis e conferir o item e a reputação do dono.
 
 ### 6. Solicitação e Pagamento
 
-<img src="imagem/mapa de objetivo solicitar.png" alt="Grupo Solicitação e Pagamento" width="700">
+<a href="imagem/mapa de objetivo solicitar.png">
+  <img src="imagem/mapa de objetivo solicitar.png" alt="Grupo Solicitação e Pagamento" width="700">
+</a>
 
 **Alugar um equipamento** (LT, UA) envolve pedir o aluguel, confirmar a identidade, realizar o pagamento e concluir o pedido com segurança.
 
 ### 7. Entrega do Equipamento
 
-<img src="imagem/Objetivo entrega.png" alt="Grupo Entrega do Equipamento" width="700">
+<a href="imagem/Objetivo entrega.png">
+  <img src="imagem/Objetivo entrega.png" alt="Grupo Entrega do Equipamento" width="700">
+</a>
 
 **Realizar a entrega do equipamento** (LD, LT, UA) envolve registrar o estado do item na entrega e confirmar o início do aluguel.
 
 ### 8. Devolução do Equipamento
 
-<img src="imagem/Objetivo devolução.png" alt="Grupo Devolução do Equipamento" width="700">
+<a href="imagem/Objetivo devolução.png">
+  <img src="imagem/Objetivo devolução.png" alt="Grupo Devolução do Equipamento" width="700">
+</a>
 
 **Concluir a devolução do equipamento** (LD, LT, UA) envolve acompanhar o prazo de devolução, registrar o estado do item, comparar o estado antes e depois do uso e encerrar o aluguel.
 
 ### 9. Problemas
 
-<img src="imagem/Objetivo problema.png" width="700">
+<a href="imagem/Objetivo problema.png">
+  <img src="imagem/Objetivo problema.png" alt="Grupo Problemas" width="700">
+</a>
 
 **Resolver um problema no aluguel** (LD, LT, UA) envolve informar o problema, enviar provas do que aconteceu, responder ao problema, acompanhar a análise do caso e receber o resultado final.
 
@@ -113,19 +131,25 @@ O mapa tem **12 grupos de objetivos**. Clique no nome para ir direto ao detalham
 
 *Papel do Suporte Técnico*
 
-<img src="imagem/Objetivo mediação.png" width="700">
+<a href="imagem/Objetivo mediação.png">
+  <img src="imagem/Objetivo mediação.png" alt="Grupo Mediação de Casos" width="700">
+</a>
 
 **Analisar e resolver disputas** (ST) envolve analisar o caso e as provas, decidir a solução do problema e enviar a decisão às partes. É o lado do suporte do grupo [Problemas](#9-problemas).
 
 ### 11. Reputação e Avaliações
 
-<img src="imagem/Objetivo Avaliação.png" alt="Grupo Reputação e Avaliações" width="700">
+<a href="imagem/Objetivo Avaliação.png">
+  <img src="imagem/Objetivo Avaliação.png" alt="Grupo Reputação e Avaliações" width="700">
+</a>
 
 **Avaliar e ver reputação** (LD, LT, UA) envolve avaliar a outra pessoa e consultar o histórico e as notas.
 
 ### 12. Ajuda e Suporte
 
-<img src="imagem/Objetivo ajuda.png" alt="Grupo Ajuda e Suporte" width="700">
+<a href="imagem/Objetivo ajuda.png">
+  <img src="imagem/Objetivo ajuda.png" alt="Grupo Ajuda e Suporte" width="700">
+</a>
 
 **Pedir e prestar ajuda** (LD, LT, UA, ST) envolve entender como usar cada etapa e iniciar contato com o suporte. Do lado do suporte (ST), atender os pedidos de ajuda.
 

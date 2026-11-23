@@ -12,7 +12,7 @@ Os sketches cobrem seis fluxos, distribuídos em **11 imagens**. Para o fluxo de
 | 1 | [Criar conta](#1-criar-conta) (versões A e B) | 2 | [1.1 Cadastro](../02-ideacao/5-molic.md#11-criar-minha-conta-cadastro) | [HTA 1](../02-ideacao/4-htas.md#hta-1-criar-minha-conta) |
 | 2 | [Recuperar senha](#2-recuperar-senha) | 2 | [1.3 Recuperar senha](../02-ideacao/5-molic.md#13-recuperar-minha-senha) | [HTA 2](../02-ideacao/4-htas.md#hta-2-entrar-na-minha-conta) |
 | 3 | [Entrar e ajustar acessibilidade](#3-entrar-e-ajustar-acessibilidade) | 1 | [1.2 Acesso](../02-ideacao/5-molic.md#12-entrar-no-sistema-e-ajustar-acessibilidade-acesso) | [HTA 2](../02-ideacao/4-htas.md#hta-2-entrar-na-minha-conta) |
-| 4 | [Buscar e alugar equipamento](#4-buscar-e-alugar-equipamento) | 1 | [3.1 Buscar e alugar](../02-ideacao/5-molic.md#31-buscar-e-alugar-equipamento) | [HTA 5](../02-ideacao/4-htas.md#hta-5-encontrar-um-equipamento), [HTA 6](../02-ideacao/4-htas.md#hta-6-alugar-um-equipamento) |
+| 4 | [Buscar e alugar equipamento](#4-buscar-e-alugar-equipamento) | 2 | [3.1 Buscar e alugar](../02-ideacao/5-molic.md#31-buscar-e-alugar-equipamento) | [HTA 5](../02-ideacao/4-htas.md#hta-5-encontrar-um-equipamento), [HTA 6](../02-ideacao/4-htas.md#hta-6-alugar-um-equipamento) |
 | 5 | [Anunciar equipamento](#5-anunciar-equipamento) | 3 | [2.1 Anunciar](../02-ideacao/5-molic.md#21-anunciar-equipamento) | [HTA 3](../02-ideacao/4-htas.md#hta-3-colocar-um-equipamento-para-alugar) |
 | 6 | [Gerenciar anúncios e pedidos](#6-gerenciar-anúncios-e-pedidos) | 2 | [2.2 Gerenciar](../02-ideacao/5-molic.md#22-gerenciar-anúncios-e-pedidos) | [HTA 4](../02-ideacao/4-htas.md#hta-4-gerenciar-meus-anúncios-e-pedidos) |
 
@@ -128,11 +128,13 @@ O botão **Aa** no topo da última tela representa o acesso ubíquo do MoLIC, qu
 
 ## 4. Buscar e alugar equipamento
 
-Fluxo do locatário: busca o equipamento, vê os resultados, examina o anúncio, confirma a identidade e envia a solicitação ao locador.
+Fluxo do locatário: busca o equipamento, vê os resultados, examina o anúncio, confirma a identidade e envia a solicitação ao locador. Foram feitas duas versões alternativas (A e B).
+
+### Versão A
 
 <div align="center">
   <a href="imagem/SKETCHES%204.png">
-    <img src="imagem/SKETCHES%204.png" alt="Sketch: Buscar e alugar equipamentos" width="1000">
+    <img src="imagem/SKETCHES%204.png" alt="Sketch: Buscar e alugar equipamentos, versão A" width="1000">
   </a>
   <br>
   <sub>Clique na imagem para abri-la em tamanho original.</sub>
@@ -146,6 +148,24 @@ Fluxo do locatário: busca o equipamento, vê os resultados, examina o anúncio,
 | Confirme sua identidade | Foto do RG/CNH, reconhecimento facial e comprovante de residência | Confirmar minha identidade |
 | Aluguel solicitado | Confirmação, resumo do pedido (período, produto, total) e **Voltar pro início** | Pedir aluguel, seguido de Acompanhar resposta do locador |
 
+### Versão B
+
+<div align="center">
+  <a href="imagem/sketches versao b.png">
+    <img src="imagem/sketches versao b.png" alt="Sketch: Buscar e alugar equipamentos, versão B" width="1000">
+  </a>
+  <br>
+  <sub>Clique na imagem para abri-la em tamanho original.</sub>
+</div>
+
+A versão B reúne a busca e os resultados em **uma única tela**, o que reduz o fluxo de cinco para quatro telas. O resumo do pedido passa para a tela de confirmação de identidade, e a tela final fica só com a confirmação.
+
+| Tela | Elementos principais | Cena do MoLIC |
+| :--- | :--- | :--- |
+| Buscar | Campo de busca, categorias (Construção, Manutenção, Outros), quantidade de resultados, **Filtros**, lista com foto, diária, nota e favoritar, e menu inferior | Pesquisar equipamentos e Examinar resultados da busca |
+| Detalhe do equipamento | Fotos, favoritar, nota, descrição e regras de uso, disponibilidade, diária e **Solicitar aluguel** | Examinar anúncio |
+| Confirme sua identidade | Detalhes do pedido (período, produto, total), foto do RG/CNH, reconhecimento facial, comprovante de residência e **Prosseguir** | Confirmar minha identidade |
+| Aluguel solicitado | Ícone de confirmação, mensagem *Seu pedido foi enviado para o locador* e **Voltar pro início** | Pedir aluguel, seguido de Acompanhar resposta do locador |
 ---
 
 ## 5. Anunciar equipamento
