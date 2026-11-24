@@ -55,7 +55,7 @@ Os HTAs (*Hierarchical Task Analysis*) detalham como cada objetivo do [mapa de o
 | **1. Fazer login no aplicativo** | 1.1 Informar o telefone cadastrado; 1.2 Digitar a senha; 1.3 Confirmar o acesso | `(1.1 + 1.2) > 1.3` |
 | **2. Recuperar minha senha** | 2.1 Pedir a recuperação da senha; 2.2 Informar o telefone cadastrado; 2.3 Validar o código de verificação recebido; 2.4 Cadastrar uma nova senha | `2.1 > 2.2 > 2.3 > 2.4` |
 
-**Decisões e fluxo.** A decisão central é escolher entre o login (1) e a recuperação de senha (2). No login, telefone e senha podem ser preenchidos em qualquer ordem e só depois o acesso é confirmado. Na recuperação, o código enviado ao telefone cadastrado comprova a identidade antes de a nova senha ser definida, e depois dela o usuário pode retomar o login.
+**Decisões e fluxo.** A decisão central é escolher entre o login (1) e a recuperação de senha (2). No login, telefone e senha podem ser preenchidos em qualquer ordem e só depois o acesso é confirmado. Na recuperação, o código enviado ao telefone cadastrado comprova a identidade antes de a nova senha ser definida, e depois dela o usuário pode retomar o login.Os recursos de acessibilidade (alto contraste, texto ampliado e leitura por voz) são oferecidos logo após o primeiro login e podem ser acionados a qualquer momento pelo acesso ubíquo; esse caminho está detalhado no [MoLIC 1.2](./5-molic.md#12-entrar-no-sistema-e-ajustar-acessibilidade-acesso).
 
 ---
 
@@ -114,8 +114,8 @@ Os HTAs (*Hierarchical Task Analysis*) detalham como cada objetivo do [mapa de o
 
 ### HTA 6: Alugar um equipamento
 
-<a href="imagem/HTA de Solicitar.png">
-  <img src="imagem/HTA de Solicitar.png" alt="Mapa de objetivos e HTA: Alugar um equipamento" width="900">
+<a href="imagem/HTA de solicitar.png">
+  <img src="imagem/HTA de solicitar.png" alt="Mapa de objetivos e HTA: Alugar um equipamento" width="900">
 </a>
 
 **Propósito.** Conduzir o locatário da solicitação do aluguel até o pagamento, confirmando sua identidade e acompanhando a resposta do locador.
@@ -124,10 +124,11 @@ Os HTAs (*Hierarchical Task Analysis*) detalham como cada objetivo do [mapa de o
 | :--- | :--- | :---: |
 | **1. Pedir o aluguel do equipamento** | 1.1 Selecionar as datas e horários de retirada e devolução; 1.2 Conferir o resumo dos valores; 1.3 Solicitar o aluguel | `(1.1 + 1.2) > 1.3` |
 | **2. Confirmar minha identidade** | 2.1 Fotografar o RG ou 2.2 Fotografar a CNH; 2.3 Tirar uma selfie para validação facial; 2.4 Enviar o comprovante de endereço (2.4.1 tirar foto ou 2.4.2 escolher arquivo) | `(2.1 / 2.2) > 2.3 > 2.4` e `2.4.1 / 2.4.2` |
-| **3. Concluir o pedido** | 3.1 Ler a resposta do locador; 3.2 Responder à contraproposta de horário ou local; 3.3 Visualizar o endereço completo e o telefone do locador liberados; 3.4 Ver o código ou comprovante de retirada | `3.1 > (3.2 / 3.3) > 3.4` |
+| **3. Acompanhar a resposta do locador** | 3.1 Ler a resposta do locador; 3.2 Responder à contraproposta de horário ou local | `3.1 > 3.2` |
 | **4. Realizar o pagamento** | 4.1 Escolher a forma de pagamento (4.1.1 Pix ou 4.1.2 cartão de crédito); 4.2 Confirmar o pagamento | `4.1 > 4.2` e `4.1.1 / 4.1.2` |
+| **5. Concluir o pedido** | 5.1 Visualizar o endereço completo e o telefone do locador liberados; 5.2 Ver o código ou comprovante de retirada | `5.1 + 5.2` |
 
-**Decisões e fluxo.** A tarefa 2 reaproveita o mesmo processo de verificação de identidade do [HTA 3](#hta-3-colocar-um-equipamento-para-alugar), para que locador e locatário passem pela mesma checagem. Ao concluir o pedido, a decisão depende da resposta do locador: se houver contraproposta, o locatário a responde (3.2); se o pedido foi aceito, ele visualiza o endereço e o telefone liberados (3.3). Em ambos os casos, termina com o código ou comprovante de retirada (3.4). No pagamento, o usuário escolhe entre Pix e cartão de crédito e confirma a transação.
+**Decisões e fluxo.** A confirmação de identidade (tarefa 2) reaproveita o processo do [HTA 3](#hta-3-colocar-um-equipamento-para-alugar) e só é pedida na primeira vez que o usuário anuncia ou solicita um aluguel; nas demais, é pulada. Depois do pedido, a decisão depende da resposta do locador: se houver contraproposta, o locatário a responde (3.2); se o pedido for recusado, o fluxo termina e ele volta à busca, sem passar pelo pagamento; se for aceito, ele segue para o pagamento (4) e escolhe entre Pix e cartão de crédito. Só depois do pagamento confirmado o endereço, o telefone do locador e o código de retirada são liberados (5).
 
 ---
 
@@ -201,7 +202,8 @@ Os HTAs (*Hierarchical Task Analysis*) detalham como cada objetivo do [mapa de o
 | **2. Decidir a solução do problema** | 2.1 Decidir devolver a garantia a quem alugou ou 2.2 Decidir indenizar o dono com a garantia; 2.3 Registrar o motivo da decisão; 2.4 Suspender a conta | `(2.1 / 2.2) > 2.3 > 2.4` |
 | **3. Enviar a decisão às duas partes** | Tarefa simples, sem subtarefas | n/a |
 
-**Decisões e fluxo.** O suporte abre o caso, confronta as fotos do [HTA 7](#hta-7-realizar-a-entrega-do-equipamento) e do [HTA 8](#hta-8-concluir-a-devolução-do-equipamento) com os relatos das duas partes e, se necessário, pede mais provas. A decisão central é como destinar a garantia: devolvê-la a quem alugou ou usá-la para indenizar o dono. O motivo é registrado para dar transparência, e a decisão é enviada às duas partes, que a recebem no passo 5 do [HTA 9](#hta-9-resolver-um-problema-no-aluguel).
+**Decisões e fluxo.** O suporte abre o caso, confronta as fotos do [HTA 7](#hta-7-realizar-a-entrega-do-equipamento) e do [HTA 8](#hta-8-concluir-a-devolução-do-equipamento) com os relatos das duas partes e, se necessário, pede mais provas. A decisão central é como destinar a garantia: devolvê-la a quem alugou ou usá-la para indenizar o dono. O motivo é registrado para dar transparência, e a decisão é enviada às duas partes, que a recebem no passo 5 do [HTA 9](#hta-9-resolver-um-problema-no-aluguel).O pedido de mais provas (1.4) só acontece quando falta alguma evidência, e a suspensão da conta (2.4) só se aplica quando há indício de fraude.
+
 
 ---
 
@@ -236,7 +238,7 @@ Os HTAs (*Hierarchical Task Analysis*) detalham como cada objetivo do [mapa de o
 | **2. Iniciar o contato com o suporte** | 2.1 Escolher "Falar com o suporte"; 2.2 Selecionar o assunto; 2.3 Indicar o aluguel relacionado; 2.4 Descrever a dúvida; 2.5 Enviar o pedido; 2.6 Ler a resposta do suporte | `2.1 > 2.2 > (2.3 + 2.4) > 2.5 > 2.6` |
 | **3. Atender os pedidos de ajuda** (ST) | 3.1 Abrir o pedido de ajuda; 3.2 Ler o pedido e conferir a conta ou o aluguel; 3.3 Enviar a orientação ou 3.4 Encaminhar para a mediação; 3.5 Marcar o atendimento como concluído | `3.1 > 3.2 > (3.3 / 3.4) > 3.5` |
 
-**Decisões e fluxo.** O plano `1 / (2 > 3)` mostra que o usuário primeiro tenta resolver sozinho (1) ou, se não conseguir, aciona o suporte (2), que então atende o pedido (3). No lado do suporte, a decisão é entre orientar diretamente (3.3) ou encaminhar para a mediação (3.4), que leva ao [HTA 10](#hta-10-analisar-e-resolver-disputas). O pedido só é encerrado quando o atendimento é marcado como concluído (3.5).
+**Decisões e fluxo.** O plano `1 / (2 > 3)` mostra que o usuário primeiro tenta resolver sozinho (1) ou, se não conseguir, aciona o suporte (2), que então atende o pedido (3). No lado do suporte, a decisão é entre orientar diretamente (3.3) ou encaminhar para a mediação (3.4), que leva ao [HTA 10](#hta-10-analisar-e-resolver-disputas). O pedido só é encerrado quando o atendimento é marcado como concluído (3.5).A leitura da resposta (2.6) só acontece depois que o suporte atende o pedido (tarefa 3).
 
 ---
 
