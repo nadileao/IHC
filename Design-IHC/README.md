@@ -40,7 +40,7 @@ Construção de personas com a técnica PATHY (incluindo uma com necessidade de 
 
 ### 03 · Prototipação
 
-Cinco esboços de telas de baixa fidelidade, com versões alternativas (A e B) para algumas delas, coerentes com o MoLIC e os HTAs.
+Seis fluxos de telas de baixa fidelidade (12 imagens), com versões alternativas (A e B) para dois deles, coerentes com o MoLIC e os HTAs.
 
 | Artefato | Acesso |
 | :--- | :---: |
